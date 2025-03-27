@@ -1,0 +1,58 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="edition">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute type="xs:byte" name="id" use="required"/>
+          <xs:attribute type="xs:string" name="lang" use="required"/>
+          <xs:attribute type="xs:string" name="title" use="required"/>
+          <xs:attribute type="xs:string" name="author" use="optional"/>
+          <xs:attribute type="xs:string" name="translator" use="optional"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="d">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute type="xs:byte" name="e" use="required"/>
+          <xs:attribute type="xs:string" name="crumb" use="optional"/>
+          <xs:attribute type="xs:byte" name="root" use="optional"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="f">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="d" maxOccurs="unbounded" minOccurs="2"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="b">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded" minOccurs="1">
+        <xs:element ref="f" maxOccurs="unbounded" minOccurs="1"/>
+        <xs:element ref="b" maxOccurs="unbounded" minOccurs="0"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="editions">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="edition" maxOccurs="unbounded" minOccurs="2"/>
+      </xs:sequence>
+      <xs:attribute type="xs:string" name="ul" use="required"/>
+      <xs:attribute type="xs:string" name="checked" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="book">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="editions" maxOccurs="1" minOccurs="1"/>
+        <xs:element ref="b" maxOccurs="unbounded" minOccurs="1"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
