@@ -29,3 +29,15 @@
 .while-progress i {
   margin-right: 0.5em;
 }
+
+.popover[role="tooltip"] {
+	max-width: 500px;
+	width: 450px;
+}
+
+.btn-custom-xs {
+	padding: 0.25rem 0.4rem;
+	font-size: 0.875rem; /* Adjust as needed */
+	line-height: 1;
+	border-radius: 0.2rem;
+}

@@ -112,7 +112,7 @@
                 </div>
                 <div class="form-check form-check-inline form-control-sm">
                     <input class="form-check-input" type="checkbox" id="regEx" name="regex" value="8">
-                    <label class="form-check-label" for="regEx">RegEx</label>
+                    <button id="regExInfo" type="button" class="btn btn-link btn-custom-xs" data-toggle="popover">RegEx</button>
                 </div>
             </div>
 
@@ -162,6 +162,29 @@
         </table>
   </div>
 </div>
+
+<!-- --- -->
+
+<table id="regex_examples_list" style="display:none;">
+	<tr><th>to match:</th><th>regExp</th><th>example:</th></tr>
+	<tr class="regex-examle">
+		<td>any single character:</td>
+		<td><button type="button" class="btn btn-link">[\s\S]</button></td>
+		<td><span class="text-secondary">cakrasa</span><span class="text-primary">[\s\S]</span><span class="text-secondary">vara</span></td>
+	</tr>
+	<tr class="regex-examle">
+		<td>up to 10 characters:</td>
+		<td><button type="button" class="btn btn-link">[\s\S]{1,10}?</button></td>
+		<td><span class="text-secondary">cak</span><span class="text-primary">[\s\S]{1,10}?</span><span class="text-secondary">ara</span></td>
+	</tr>
+	<tr class="regex-examle">
+		<td>unlimited:</td>
+		<td><button type="button" class="btn btn-link">[\s\S]*?</button></td>
+		<td><span class="text-secondary">cak</span><span class="text-primary">[\s\S]*?</span><span class="text-secondary">ara</span></td>
+	</tr>
+</table>
+
+<!-- --- -->
 
 <?php
 include_once dirname(__DIR__) . "/includes/common.shoes.php";

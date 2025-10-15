@@ -98,7 +98,39 @@ $(function ()
 		{
 			myField.value += myValue;
 		}
+		document.getElementById("regEx").checked = true;
 	}
+	
+	/* ---------- */
+
+	$(function () {
+		$('[data-toggle="popover"]').popover()
+	});
+
+	$('#regExInfo').popover({
+		placement: "top",
+		trigger: 'click',
+		title: "Some useful regular expressions:",
+		content: function() {
+			// делаем наш элемент видимым в popover и присваиваем обработчик onclick
+
+			const $baseElement = $('#regex_examples_list');
+			const $clone = $baseElement.clone().show().css('display', 'block');
+
+			$clone.find('button').on('click', function(e)
+			{
+				const myField = $('input[type="search"][name="q"]')[0];
+				const myValue = e.target.innerText;
+				insertAtCursor(myField, myValue)
+				$('[data-toggle="popover"]').popover('hide');
+			});
+
+			return $clone;
+		},
+		html: true
+	});
+
+	/* ---------- */
 	
 	function to_qwerty(str)
 	{
@@ -135,8 +167,7 @@ $(function ()
 		{
 			e.preventDefault();
 			// inserts ".{1,10}?" at Ctrl+Shift+I keydown
-			insertAtCursor(this, '.{1,10}?');
-			document.getElementById("regEx").checked = true;
+			insertAtCursor(this, '[\\s\\S]{1,10}?');
 		}
 		else if (e.ctrlKey && e.shiftKey && e.keyCode === 76)
 		{
