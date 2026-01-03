@@ -4,7 +4,7 @@
 <edition id="1" lang="tib-wylie" title="mdo phal po che [1-9]" author="bcom ldan 'das" translator="bai ro tsan rak+Shi ta"/>
 <edition id="2" lang="en" title="The Flower Ornament Scripture [1-9]" author="Buddha" translator="Thomas Cleary"/>
 </editions>
-<b>
+<c>
 <f>
 <d e="1" crumb="Mahāvaipulya Buddhāvataṃsaka Sūtra">
 rgya gar skad du/ bud+d+ha a ba tang sa ka nA ma ma hA bai pu l+yaM sU tra/ bod skad du/ sangs rgyas phal po che zhes bya ba shin tu rgyas pa chen po'i mdo/
@@ -15,8 +15,8 @@ A Translation of the Avatamsaka Sutra
 Thomas Cleary
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="1">
 [1. 'jig rten gyi dbang po thams cad kyi rgyan gyi tshul rab tu byung ba'i le'u]
@@ -7164,9 +7164,9 @@ shin tu rgyas pa chen po'i mdo/ sangs rgyas phal po che zhes bya ba las/ 'jig rt
 * * *
 </d>
 </f>
-</b>
+</c>
 
-<b>
+<c>
 <f>
 <d e="1" crumb="2">
 [2. de bzhin gshegs pa'i le'u]
@@ -8935,9 +8935,9 @@ shin tu rgyas pa chen po'i mdo; sangs rgyas phal po che zhes bya ba las/ de bzhi
 * * *
 </d>
 </f>
-</b>
+</c>
 
-<b>
+<c>
 <f>
 <d e="1" crumb="3">
 [3. kun tu bzang po'i ting nge 'dzin dang / rnam par 'phrul pa rab tu 'byung ba'i le'u]
@@ -9294,9 +9294,9 @@ shin tu rgyas pa chen po'i mdo/ sangs rgyas phal po che zhes bya ba las/ kun tu 
 * * *
 </d>
 </f>
-</b>
+</c>
 
-<b>
+<c>
 <f>
 <d e="1" crumb="4">
 [4. 'jig rten gyi khams rgya mtsho shin tu bstan pa'i phyogs gsal bar bya ba yang dag par bsgrubs pa'i le'u]
@@ -10837,9 +10837,9 @@ shin tu rgyas pa chen po'i mdo/ sangs rgyas phal po che zhes bya ba las/ 'jig rt
 * * *
 </d>
 </f>
-</b>
+</c>
 
-<b>
+<c>
 <f>
 <d e="1" crumb="*">
 * * *
@@ -10857,7 +10857,7 @@ bam po brgyad pa/
 </d>
 </f>
 
-<b>
+<c>
 <f>
 <d e="1" crumb="5">
 [5. 'jig rten gyi khams rgya mtsho gzhi dang snying po me tog gi rgyan gyis brgyan pa'i yon tan rgya mtsho yongs su dag pas snang ba'i le'u]
@@ -11013,9 +11013,9 @@ shin tu rgyas pa chen po'i mdo/ sangs rgyas phal po che zhes bya ba las/ 'jig rt
 * * *
 </d>
 </f>
-</b>
+</c>
 
-<b>
+<c>
 <f>
 <d e="1" crumb="6">
 [6. 'jig rten gyi khams rgya mtsho'i khor yug gi rgyan rgya mtsho shin tu bstan pa'i le'u]
@@ -11152,9 +11152,9 @@ shin tu rgyas pa chen po'i mdo/ sangs rgyas phal po che zhes bya ba las; 'jig rt
 * * *
 </d>
 </f>
-</b>
+</c>
 
-<b>
+<c>
 <f>
 <d e="1" crumb="7">
 [7. 'jig rten gyi khams rgya mtsho'i sa gzhi'i rgyan shin tu bstan pa'i le'u]
@@ -11297,9 +11297,9 @@ shin tu rgyas pa chen po'i mdo/ sangs rgyas phal po che zhes bya ba las/ 'jig rt
 * * *
 </d>
 </f>
-</b>
+</c>
 
-<b>
+<c>
 <f>
 <d e="1" crumb="8">
 [8. zhing gi rgyud kyi gnas shin tu bstan pa'i le'u]
@@ -12044,9 +12044,9 @@ bam po dgu pa/
 * * *
 </d>
 </f>
-</b>
+</c>
 
-<b>
+<c>
 <f>
 <d e="1" crumb="9">
 [9. 'jig rten gyi khams kyi rgyud rnam par dgod pa shin tu bstan pa'i le'u]
@@ -14650,6 +14650,6 @@ shin tu rgyas pa chen po'i mdo/ /sangs rgyas phal po che zhes bya ba las/ 'jig r
 * * *
 </d>
 </f>
-</b>
-</b>
+</c>
+</c>
 </book>

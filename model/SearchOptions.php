@@ -50,7 +50,7 @@ class SearchOptions
         {
             if (self::$fWylie)
             {
-                $searchString = "(?<=^|[\\s\")(_/!*\\[\\]{},:@#])" . $searchString . "(?=[\\s\")(_/!*\\[\\]{},:@#]|$)";
+				$searchString = "(?<=^|[\\s\"\(\)_\/!*\[\]{}:@#])" . $searchString . "(?=[\\s\"\(\)_\/!*\[\]{}:@#]|$)";
 
             }
             else

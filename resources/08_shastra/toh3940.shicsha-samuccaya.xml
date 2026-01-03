@@ -4,7 +4,7 @@
 <edition id="1" lang="tib-wylie" title="bslab pa kun las btus pa" author="mkhan po zhi ba lha"/>
 <edition id="2" lang="en" title="Śikṣāsamuccaya: The Training Anthology" author="Śāntideva" translator="Charles Goodman"/>
 </editions>
-<b>
+<c>
 <f>
 <d e="1" crumb="bslab btus">
 bslab pa kun las btus pa/ mkhan po zhi ba lhas mdzad pa/
@@ -23,7 +23,7 @@ Translated by
 CHARLES GOODMAN
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="tshig le'ur byas pa">
 bslab pa kun las btus pa'i tshig le'ur byas pa/
@@ -435,8 +435,8 @@ bslab pa kun las btus pa'i tshig le'ur byas pa/ mkhan po zhi ba lhas mdzad pa rd
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bslab pa kun las btus pa">
 bslab pa kun las btus pa
@@ -462,7 +462,7 @@ bam po dang po/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="1. sbyin pa">
 [sbyin pa'i pha rol tu phyin pa]
@@ -2273,8 +2273,8 @@ bslab pa kun las btus pa las sbyin pa'i pha rol tu phyin pa'i le'u ste dang po'o
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="discipline">
 Discipline
@@ -2283,7 +2283,7 @@ Discipline
 tshul khrims kyi pha rol tu phyin pa
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="2. dam pa'i chos yongs su bzung ba">
 [dam pa'i chos yongs su bzung ba'i le'u ste gnyis pa]
@@ -2971,8 +2971,8 @@ tshul khrims kyi pha rol tu phyin pa'i le'u las/ dam pa'i chos yongs su bzung ba
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="3. chos smra ba la sogs pa bsrung ba">
 [chos smra ba la sogs pa bsrung ba]
@@ -4029,8 +4029,8 @@ chos smra ba la sogs pa bsrung ba'i le'u ste gsum pa'o// //
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="4. gnod pa spang ba">
 [gnod pa spang ba]
@@ -6360,8 +6360,8 @@ bam po lnga pa/
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="5. tshul khrims kyi pha rol tu phyin pa'i gnod pa rnam par spang ba">
 [tshul khrims kyi pha rol tu phyin pa'i gnod pa rnam par spang ba]
@@ -7907,8 +7907,8 @@ bslab pa kun las btus pa las tshul khrims kyi pha rol tu phyin pa'i gnod pa rnam
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="6. lus bsrung ba">
 [lus bsrung ba]
@@ -9539,8 +9539,8 @@ bslab pa kun las btus pa las lus bsrung ba'i le'u ste drug pa'o// //
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="7. longs spyod dang bsod nams bsrung ba">
 [longs spyod dang bsod nams bsrung ba]
@@ -10610,8 +10610,8 @@ bslab pa kun las btus pa las longs spyod dang bsod nams bsrung ba'i le'u ste bdu
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="8. sdig pa sbyang ba">
 [sdig pa sbyang ba]
@@ -12050,9 +12050,9 @@ tshul khrims kyi pha rol tu phyin pa rdzogs so// //
 *
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="9. bzod pa">
 [bzod pa]
@@ -12542,8 +12542,8 @@ bslab pa kun las btus pa las/ bzod pa'i le'u ste dgu pa'o// //
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="10. brtson 'grus">
 [brtson 'grus]
@@ -12723,8 +12723,8 @@ bslab pa kun las btus pa las/ brtson 'grus kyi le'u ste bcu pa'o// //
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="11. dgon par gnas par brjod pa zhes bya ba">
 [dgon par gnas par brjod pa zhes bya ba]
@@ -13425,8 +13425,8 @@ bslab pa kun las btus pa las/ dgon par gnas par brjod pa zhes bya ba'i le'u ste 
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="12. sems yongs su sbyang ba">
 [sems yongs su sbyang ba]
@@ -15317,8 +15317,8 @@ bslab pa kun las btus pa las/ sems yongs su sbyang ba'i le'u ste bcu gnyis pa'o/
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="13. dran pa nye bar gzhag pa">
 [dran pa nye bar gzhag pa]
@@ -16177,8 +16177,8 @@ bslab pa kun las btus pa las dran pa nye bar gzhag pa'i le'u ste bcu gsum pa'o/ 
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="14. lus yongs su dag pa">
 [lus yongs su dag pa]
@@ -17760,8 +17760,8 @@ bslab pa kun las btus pa las lus yongs su dag pa'i le'u ste bcu bzhi pa'o// //
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="15. longs spyod dang bsod nams dag pa">
 [longs spyod dang bsod nams dag pa]
@@ -18024,8 +18024,8 @@ bslab pa kun las btus pa las/ longs spyod dang bsod nams dag pa'i le'u ste bco l
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="16. bzang spyod cho ga">
 [bzang spyod cho ga]
@@ -18791,8 +18791,8 @@ bam po bcu gsum pa/
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="17. phyag 'tshal ba la sogs pa'i phan yon">
 [phyag 'tshal ba la sogs pa'i phan yon]
@@ -20185,8 +20185,8 @@ bslab pa kun las btus pa las phyag 'tshal ba la sogs pa'i phan yon gyi le'u ste 
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="18. dkon mchog gsum rjes su dran pa">
 [dkon mchog gsum rjes su dran pa]
@@ -24415,8 +24415,8 @@ bslab pa kun las btus pa las dkon mchog gsum rjes su dran pa'i le'u ste bco brgy
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="19. bsod nams spel ba">
 [bsod nams spel ba]
@@ -26030,8 +26030,8 @@ bslab pa kun las btus pa zhes bya ba byang chub sems dpa'i 'dul ba mdo sde du ma
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="'gyur byang">
 ['gyur byang]
@@ -26050,7 +26050,7 @@ slad kyi kha che'i paN+Di ta ti la ka ka la sha dang / lo tsA ba dge slong blo l
 Afterwards, the Kashmiri scholar Tilakakalaśa and Lotsawa Venerable Blo ldan shes rab performed additional editing at Sri mda monastery.}
 </d>
 </f>
-</b>
-</b>
-</b>
+</c>
+</c>
+</c>
 </book>

@@ -4,7 +4,7 @@
 <edition id="1" lang="tib-wylie" title="spyod 'jug dang de'i tshig 'grel 'jam dbyangs bla ma'i zhal lung bdud rtsi'i thig pa" author="shAn+tA de ba, kun bzang dpal ldan"/>
 <edition id="2" lang="en" title="Bodhicaryāvatāra: A Guide to the Bodhisattva Way of Life, with the Commentary: The Nectar of Manjushri’s Speech" author="Śāntideva, Khenpo Kunzang Pelden" translator="Vesna A. Wallace and B. Alan Wallace, Padmakara Translation Group"/>
 </editions>
-<b>
+<c>
 <f>
 <d e="1" crumb="spyod 'jug">
 @#/ /byang chub sems dpa'i spyod pa la 'jug pa zhes bya ba bzhugs so/ /
@@ -32,7 +32,7 @@ sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo/ /
 Oṃ Homage to the Buddha[1]
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="1. phan yon">
 1. byang chub sems kyi phan yon bshad pa'i le'u/
@@ -445,8 +445,8 @@ byang chub sems dpa'i spyod pa la 'jug pa las/ byang chub sems kyi phan yon bsha
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="2. sdig pa bshags pa">
 2. sdig pa bshags pa'i le'u/
@@ -1178,8 +1178,8 @@ byang chub sems dpa'i spyod pa la 'jug pa las/ sdig pa bshags pa'i le'u ste gnyi
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="3. yongs su bzung ba">
 3. byang chub kyi sems yongs su bzung ba'i le'u/
@@ -1569,8 +1569,8 @@ byang chub sems dpa'i spyod pa la 'jug pa las/ /byang chub kyi sems yongs su bzu
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="4. bag yod">
 4. bag yod bstan pa'i le'u/
@@ -2115,8 +2115,8 @@ byang chub sems dpa'i spyod pa la 'jug pa las/ bag yod bstan pa zhes bya ba ste 
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="5. shes bzhin">
 5. shes bzhin bsrung ba'i le'u/
@@ -3332,8 +3332,8 @@ byang chub sems dpa'i spyod pa la 'jug pa las/ shes bzhin bsrung bar bya ba ste 
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="6. bzod pa">
 6. bzod pa bstan pa'i le'u/
@@ -4832,8 +4832,8 @@ byang chub sems dpa'i spyod pa la 'jug pa las/ bzod pa bstan pa zhes bya ba ste 
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="7. brtson 'grus">
 7. brtson 'grus bstan pa'i le'u/
@@ -5697,8 +5697,8 @@ byang chub sems dpa'i spyod pa la 'jug pa las/ brtson 'grus bstan pa zhes bya ba
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="8. bsam gtan">
 8. bsam gtan bstan pa'i le'u/
@@ -7781,8 +7781,8 @@ byang chub sems dpa'i spyod pa la 'jug pa las/ bsam gtan bstan pa zhes bya ba st
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="9. shes rab">
 9. shes rab kyi pha rol tu phyin pa'i le'u/
@@ -9682,8 +9682,8 @@ byang chub sems dpa'i spyod pa la 'jug pa las/ shes rab kyi pha rol tu phyin pa'
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="10. bsngo ba">
 10. bsngo ba'i le'u/
@@ -10343,7 +10343,7 @@ byang chub sems dpa'i spyod pa la 'jug pa las/_bsngo ba zhes bya ba'i le'u ste b
 <d e="2">
 </d>
 </f>
-</b>
+</c>
 <f>
 <d e="1">
 byang chub sems dpa'i spyod pa la 'jug pa slob dpon shAn+ti de bas mdzad pa rdzogs so// //
@@ -10352,7 +10352,7 @@ byang chub sems dpa'i spyod pa la 'jug pa slob dpon shAn+ti de bas mdzad pa rdzo
 This completes the Bodhisattvacharyavatara, The Way of the Bodhisattva, which was composed by the master Shāntideva.
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="11. bsgyur byang">
 11. bsgyur byang /
@@ -10393,8 +10393,8 @@ sarba mang+ga laM// //
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="!_par byang smon tshig ni/">
 !_par byang smon tshig ni/
@@ -10432,9 +10432,9 @@ ces pa'ang karma pa bcu bdun pa chen po o rgyan 'gro 'dul phrin las rdo rje mcho
 <d e="2">
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="tshig 'grel">
 @#/ /bod+hisatwas+yasamar+thanamiprapr-it+teHbibr-it+timany+dzugurosubadeshAmr-itas+yAyashin+tubirahatismra/ /
@@ -10447,8 +10447,8 @@ Kunzang Pelden
 Translated by the Padmakara Translation Group
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="sngon brjod">
 </d>
@@ -10537,8 +10537,8 @@ bshad bya'i yan lag bshad pa dang / bshad bya dngos bshad pa gnyis las/
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="klad don">
 </d>
@@ -10546,8 +10546,8 @@ bshad bya'i yan lag bshad pa dang / bshad bya dngos bshad pa gnyis las/
 Introduction
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="yan lag">
 dang po bshad bya'i yan lag bshad pa la gsum ste/
@@ -10564,7 +10564,7 @@ slob dpon gyis chos ji ltar 'chad tshul/ slob mas ji ltar nyan tshul/ dpon slob 
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="'chad tshul">
 dang po slob dpon gyis chos ji ltar 'chad tshul la gsum ste/
@@ -10581,7 +10581,7 @@ slob dpon sangs rgyas kyis chos ji ltar 'chad tshul/ slob dpon dgra bcom pas cho
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="sangs rgyas kyis">
 dang po [slob dpon sangs rgyas kyis chos ji ltar 'chad tshul]
@@ -10598,8 +10598,8 @@ slob dpon sangs rgyas kyis cho 'phrul rnam pa gsum gyi sgo nas 'chad de/ de yang
 When teachers who are Buddhas explain the Dharma, they use three kinds of miraculous display. First, by the miraculous power of their body, they project inconceivable rays of light from the strand of hair between their eyebrows. By this means, they gather to themselves an assembly of disciples to be trained—disciples who, as yet, have not been drawn to them. Then, by performing such feats as covering the three-thousandfold universe with the power of their tongues, they inspire the assembled disciples with confidence. By the miraculous power of their all-communicating minds, they are aware of the understanding, capacity, and dormant potential of the disciples they have gathered. Finally, by the miraculous power of their speech, which is perfectly attuned to their listeners, the Buddhas teach beings, gods, nagas, and so on, each in their own tongue and with the sixty qualities of melodious speech.[24] This is how they explain the Dharma in accordance with the needs of beings.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dgra bcom pas">
 gnyis pa [slob dpon dgra bcom pas chos ji ltar 'chad tshul]
@@ -10641,8 +10641,8 @@ sangs rgyas kyi chos rab tu mang po mi shes pa ni/ stobs bcu mi 'jigs pa bzhi ma
 Finally, Arhats are ignorant of very many of the qualities of buddhahood. They do not possess the ten strengths, the four fearlessnesses, the eighteen distinctive qualities, and so forth.[25]
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="mkhas pa paN+Di tas">
 gsum pa [slob dpon mkhas pa paN+Di tas chos ji ltar 'chad pa'i tshul]/
@@ -10675,7 +10675,7 @@ mdzad pa po sus mdzad/ lung gang nas btus/ phyogs gang du gtogs/ dbu nas zhabs s
 a discourse concerning the author, the scriptural sources of the treatise, its general tendency, an overall synopsis of the text, and its purpose.
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mdzad pa po">
 dang po mdzad pa po ni/
@@ -10819,8 +10819,8 @@ Master Krishnacharya spoke of Shantideva as one who had placed Manjughosha’s f
 Shantideva left behind him three texts. Of these, two works, the Shikshasamucchaya and the Sutrasamucchaya, are respectively extensive and brief. The third work, namely the Bodhicharyavatara, is brief in form but extensive in meaning, and it is well known that in India no less than one hundred and eight commentaries were composed upon it.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="lung">
 lung gang nas btus na/
@@ -10837,8 +10837,8 @@ sangs rgyas kyi gsung rab sde snod gsum dang / khyad par mdo sde kho na las btus
 The teachings contained in the Bodhicharyavatara are drawn from the Tripitaka, especially from the sutras.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="phyogs">
 phyogs gang du gtogs na/
@@ -10855,8 +10855,8 @@ spyir theg pa che chung gnyis las theg pa chen po'i phyogs su gtogs la/ theg che
 According to the general division of the Buddhadharma into the greater and lesser vehicles, the Bodhicharyavatara belongs to the great vehicle or Mahayana, and, of the sutra and tantra sections into which the Mahayana is divided, it belongs to the sutra teachings.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsdus pa'i don">
 dbu nas zhabs su bsdus pa'i don gang yin zhe na/
@@ -10873,8 +10873,8 @@ bsam pa byang chub mchog tu sems bskyed pa dang / sbyor ba pha rol du phyin pa d
 From the point of view of inner disposition, the Bodhicharyavatara explains the generation of bodhichitta, the supreme mind of enlightenment. From the point of view of spiritual training, it discourses extensively on how to train in the six paramitas or transcendent perfections.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dgos ched">
 dgos ched su zhig gi don du mdzad ce na/
@@ -10892,10 +10892,10 @@ This instruction on how to implement the complete and unmistaken path of the Bod
 These then are the five preliminary topics of presentation, the purpose of which is to inspire disciples with confidence so that they become apt and suitable vessels for the teachings given in this text.
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="nyan tshul">
 gnyis pa slob mas ji ltar nyan pa'i tshul la/
@@ -10912,7 +10912,7 @@ kun slong dang / kun spyod gnyis/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="kun slong">
 dang po [kun slong]/
@@ -10930,8 +10930,8 @@ Beings of great scope[38] are utterly motivated by precious bodhichitta, the gat
 But now, at this present time, we have gained a human form with freedoms and advantages. We have met a fully qualified teacher, and the practice of the perfect Dharma is open to us. Now that we have such good fortune, we must not allow ourselves to sink into laziness and procrastination. We must study and implement the profound teachings of the sacred Dharma so that we will be able to free all living beings, our old mothers, from the karmic perceptions, the sufferings, and habitual tendencies of each of the six realms of samsara, and to place these beings finally in the state of perfect enlightenment. To generate bodhichitta by pondering in this way is a crucial point of the highest importance.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="kun spyod">
 gnyis pa kun spyod la'ang /
@@ -10948,7 +10948,7 @@ spang bya'i kun spyod dang / blang bya'i kun spyod gnyis/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="spang bya">
 dang po spang bya'i kun spyod la
@@ -10965,7 +10965,7 @@ snod kyi skyon gsum/ dri ma drug /mi 'dzin pa lnga dang bcas pa las/
 With regard to conduct that is to be avoided, one speaks of the three defects of a vessel, the six stains, and the five ways of misremembering.
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="snod">
 snod kyi skyon gsum ni/
@@ -11005,8 +11005,8 @@ If the reason for listening to the teaching is to improve your situation in life
 Consequently, when receiving the teachings, it is essential to avoid such shortcomings. In the middle-length Prajnaparamita-sutra, Lord Buddha instructed us as follows: “Listen closely and well, and keep this in your minds, for I will speak to you.” And the holy teachers have said, “If you do not practice the Dharma according to the Dharma, the Dharma itself will create the cause of your falling once more into the lower realms.”
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dri ma">
 dri ma drug ni/
@@ -11045,8 +11045,8 @@ zhes pa ste/ bla ma dang mched grogs las nga lhag snyam pa'i nga rgyal dang / ch
 This refers respectively to the pride of thinking oneself superior to the teacher and to one’s spiritual companions. It refers to a lack of confidence in the Dharma, the teacher, and one’s fellow disciples. It refers also to an absence of keen interest and endeavor in the Dharma, and indicates distraction when the mind runs after the outer objects of the senses and is not concentrated, or when it sinks into a state of dullness and torpor. It refers too to the dismay one might feel at the length of the teaching session, or at the discomforts of hunger or thirst, or of heat or cold, on account of which one does not want to listen or else listens with displeasure. All these are, in the present life, hindrances to the teachings on concentration, wisdom, and liberation, all of which are perfect in word and meaning. As a result, one will fail to meet with the Dharma in one’s future lives and will wander in endless samsara. Therefore one must control one’s behavior, have an attitude of utmost respect, and listen to the teachings in the proper manner.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="mi 'dzin pa">
 mi 'dzin pa lnga ni/
@@ -11081,9 +11081,9 @@ de lnga rim par/ tshig snyan cing legs pa re ched du 'dzin cing don zab mo la rt
 Consider these five points in order: (1) When you remember beautiful and elegant phrases without examining their profound meaning, your mind is not benefited. (2) When you dismiss the wording, thinking it of small importance, you may try to grasp the “profound meaning,” but in failing to rely on the words, you will fail also to grasp the sense. (3) If you remember the various teachings without understanding whether they are of expedient or ultimate meaning, or whether they are indirect teachings to be interpreted,[39] you will certainly go contrary to the perfect Dharma. (4) If you remember in a confused, disordered manner, the sequence of the teachings will not be harmonious and contradictions will arise. (5) If, finally, you remember amiss, wrong ideas will proliferate and corrupt your understanding and you will bring the teaching into disrepute. Consequently, all such faults are to be rejected.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="blang bya">
 gnyis pa blang bya'i kun spyod la
@@ -11100,7 +11100,7 @@ gnyis pa blang bya'i kun spyod la
 This refers to the four attitudes, the six paramitas, and other rules of conduct.
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="'du shes">
 dang po 'du shes bzhi brten pa ni/
@@ -11122,8 +11122,8 @@ zhes so/ /
 It is said in the Gandavyuha-sutra, “Son of my lineage, you should consider yourself as a sick man and the Dharma as your medicine. You should consider your assiduous practice as a medicinal cure, and your spiritual guide as a wise physician.”
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="pha rol du phyin pa">
 pha rol du phyin pa drug
@@ -11194,8 +11194,8 @@ Accordingly, when the listeners offer a seat to the teacher who will explain the
 As for the teachers, when they explain the Doctrine, they are practicing generosity. They practice discipline when they teach in a manner free from afflictive emotion, and patience when they put up with fatigue and other irritants. They practice diligence through the joy they put into their teaching, and concentration by teaching without being distracted from the explanation of Dharma. Finally, by opening up the meaning of the words, they practice wisdom. Thus in the activity of the teacher also the paramitas are complete.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="gzhan">
 spyod lam gzhan bstan pa ni/
@@ -11221,11 +11221,11 @@ To those who carry weapons, staffs, or parasols,
 To those who are with covered heads.
 </d>
 </f>
-</b>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="'chad nyan tshul">
 gsum pa dpon slob gnyis kyis 'chad nyan ji ltar bgyi ba'i tshul la/
@@ -11275,9 +11275,9 @@ As for the three-point structure, the first is to make an outline of the text di
 My kind teacher Patrul Rinpoche, who understood the noncontradictory nature of the teachings, accepted all scriptural traditions as instructions for his personal practice. He was an impartial master of all doctrines, whether of the Old or New Translation schools. When he was asked how he taught the present text, I heard him say that with Sakyapas, he used the commentary of Jetsün Sonam Tsemo, with Gedenpas (Gelugpas) he used the Dartik,[40] and with Kagyupas he used the commentaries of Pawo Tsuglag Trengwa and others. Formerly, when teaching Nyingmapas in the Shri Simha college of Dzogchen Monastery, he used to teach according to our own Nyingma tradition. Later, he would base his explanation of the Bodhicharyavatara mainly on the commentary of Ngulchu Thogme, according to the special needs of time, place, and the people concerned. It was thus that he taught according to various interpretations. It was mainly on the basis of Ngulchu Thogme’s commentary that he gave a six-month exposition of the Bodhicharyavatara to Chogyur Lingpa[41] (who was mentioned in the vajra prophecies), to the noble sons of his lineage, and to other masters and disciples such as myself. Regarding the explanations given in the present work, I was afraid of being excessively verbose, and in any case, a long disquisition laden with quotations would be superfluous for learned readers. I therefore decided on a simple word-for-word commentary that should be of interest for beginners, and which, being easy to understand, should be an aid to inner experience, while at the same time avoiding detailed discussions.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="bshad bya dngos">
 gnyis pa bshad bya dngos bshad pa la/
@@ -11294,7 +11294,7 @@ bstan bcos kyi mtshan dang / mtshan de ldan gyi gzhung bshad pa gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mtshan">
 dang po [bstan bcos kyi mtshan] la
@@ -11311,7 +11311,7 @@ mtshan dngos dang / zhar byung 'gyur phyag gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mtshan dngos">
 dang po [mtshan dngos] la
@@ -11442,8 +11442,8 @@ mtshan rgya skad sor bzhag du smros pas mtshan gnyis zlos par 'gyur ro zhe na/ d
 It might be objected that it is redundant to give the title in Sanskrit (as well as in Tibetan). But this is not so. On the contrary, there are four reasons why titles are given in Sanskrit. First, because India was the pure wellspring of the Dharma, the Sanskrit title inspires the reader with confidence in the perfect authenticity of the text. Second, all the Buddhas of the three times set forth their Doctrine in Sanskrit, the divine and well-structured tongue. Therefore if we ourselves pronounce and explain the title in that language, the enunciation itself will act as a vehicle of blessings for our minds. Third, in view of the fact that in the ages to come, the Dharma will again be taught in Sanskrit,[45] a predisposition for it is thus imparted to us. Finally, given that all the texts have, like this one, their names in Sanskrit, once we appreciate the difficulty even of pronouncing their titles, let alone the understanding and explaining of their contents, we will be inspired with gratitude toward the translators.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="'gyur phyag">
 gnyis pa 'gyur phyag ni/
@@ -11507,9 +11507,9 @@ bsam pa byang chub mchog tu sems bskyed cing sbyor ba phyin drug gi nyams len la
 Homage is also made to those heroic, indefatigable beings, the Bodhisattvas, who generate the supreme thought of enlightenment and who strive in the practice of the six paramitas in order to attain enlightenment. To all these, and to the sacred Dharma residing in their mind streams, the translator pays homage before beginning his translation—lest there be any obstacle to the completion of the work.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="gzhung bshad">
 gnyis pa mtshan de ldan gyi gzhung bshad pa la/
@@ -11526,7 +11526,7 @@ bstan bcos rtsom pa la 'jug pa'i yan lag /brtsams bya bstan bcos lus kyi rang bz
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="rtsom pa la 'jug pa">
 dang po [bstan bcos rtsom pa la 'jug pa'i yan lag] la
@@ -11543,7 +11543,7 @@ mchod par brjod pa/ brtsom par dam bca' ba/ khengs pa bskyung ba/ spro ba bskyed
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mchod brjod">
 dang po [mchod par brjod pa] ni/
@@ -11632,8 +11632,8 @@ People who have merit are the ones who gain their purpose.
 The [Tibetan] continuative particle occurring at the end of the second line of the root stanza indicates that, having paid homage, Shantideva will now compose his treatise.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dam bca'">
 gnyis pa [brtsom par dam bca' ba] ni/
@@ -11696,8 +11696,8 @@ It is as if they carve a picture on a stone:
 They do not turn from it though it may cost their lives.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="khengs bskyung">
 gsum pa [khengs pa bskyung ba] ni/
@@ -11761,8 +11761,8 @@ But there’s no room for this in commentary.
 What is the reason for taking a humble attitude? It is said that “On the peak of pride, the water of good qualities does not stay.” When the mind is puffed up with conceit, it cannot contain the water of the excellent qualities of the Dharma of transmission and realization. Rather it is liable to be deceived by Mara. While in this state, therefore, even if one composes treatises, they will be of no benefit to others. Accordingly, it is in order to eliminate such faults that Shantideva adopts a humble attitude.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="spro">
 bzhi pa [spro ba bskyed pa]/
@@ -11809,9 +11809,9 @@ These four prerequisites also exemplify the fourfold interrelated purpose.[53] T
 According to different masters, the fourfold interrelated purpose aims to inspire others with confidence, to remove doubts regarding the meaning, to obviate wrong thoughts, and to embellish the text.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="lus">
 gnyis pa rtsom bya
@@ -11846,10 +11846,10 @@ ces gsungs pa ltar/ byang chub kyi sems rin po che ma skyes pa bskyed par byed p
 Thus the ten chapters of the treatise are organized into four parts. Three chapters are devoted to the generation of bodhichitta where it has not previously existed; three chapters are devoted to the prevention of bodhichitta from weakening once it has been brought to birth; three chapters are devoted to the intensification of bodhichitta thus preserved; and finally, there is a concluding chapter in which the resultant merit is dedicated for the benefit of others. I propose to explain the Bodhisattvacharyavatara, the Way of the Bodhisattva, in the same way.
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="ma skyes pa bskyed">
 dang po byang chub kyi sems rin po che ma skyes pa bskyed par byed pa'i le'u gsum las/
@@ -11858,8 +11858,8 @@ dang po byang chub kyi sems rin po che ma skyes pa bskyed par byed pa'i le'u gsu
 PART ONE. The Generation of Bodhichitta Where It Has Not Previously Existed
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="phan yon">
 dang po brod pa bskyed pa phan yon gyi le'u la/
@@ -11876,7 +11876,7 @@ gzhung dang mtshan no/ /
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gzhung">
 dang po [gzhung] la
@@ -11892,7 +11892,7 @@ byang chub sems kyi rten dang / brten pa sems bskyed kyi phan yon bshad pa gnyis
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="rten">
 dang po [byang chub sems kyi rten] la
@@ -11909,7 +11909,7 @@ lus rten bshad pa dang / sems rten bshad pa gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="lus rten">
 dang po [lus rten bshad pa] ni/
@@ -11996,8 +11996,8 @@ So like the swan that milk from water strains,
 Pursue the goal that you yourself desire.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="sems rten">
 gnyis pa [sems rten bshad pa] ni/
@@ -12034,9 +12034,9 @@ Therefore if the state of mind of actually wanting to accomplish something good 
 The ten innermost riches are the three actions [of leaving, seeking, and obtaining], the four objectives, and the three vajras. The three actions are to leave the fellowship of humans, to seek the fellowship of dogs, and to obtain the fellowship of the enlightened. The four objectives are to turn your mind to the Dharma, to turn your Dharma to the condition of a beggar, to orient your beggarly condition toward your death, and to aim to die in a lonely cave. Regarding the three vajras, you start with the vajra of no procrastination, you conclude with the vajra of no need to be ashamed, and you take as your companion the vajra of primordial wisdom. The three fierce mantras are “Whatever has to happen, let it happen!”, “Whatever the situation is, it’s fine!”, and “I really don’t need anything!”
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="phan yon">
 gnyis pa brten pa sems bskyed kyi phan yon la/
@@ -12053,7 +12053,7 @@ sems bskyed spyi'i phan yon/ smon 'jug so so'i phan yon/ sems bskyed rgyud ldan 
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="spyi">
 dang po [sems bskyed spyi'i phan yon] la/
@@ -12070,7 +12070,7 @@ dge ba gzhan las khyad par du 'phags pa'i phan yon/ ming don gnas 'gyur ba'i pha
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="khyad 'phags">
 dang po [dge ba gzhan las khyad par du 'phags pa'i phan yon] ni/
@@ -12145,8 +12145,8 @@ des na rang gi srid pa'i sdug bsngal skye rga na 'chi la sogs pa brgya phrag man
 [verse 8] Consequently, for those who wish and strive to halt the many ills of their own existence (the sufferings of birth, sickness, aging, and death), and for those who wish to clear away the sorrows of other beings in this and future lives—in short, for those who wish that, both now and ultimately, the myriad kinds of bliss be enjoyed by everyone, themselves and others—bodhichitta is the method to adopt. It must be seized by the mind and never relinquished.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="'gyur ba">
 gnyis pa [ming don gnas 'gyur ba'i phan yon] ni/
@@ -12177,8 +12177,8 @@ lus la pho mo/ na tshod la rgan gzhon/ rigs la bzang ngan med par/ rang rgyud la
 [verse 9] It does not matter whether they are men or women, young or old, or whether their position in society is high or low. If the jewel of bodhichitta arises in the minds of suffering beings, who till then were languishing in the prison of samsara, bound by the chains of karma and defilement, they instantly undergo a change of identity. Henceforth, they are crowned with the name “Child of the Sugatas.” They are called Bodhisattvas, heroes and heroines of enlightenment. Their status changes: they become objects of reverence and offering for the whole world, both gods and human beings. They are moreover said to be worthy of reverence even by the Buddhas themselves, for the latter have bodhichitta as their master.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dpe">
 gsum pa [phan yon dpe'i sgo nas bstan pa] la
@@ -12195,7 +12195,7 @@ gser 'gyur gyi dpes sangs rgyas thob par bstan pa/ rin po che'i dpes don che bar
 Here there are six sections: (1) the example of alchemy, showing that bodhichitta leads to the attainment of buddhahood; (2) the example of a jewel, showing bodhichitta’s great worth; (3) the example of the miraculous fruit-bearing tree, showing that bodhichitta’s root of virtue is inexhaustible and constantly increases; (4) the example of the heroic bodyguard, showing how bodhichitta overpowers the kind of evil that is definite [in being certain to ripen in an experienced effect]; (5) the example of the fires at the end of the kalpa, showing how bodhichitta eradicates the kind of evil that is indefinite [and may not itself ripen in a corresponding effect]. Finally, (6) there are further examples that are not found in the root verses but are mentioned in other texts.
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gser 'gyur">
 dang po [gser 'gyur gyi dpes sangs rgyas thob par bstan pa] ni/
@@ -12226,8 +12226,8 @@ dpe gser 'gyur gyi rtsi/ dpe can byang chub kyi sems/ mtshungs chos ngan pa zhig
 [verse 10] Here, bodhichitta is described using an example taken from alchemy, the point of comparison being the transformation of something bad into something good. By means of the supreme substance, the elixir of the alchemists (the gold-producing mercury), a single ounce of iron may be transmuted into a thousand ounces of pure gold. In the same way, if, with bodhichitta, one lays hold of this lowly human body composed of numerous impure substances, and if, instead of rejecting it as the Shravakas do, one adopts it throughout the course of many lifetimes in order to secure the welfare of others, this [human] body will itself become the body of the Buddha. It becomes something endowed with unimaginable qualities of excellence: a priceless wish-fulfilling jewel that protects from all the drawbacks of samsara and nirvana and grants the supreme perfection of the twofold aim.[57] Since it is able to effect such an extraordinary transformation, the extraordinary elixir of bodhichitta is something to be tightly grasped, never to be relinquished. We should therefore pledge ourselves to take hold of it as Shantideva says.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rin po che">
 gnyis pa [rin po che'i dpes don che bar bstan pa] ni/
@@ -12258,8 +12258,8 @@ dper na rgya mtsho'i gling du 'gro ba'i tshong pa rnams kyis ded dpon mkhas pa b
 [verse 11] The image adopted here is that of merchants journeying to an island somewhere in the ocean. They rely on a captain, in other words, a skillful leader, and hold in high esteem the jewels that he has appraised. In the same way, those who wish to make the voyage to the isle of liberation and omniscience first rely on the only guide, the peerless Buddha. With his boundless knowledge of omniscience, he has well examined, without error or confusion and for aeons of time, all the sublime teachings. And he has seen that, since bodhichitta is that by which buddhahood itself is obtained, it is supremely beneficial and more precious than any other teaching. For this reason, he has taught it to those who might be trained. Therefore, those who wish to dispel all the sufferings implicit in the condition of beings wandering in the six realms must take to heart this precious mind of enlightenment. And they must do this properly according to the three stages of preparation, actual commitment, and conclusion.[58] They must hold to it tightly and constantly with mindfulness, vigilant introspection, and carefulness, without ever letting it go.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="ljon shing">
 gsum pa ['bras bu can gyi ljon shing gi dpes dge rtsa mi zad cing gong du 'phel bar bstan pa] ni/
@@ -12290,8 +12290,8 @@ byang chub sems kyis ma zin pa'i dge ba gzhan gang ji snyed pa kun ni chu shing 
 [verse 12] All other virtues of whatever kind that are not informed by bodhichitta are like the plantain tree, which bears fruit only once. When the fruit ripens, the tree gives nothing more and dies from its roots. Likewise, virtuous action tending to happiness gives its result in the form of high rebirth in samsara, but then it dwindles and is exhausted. Furthermore, the virtue of the Shravakas and Pratyekabuddhas ripens as the exhaustion of all the aggregates, which disappear without leaving any remainder. By contrast, virtue that is infused with bodhichitta[59] is like a perfect, miraculous fruit-bearing tree, the fruits of which never vanish but become ever more plentiful. Even after giving its fully ripened effect in the form of abundant but temporary happiness in the divine and human states, it is still not exhausted. Its (karmic) effects similar to the cause[60] continue to grow and increase without end, until a vast result is finally produced: the mass of merit that constitutes the body of a Buddha.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dpa' bo">
 bzhi pa [skyel ma dpa' bo'i dpes nges pa'i sdig pa zil gyis gnon par bstan pa] ni/
@@ -12322,8 +12322,8 @@ chos spang gi las sogs dkon mchog gsum la gnod pa dang mtshams med pa la sogs pa
 [verse 13] Unbearable and dreadful wickedness, such as the evil of rejecting the Dharma or harming the Three Jewels, or the sins of immediate effect,[61] are certain to produce the result of great suffering in the Hell of Unrelenting Pain.[62] Nevertheless, just like a murderer who, having recourse to the protection of a powerful escort, is instantaneously delivered from all fear of harm even if he meets the avenging son of his former victim, in the same way, whoever has precious bodhichitta is instantly freed from the sufferings of hell, which are the wages of great evil. Birth in hell does not occur; or if it does, one is instantly freed, having suffered no more than the time it takes for a ball of silk to bounce back up from the floor! This being so, how could those who are fearful of the effects of their evil actions not rely on bodhichitta? It is surely the rational thing to do!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="me">
 lnga pa [dus mtha'i me'i dpes ma nges pa'i sdig pa drung nas 'byin par bstan pa] ni/
@@ -12350,8 +12350,8 @@ byang chub kyi sems des ni dus mtha'i ste bskal pa 'jig pa'i mes snod kyi 'jig r
 [verse 14] The conflagration at the end of time consumes the world without leaving anything behind—not even the ashes of burnt grass. In the same way, and in addition to the evils described above, bodhichitta definitely and completely consumes or purifies in a single instant all other extreme negativities, such as slaughtering a hundred people. No remainder is left behind to be experienced. How, therefore, can anyone do without bodhichitta? It is surely a universal necessity.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="gzhan">
 drug pa ['dir ma bshad pa gzhung gzhan du zhal 'phang ba] ni/
@@ -12415,10 +12415,10 @@ The protector Maitreya taught to him the benefits of bodhichitta at great length
 There are, however, three main benefits of bodhichitta. It causes one to attain buddhahood; it increases virtue; and it purifies evil.
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="so so">
 gnyis pa smon 'jug so so'i phan yon la/
@@ -12435,7 +12435,7 @@ smon 'jug gi dbye ba/ phan yon gyi khyad par/ lung rigs kyi sgo nas bsgrub pa da
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="dbye ba">
 dang po [smon 'jug gi dbye ba] ni/
@@ -12452,7 +12452,7 @@ de la theg pa chen po'i lam dang 'bras bu'i yon tan thams cad byang chub mchog t
 Since all the qualities of the Mahayana path and its result arise from cultivating a state of mind turned to supreme enlightenment, one must generate bodhichitta at the very beginning. Bodhichitta is then classified, first, as “plain” [and easily cultivated] or relative bodhichitta, which is engendered on the basis of prompting; and, second, as “subtle” or ultimate bodhichitta, which is gained through [the recognition of] ultimate reality.
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="rags pa">
 dang po [rags pa brda las byung ba kun rdzob sems bskyed] ni/
@@ -12488,8 +12488,8 @@ When a specific attitude of bodhichitta is generated, it is, according to Asanga
 As for the defining characteristics of bodhichitta, it has two aims or features. Through compassion, it focuses on the welfare of others; through wisdom it focuses on perfect enlightenment. As it is said (in the Sutralankara), “It is a mental state endowed with two aims.” And further, “The cultivation of bodhichitta is the wish to attain perfect buddhahood for the sake of others.”
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="phra ba">
 gnyis pa don dam sems bskyed ni/
@@ -12593,9 +12593,9 @@ In brief, therefore, and in accordance with the distinction between intention an
 One can, from the standpoint of their different aspects, distinguish two kinds of bodhichitta, three kinds of ethical discipline, as well as the bodhichitta vows or precepts. Nevertheless, they are all one according to their nature. For example, to practice virtue while wishing to attain perfect buddhahood for the sake of others is bodhichitta both in intention and in action. To bind one’s mind with bodhichitta, to cultivate virtue, and to bring benefit to others are the three kinds of ethical discipline. And all of these restrain the negative actions and habitual tendencies of one’s mind stream and are therefore referred to as the vows or precepts of a Bodhisattva. Although these are all essentially one, they are distinguished in a threefold manner according to aspect—just as a wishing jewel can be said to possess the three qualities of curing diseases, granting all one’s needs and wishes, and shedding light in the darkness.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="khyad par">
 gnyis pa [phan yon gyi khyad par] ni/
@@ -12678,8 +12678,8 @@ de lta na'ang 'jug sdom blangs nas sbyin sogs la dus dang dus su cung zad cung z
 On the other hand, it is said that if one takes the vow of active bodhichitta but then neglects even a slight and sporadic practice of generosity and the other paramitas, not only is there no increase of merit, but the great downfall of failing to practice virtue occurs.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="lung rigs">
 gsum pa lung rigs kyi sgo nas bsgrub pa la/
@@ -12696,7 +12696,7 @@ lung gi sgo nas bsgrub pa dang / rigs pa'i sgo nas bsgrub pa gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="lung gi sgo nas">
 dang po [lung gi sgo nas bsgrub pa] ni/
@@ -12728,8 +12728,8 @@ In the Sutra Requested by Subahu.
 As it is said in the above sutra, “If, for the benefit and happiness of infinite beings, I don the armor (of courage), the roots of virtue, which are forever directed at the benefit and happiness of all beings, will also be endless. They will increase and spread at all times, day and night, even when I am sleeping or being careless. It is thus that they will be perfected.”
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rigs pa'i sgo nas">
 gnyis pa rigs pa'i sgo nas sgrub pa la/
@@ -12746,7 +12746,7 @@ smon sems kyi phan yon rigs pa'i sgo nas bsgrub pa dang / 'jug sems kyi phan yon
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="bsgrub pa">
 dang po [smon sems kyi phan yon rigs pa'i sgo nas bsgrub pa] ni/
@@ -12916,8 +12916,8 @@ The whole of space would be replete with it
 And even then there would be more besides.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsgrub pa">
 gnyis pa ['jug sems kyi phan yon rigs pa'i sgo nas bsgrub pa] ni/
@@ -13042,11 +13042,11 @@ des phan yon bstan zin la/ de ltar phan yon shes pa'i don po rin chen byang chub
 In these verses Shantideva sets forth the benefits of bodhichitta. The reason why it is important for us to know about them is that if we actually have the thought that, come what may, we must give rise to bodhichitta both in ourselves and others, we will yearn for whatever will engender it wherever it has been previously absent. And we will intensify it where it has arisen, without ever letting it decline. When we have such an interest and longing, so great that none can prevent it—like hungry and thirsty people craving food and water—this is truly the result of understanding the benefits of bodhichitta. On the other hand, it has been said that simply to have an intellectual knowledge of all this and to explain it to others is of no help whatsoever. We must train our minds in bodhichitta over and over again.
 </d>
 </f>
-</b>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="che ba">
 gsum pa sems bskyed rgyud ldan gyi gang zag gi che ba ni/
@@ -13275,10 +13275,10 @@ It is generally said that Tibet is the field of the benevolent activity of the n
 It is said in the sutras moreover that, in the age of decadence, Bodhisattvas may make mistakes when they relate with other people. It is therefore important not to dwell on the faults of others, but to train in pure perception of them. It is said, furthermore, that we should revere the Bodhisattvas, imitating the brahmins of India who, taking the moon as their deity, venerate it while it is waxing, but not when it is full. Even if Bodhisattvas do have faults, they will nevertheless become Buddhas. Their faults, after all, are compounded phenomena and will consequently be worn away by dint of practicing the path. Nobody becomes enlightened by being faultless from the beginning. It is therefore said that to avoid dwelling on the defects and faults of others is a most important pith instruction.
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="mtshan">
 le'u'i mtshan ni/
@@ -13295,9 +13295,9 @@ byang chub sems dpa'i spyod pa la 'jug pa las byang chub sems kyi phan yon bshad
 This ends the first chapter from the Bodhicharyavatara, called “The Excellence and Benefits of Bodhichitta.”
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="bshags pa">
 ! le'u gnyis pa sdig pa bshags pa'i le'u la/
@@ -13314,7 +13314,7 @@ gzhung dang / mtshan no/ /
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gzhung">
 dang po [gzhung] la/
@@ -13331,7 +13331,7 @@ mchod pa 'bul ba'i yan lag /phyag 'tshal ba'i yan lag /skyabs su 'gro ba'i yan l
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mchod pa">
 dang po [mchod pa 'bul ba'i yan lag] la/
@@ -13348,7 +13348,7 @@ dngos su 'byor pa'i mchod pa/ yid kyis sprul pa'i mchod pa/ smon lam stobs kyis 
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="dngos">
 dang po [dngos su 'byor pa'i mchod pa] la/
@@ -13365,7 +13365,7 @@ bdag pos yongs su bzung ba'i mchod pa/ bdag pos yongs su ma bzung ba'i mchod pa/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="bzung ba'i">
 dang po [bdag pos yongs su bzung ba'i mchod pa] ni/
@@ -13425,8 +13425,8 @@ Finally, one makes offerings to the Bodhisattvas, the Buddha’s offspring, who 
 The third purity is that of the offering substances themselves. An excellent offering is one of good provenance and of immaculate quality, well-prepared or well-arranged. Good provenance means that the offerings have not been procured through wrong livelihood or evil actions. The offerings are of immaculate quality because they are clean, because they are offered without pride or ostentation, and because they are not spoiled by niggardliness and reluctance.[74] If we offer the best of what we have—of all that we hold most dear and rare—the offering itself acts as an antidote to avarice. If, on the other hand, we make offerings of things like moldy cheese, plants with withered leaves, and so on, our merit will diminish. This therefore is something to be avoided. Finally, the offerings should be well-arranged. The seven offering bowls should be clean and properly filled—set out evenly and in an orderly fashion. If they are insufficiently filled with water or grains, this will lead to poverty. If they overflow, our discipline will go astray. If the offered water is spilled, tumors will result, and so on. The preparation and arrangement of offerings should be free of all such faults.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="ma bzung ba">
 gnyis pa [bdag pos yongs su ma bzung ba'i mchod pa] ni/
@@ -13592,8 +13592,8 @@ de dag 'bul dgos pa'i rgyu mtshan bdag ni sngon gyi sbyin pa la sogs pa'i bsod n
 [verse 7] What is the purpose for the sort of offerings just described? Shantideva explains that he is destitute of merit, which results from generosity and other virtues performed in the past. For this reason he is poor in his present life and is, as it were, the least among beggars. Apart from the items just described, he has nothing fit to offer. He therefore prays that his offerings be acceptable to the Buddhas our Protectors and their Bodhisattva heirs. From the first moment that they generated bodhichitta, they have—free from any kind of self-regard—thought only of how they might be of help to beings. They wish only that beings fufill the two accumulations of wisdom and merit and purify defilements. Shantideva prays that, though they are free from clinging to the reality of things and have no needs of any kind, they might, through their miraculous powers and from their pure abodes, accept these offerings of all things wild and unowned, and that they might do so in order to allow him to purify defilement and accumulate merit. If, in our turn, we are able to make offerings in this way, it follows that, since the Buddhas and Bodhisattvas have wisdom and compassionate skill and are masters of inconceivable miraculous powers, they will also accept our oblation, thereby allowing us to fulfill our stock of merit and to cleanse our defilements.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="lus">
 gsum pa [lus 'bul ba'i mchod pa] ni/
@@ -13647,9 +13647,9 @@ de ltar lus 'bul ba ni bsrung ba rnams kyi mchog yin par yang gsungs/
 [verse 9] Now that they have fully accepted him as one of their servants and have made him their own, Shantideva promises that he will act according to their pleasure. For, although he is himself still in samsara, he will work for the benefit of others, undaunted by the sufferings of existence. He promises to accomplish the welfare and happiness of beings. But seeing that any negative action that he has committed is prejudicial to the good name and reputation of the Buddhas and Bodhisattvas, and since (on account of his sins) he is powerless to accomplish even his own good, let alone that of others, he confesses all the evil of his past and resolves henceforth to abstain from it. In fact, it has been said that the offering of one’s own body is the best way to protect oneself [from the results of former evil].
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="sprul pa">
 gnyis pa yid kyi sprul pa'i mchod pa la/
@@ -13666,7 +13666,7 @@ khrus dang sku phyi sogs 'bul ba dang / nyer spyod kyi mchod pa gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="khrus">
 dang po [khrus dang sku phyi sogs 'bul ba] ni/
@@ -13781,8 +13781,8 @@ des rang gzhan sems can thams cad kyi mtshan dpe'i rgyan bzang thob par shog cig
 [verse 13] To the sambhogakayas, who appear in the guise of chakravartins and who are given to the enjoyment of pleasures, offerings are made of incomparable vestments of celestial and priceless materials, extremely fine, light, and soft to the touch, in various colors and designs—all in all, the five silken garments: the short-sleeved garment that can bestow upon the body the bliss of samadhi, the upper garment of white silk wrought with golden traceries, the many-colored lower garment, the pendants of different silks, and a sash (there may also be a silken shawl instead of the short-sleeved shirt). When making this offering of raiment, one should wish that all beings, oneself and others, be clothed with a sense of moral conscience regarding their own conduct and the opinion and feelings of others. As for ornaments and jewels, the eight precious adornments—the golden diadem inlaid with lapis lazuli and so forth; earrings; the short, medium, and long necklaces; bracelets; anklets; and belts—are offered many a hundredfold. With such as these, one adorns the noble Samantabhadra, Manjughosha, Avalokita Lord of the World, together with all the others: Vajrapani, Kshitigarbha, Maitreya, Akashagarbha, and Sarvanivaranavishkambhin. So doing, one should wish that all beings be graced with the major and minor marks of enlightenment.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="nyer spyod">
 gnyis pa [nyer spyod kyi mchod pa] ni/
@@ -13967,9 +13967,9 @@ When the offering is complete, we too should make the wish that all beings, ours
 Shantideva himself was a yogi whose spiritual practice and manner of life were of an extreme simplicity. He did not teach extensively about actual material offerings. Offerings imagined by the mind, on the other hand, are the best way to complete the great accumulation of merit without difficulty. Such is the offering of a Bodhisattva skilled in means. We should therefore refrain from thinking that such offerings are unimportant and instead meditate upon them repeatedly. It is not necessary, however, to concentrate upon them uninterruptedly as we do with a yidam deity. If we hold the offerings to the Buddhas and Bodhisattvas before our minds for brief moments, it is not necessary to labor hard and exhaust ourselves in order to gather a great stock of merit. Thus the accumulations will be complete, defilements will be purified, and bodhichitta will arise in our minds. We will understand the teachings and remember them, and every other excellent quality will arise. It is important therefore to visualize all such offerings repeatedly, for this is of the greatest benefit and is easy to do. It is said that if we make such offerings, they are more vast and pure than any other offering deriving from wrong livelihood and negative actions, or from offerings made with pride and ostentation.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="smon lam stobs">
 gsum pa smon lam stobs kyi mchod pa ni/
@@ -14033,8 +14033,8 @@ May the rain of flowers fall upon all painted images and statues, be they cast i
 We should then make the wish that a rain of gems, flowers, perfumes, various garments, ornaments, grains, and medicines fall in an unceasing stream of offering upon all these representations. If our ethical discipline is pure, we will certainly accomplish all our aspirations. And even if this does not happen, we will be benefited.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bla med">
 bzhi pa bla na med pa'i mchod pa ni/
@@ -14088,8 +14088,8 @@ And offer to the Buddhas and their Bodhisattva children.
 Moreover, since cultivation of bodhichitta, meditation on compassion, remembering the words, and understanding the meaning, of the Dharma are themselves unsurpassable offerings, we should persevere in them.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bstod pa">
 lnga pa bstod pa dbyangs kyi mchod pa ni/
@@ -14120,9 +14120,9 @@ sangs rgyas bcom ldan 'das rnams sku mtshan dpe/ gsung tshangs dbyangs thugs rna
 [verse 23] To those who are endowed with excellent qualities as abundant as the ocean, namely the Buddhas, whose bodies are adorned with the major and minor marks of enlightenment, whose speech is as melodious as the voice of Brahma, and whose minds are omniscient wisdom—to them and to their Bodhisattva offspring, Shantideva says that he will offer tuneful praises in the six methods of vocalization: rising, pausing, changing, slurring, high, and low—and any number of other ways. And he prays that clouds of tuneful eulogy rise up constantly and without fail before the Victorious ones and their Bodhisattva children.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="phyag">
 gnyis pa phyag 'tshal ba'i yan lag ni/
@@ -14200,8 +14200,8 @@ While performing the prostration in five points, we should wish and say, “May 
 Regarding the benefits of performing prostrations it has been said that “through prostration you will be born a chakravartin as many times as there are atoms [beneath your outstretched body] from the surface of the earth down to the foundation of the universe;[91] and then finally you will attain to supreme peace.”
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="skyabs 'gro">
 gsum pa skyabs su 'gro ba'i yan lag ni/
@@ -14258,7 +14258,7 @@ de lta bu'i skyabs 'gro de 'chad par byed pa la spyi don dang / gzhung don gnyis
 The topic of refuge will be explained in two parts: a general outline followed by an exposition of the teaching on refuge in the present text.
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="spyi">
 dang po [spyi don] la/
@@ -14275,7 +14275,7 @@ rgyu/ ngo bo/ /dbye ba/ so so'i don bshad pa dang bzhi/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="rgyu">
 dang po rgyu ni/
@@ -14292,8 +14292,8 @@ dang 'dod yid ches phyir mi ldog pa'i dad pa las phyi ma'o/ /
 Of the four kinds of faith: vivid faith, yearning faith, confident faith, and irreversible faith, the cause of refuge is irreversible faith.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="ngo bo">
 gnyis pa ngo bo ni
@@ -14311,8 +14311,8 @@ de yang gsol 'debs dang ma nor ba zhig dgos te/ gsol 'debs ni rang la nyes pa so
 The essence of refuge is to acknowledge [the Three Jewels], committing oneself to them in order to be free of something that one holds in dread. Refuge should not be mistaken for some kind of request or prayer. To make a request is like eliciting the assistance of someone, asking for protection when something untoward occurs—as when a malefactor suborns an official in the hope of not being punished. By contrast, taking refuge, as described in the Sutralankara, consists of an acknowledgement and a commitment. It is a commitment to the Three Jewels and a resolution to accept them as one’s refuge. It is a clear decision that, henceforth, whatever happens good or bad, in joy or sorrow, whether one is raised up or brought low, one’s hope and trust are placed exclusively in the Three Jewels. It is crucial to understand that the essence of refuge is an acknowledgment and a commitment.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dbye">
 gsum pa dbye ba ni/
@@ -14329,7 +14329,7 @@ skyabs yul gyi sgo nas dbye ba yod kyang 'dir gtso bo kun slong gis dbye ba yin 
 Although there is a way of classifying refuge according to the objects of refuge, the principal classification here has to do with the motivation with which one takes it. From this point of view, there are two kinds of refuge: worldly and world-transcending. World-transcending refuge comprises the refuge of the Hinayana and the refuge of the Mahayana. Mahayana refuge is further divided into causal refuge, which is provisional, and resultant refuge, which is ultimate.
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="so so'i don">
 bzhi pa so so'i don bshad pa la/
@@ -14392,7 +14392,7 @@ de la'ang gnas skabs rgyus skyabs 'gro dang / mthar thug 'bras bu'i skyabs 'gro 
 This refuge consists of causal refuge, which is provisional, and also of resultant refuge, which is ultimate.
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="rgyus">
 dang po [gnas skabs rgyus skyabs 'gro] ni/
@@ -14409,8 +14409,8 @@ rang gzhan sems can thams cad srid zhi'i 'jigs pa las sgrol ba'i phyir du gzhan 
 In order to liberate oneself and others from the perils of existence and peace, one takes refuge in the Three Jewels [considered to be] outside oneself. How is this done? According to the general explanation, one takes refuge in the Three Jewels defined in the following manner. The Jewel of Buddha is the enlightened being who possesses the three or four kayas and is something distinct from one’s own mind, such as the Teacher Shakyamuni. He first cultivated bodhichitta and accumulated merit for three countless kalpas. Eventually, he took birth as the son of King Shuddhodana, and at length attained enlightenment beneath the bodhi tree. The Jewel of Dharma is the sublime Doctrine of transmission and realization, which dwells in the minds of the Buddhas and Bodhisattvas. Finally, the Jewel of Sangha is an assembly that is different and separate from oneself, namely, the Bodhisattvas who have attained the ground of realization from which there is no regression, such as the venerable Manjushri, Maitreya, and so on.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="'bras">
 gnyis pa 'bras skyabs ni/
@@ -14449,8 +14449,8 @@ It should be understood that generally speaking, the subject of the entire Uttar
 All this implies that resultant refuge and bodhichitta in intention are one and the same. One might therefore wonder whether there is any difference between them. The master Vasubandhu had four disciples by whom he was himself excelled. In his great commentary on the Sutralankara, Sthiramati, who was superior to Vasubandhu in his knowledge of Abhidharma, affirmed that resultant refuge and bodhichitta in intention come to the same thing. For he said, “The cultivation of bodhichitta is also called taking refuge.” On the other hand, Atisha asserted a difference between them according to the presence or absence of the two hooks, or aims, of the commitment.[95] Finally, the omniscient Longchenpa said that the distinction between refuge and bodhichitta corresponds to the difference between aiming for the benefit of oneself and aiming for the benefit of others. It has been taught that if this view is examined, it may be reduced to the assertion that they are identical in their nature but different in their conceptual aspect. Insofar as there is the resolution to act “for the sake of all beings,” it is bodhichitta; but insofar as one is resolved “to attain perfect enlightenment,” it is (resultant) refuge. It is in this way that the two may be distinguished.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="gzhung don">
 gnyis pa gzhung don la
@@ -14475,8 +14475,8 @@ khyad par so sor bshad pa dang / thun mong du 'gro tshul bshad pa gnyis las/
 There is an explanation of the Hinayana and Mahayana refuge, followed by a general explanation of how refuge is taken.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="so so">
 dang po [khyad par so sor bshad pa] la gnyis las/
@@ -14485,7 +14485,7 @@ dang po [khyad par so sor bshad pa] la gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="theg dman">
 dang po theg dman gyi skyabs 'gro bshad pa ni/
@@ -14518,8 +14518,8 @@ They take refuge in nirvana.
 As it is said (at the Hinayana level), the physical body of the Buddha was the residue of the truth of suffering. In being the son of King Shuddhodana, the Buddha was an ordinary man called Prince Siddhartha. He traversed the five paths “on a single seat” [beneath the bodhi tree] and attained perfect buddhahood. Because his body was that of an ordinary person, propelled by the former karma of Prince Siddhartha, it was not, for that very reason, an object of refuge. This is the belief of the Vaibhashikas. Consequently, the Buddha as an object of refuge is none other than the truth of the path of no-more-learning as realized by his fully enlightened mind. The Sangha as object of refuge consists of the realization of the paths of learning and no-more-learning present in the minds of the Sangha. For the bodies of the members of the Sangha are likewise the residues of the truth of suffering. The Dharma as object of refuge is the absence of defilement (which is now overcome) from the mind of the Buddha and from the minds of the Sangha—in other words, the state of nirvana, beyond suffering, the absence of desire and attachment which constitutes the truth of cessation. The Three Jewels are defined in this way as the objects of refuge at the Hinayana level.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="theg chen">
 gnyis pa theg chen gyi skyabs 'gro ni/
@@ -14649,8 +14649,8 @@ As the text says, these Bodhisattvas possess the three qualities of primordial w
 This primordial wisdom is free from the emotional and the cognitive veils, and also from the veil of meditative absorption. Being free from afflictive emotion, it is free from the obscurations arising from craving. Being free from the cognitive veils, it is free from the obscurations that are an impediment to knowledge. And being free from selfish aims, it is free from the obscurations of an inferior attitude. Thus the Bodhisattvas possess three qualities of freedom. All together, this comes to six qualities [three kinds of primordial wisdom and three freedoms], which, with the addition of the twin bases for the categories of knowledge and freedom, means that the Mahayana Sangha possesses eight qualities.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="tshul">
 gnyis pa skyabs su 'gro tshul ni/
@@ -14710,8 +14710,8 @@ Consequently, we must take refuge in the Three Jewels, our Teacher, our Path, an
 Taking refuge in the Sangha (that is, the assembly of noble Bodhisattvas) and regarding them as our companions may be described in the following terms. If we go to Lhasa, our companions will be those who follow the lead of the caravan-chief. They will not be those who stay behind and do not make the journey, or who do not go the whole distance (though they may be traveling in the same direction). In the same way, we do not associate, whether in thought, word, or deed, with those (be they lay people or ordained clergy) who are swept away by evil, mundane activities associated with the eight worldly concerns. Similarly, we do not keep company with the Shravakas or Pratyekabuddhas. It is essential to train ourselves and follow in the footsteps of the noble Bodhisattvas, the children of the Buddha. For it is they who are our true companions. We should come to a firm decision and resolve to keep aloof from those who will lead us away from the path of Dharma. We can see therefore that to take refuge in the Three Jewels as our Teacher, Path, and Companions is a point of vital importance.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bslab bya">
 [bslab bya]
@@ -14859,13 +14859,13 @@ The whole of space would be replete with it
 And even then there would be more besides.
 </d>
 </f>
-</b>
-</b>
-</b>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="bshags">
 bzhi pa sdig pa bshags pa'i yan lag la/
@@ -14882,7 +14882,7 @@ bshags yul mngon du bya ba dang / bshags pa dngos gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mngon">
 dang po [bshags yul mngon du bya ba] ni/
@@ -14913,8 +14913,8 @@ bshags yul phyogs bcu'i 'jig rten rnams te mtha' yas pa kun na gzhugs pa yi yang
 [verse 27] In the sky in front of himself, Shantideva visualizes the object of confession: all the perfect Buddhas, victorious, virtuous and transcendent, together with all the great Bodhisattvas, who reside in the infinite buddhafields in the ten directions and who are the sovereigns of great compassion. He prays to them with his palms pressed together.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dngos">
 gnyis pa bshags pa dngos la/
@@ -14931,7 +14931,7 @@ sun 'byin pa'i stobs/ rten gyi stobs/ gnyen po kun tu spyod pa'i stobs/ sor chud
 Confession has four aspects or rather four strengths: the strength of regretting that one has done wrong, the strength of the support, the strength of the remedial practice, and the strength of amendment.
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="sun 'byin">
 dang po [sun 'byin pa'i stobs] ni/
@@ -15543,8 +15543,8 @@ de ltar 'chi ba'i gnas skabs der dam pa'i chos dge ba ma gtogs pa skyabs gzhan g
 So it is that at the time of death, there is no security apart from the sublime Dharma and one’s good action. Shantideva wonders what a wicked person like himself will be able to do. For there is no escape; there is only misery and pain.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rten">
 gnyis pa rten gyi stobs ni/
@@ -15806,8 +15806,8 @@ las ngan bdag ni sngon chad rgyal ba sras bcas khyed rnams kyis bka' dge sdig bl
 [verse 53] Shantideva confesses that he, a sinner, has transgressed the words of the Buddhas and the Bodhisattvas, that he has failed to act virtuously and did not turn away from evil. Now that he can see the terrors of death, the bardo, and the lower realms that are in store for him, he takes refuge in the great and compassionate protectors just as a man who has fallen down presses on the ground in order to pick himself up. And he prays that they might save him swiftly from his fear and suffering, the wages of his sins.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="gnyen po">
 gsum pa gnyen po kun tu spyod pa'i stobs ni/
@@ -16238,8 +16238,8 @@ That my misdeeds have been mistaken.
 [verse 65] Shantideva concludes therefore by praying to the guides and guardians of the world, imploring them to accept him as he is, a sinful man. It has been said that we should acknowledge and declare our faults as though the Buddhas and Bodhisattvas were questioning us about them.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="sor chud pa">
 bzhi pa sor chud pa'i stobs ni/
@@ -16290,11 +16290,11 @@ Are handsome like the clear unclouded moon,
 Like Nanda and Angulimala, Ajatashatru and Udayana.
 </d>
 </f>
-</b>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="mtshan">
 le'u'i mtshan ni/
@@ -16311,9 +16311,9 @@ byang chub sems dpa'i spyod pa la 'jug pa las 'dir yan lag bzhi gsungs pa'i nang
 This ends the second chapter of the Bodhicharyavatara, called “Confession of Negativity,” which is the main topic of the four discussed therein.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="yongs su bzung ba">
 ! le'u gsum pa byang sems yongs su bzung ba'i le'u la
@@ -16330,7 +16330,7 @@ gzhung dang mtshan no/ /
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gzhung">
 dang po [gzhung] la
@@ -16347,7 +16347,7 @@ sbyor ba sngon du 'gro ba'i chos/ dngos gzhi dam bca' ba/ mjug rang gzhan dga' b
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="sbyor ba">
 dang po sbyor ba sngon du 'gro ba'i chos la/
@@ -16364,7 +16364,7 @@ tshogs bsags pa dang / blo sbyang ba gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="tshogs">
 dang po [tshogs bsags pa] la
@@ -16381,7 +16381,7 @@ tshogs bsags pa yan lag brgyad las/ snga ma bzhi le'u gnyis pa'i skabs bshad zin
 The explanation of the accumulation of merit has eight sections or “branches.” Four of these have already been dealt with in chapter 2.[100] In the present chapter, we will consider the remaining four, which are rejoicing in virtue, the request that the Teachers should turn the wheel of the Dharma, the prayer that the Teachers might not pass into nirvana, and the dedication of one’s roots of virtue for the sake of others.
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="yi rang">
 dang po [rjes su yi rang ba'i yan lag] ni/
@@ -16530,8 +16530,8 @@ rjes su yi rang 'di ni nga rgyal dang ngoms chos su mi 'gro zhing tshegs chung l
 To rejoice in the good deeds of others is an essential pith instruction for it allows us to accumulate a great deal of merit easily and swiftly without falling into arrogance and pretension. It is therefore said that when we see or hear of the virtuous actions of others, we should always rejoice in them.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="'khor">
 gnyis pa [chos 'khor bskor bar bskul ba'i yan lag] ni/
@@ -16600,8 +16600,8 @@ chos 'khor bskor bar bskul na skye ba tshe rabs thams cad du log lta'i lta ngan 
 When we make such prayers, we should consider that the Buddhas promise to turn the wheel of the Doctrine. If we make such a request, the result will be that in all our lives, we will not entertain false views and wrong opinions, and we will never be separated from the light of the sublime teaching. This indeed, so it has been said, is the reason for making such a request.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="mi 'da'">
 gsum pa [mya ngan las mi 'da' bar gsol ba 'debs pa'i yan lag] ni/
@@ -16632,8 +16632,8 @@ sngon bdag cag gi ston pa la dge bsnyen tsun tas mya ngan las mi 'da' bar gsol b
 [verse 6] When formerly the Buddha was requested by the upasaka Chunda not to pass into nirvana, he extended his life for three months. Likewise, although from the point of view of the ultimate truth, the Buddhas residing in the pure fields of the ten directions do not “enter nirvana,” it may be that some Buddhas—once they have completed their work for beings—wish for various reasons to display their passing. Therefore, Shantideva joins his hands and prays them not to leave in blindness the infinite mass of beings, whose eyes of moral discrimination are darkened by the cataracts of ignorance. In order that they might further explain what behavior is to be adopted and what is to be eschewed, Shantideva requests the Buddhas not to pass into nirvana, but to remain for many countless kalpas. And as we also make such prayers, we should consider that the Buddhas accept them and agree to remain among us.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsngo">
 bzhi pa [dge rtsa gzhan don du bsngo ba'i yan lag] ni/
@@ -16747,9 +16747,9 @@ Things they need and want.
 [verse 10] Again, for all those living in the world who are poor and destitute, without food, drink, clothes, wealth, and possessions, Shantideva prays that he might himself become an inexhaustible treasury of whatever they may wish for: food for the hungry and drink for the thirsty. “May I lie before them,” he says, “closely in their reach, a varied source of all that they might need.”
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="sbyang">
 gnyis pa blo sbyang ba la
@@ -16766,7 +16766,7 @@ blo sbyang ba dngos dang / de'i 'thad pa dgod pa/ lus bye brag tu gtong ba/ blo 
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="dngos">
 dang po [blo sbyang ba dngos] ni/
@@ -16881,8 +16881,8 @@ de nyid las/ de ltar lus longs spyod gzhan la gtang nas rang gi zas gos sogs yin
 As we find in the Shikshasamucchaya, “Once you have given your body and possessions to others, you should continue to use the food and clothes that were formerly yours only as servants might use the food and sustenance of their employers: solely to keep your body alive for the benefit of others. To do anything else is stealing.” Indeed, if you use for yourself what has been donated to others, you are robbing beings of what has been given to them.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="'thad">
 gnyis pa [de'i 'thad pa dgod pa] ni/
@@ -16943,8 +16943,8 @@ rgyu mtshan gnyis pa/ de lta na yang myang 'das ma bsgrub na gtong ci dgos snyam
 In the second place, we might wonder why it is necessary to abandon the three foundations of ego-clinging even when we are not actually intending to achieve nirvana.[111] The answer to this is that, even if we do not give them away now, the fact is that when we die, we will have to leave behind both body and possessions. And as for our virtues, either these will have been exhausted by moments of anger experienced in the past or else (if this is not the case) they will be consumed by the single experience of their fully ripened result. It is certain therefore that everything is destined to be entirely and pointlessly lost. Therefore, in the present moment when we have freedom to act, it is best to give everything to other beings for their happiness and benefit. For in this way, the merit of such an action will not be exhausted but will become the cause of attaining the supreme goal.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bye brag">
 gsum pa [lus bye brag tu gtong ba] ni/
@@ -17072,8 +17072,8 @@ mdor na yab sras mjal ba'i mdo las/ gang gis bdag la kha zas sbyin pa de dag nye
 In short, as it is said in the Pitaputrasamagama-sutra, “May those who give me sustenance attain to perfect peace.” We should pray that, whenever beings see us, hear our voices, touch or think of us, regardless of the connection good or bad that they may have with us, they may be brought to the accomplishment of their wishes and to temporary and ultimate happiness.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsngo">
 bzhi pa [blo sbyong gi 'bras bu gzhan don la bsngo ba] ni/
@@ -17201,10 +17201,10 @@ de ltar blo sbyang ba 'di nyid ni sems bskyed kyi sngon du sbyor ba dang rjes su
 This training of the mind acts as a preparation for the generation of bodhichitta, and, in addition, constitutes a practice to be implemented after bodhichitta has been generated. Thus we must strive to widen our perspective and make prayers of aspiration on a grand scale. For it is the greater or lesser breadth of our mind in the present moment and our prayers of aspiration that dictate the extent to which our Buddha and Bodhisattva activities will unfold. Mind-training is consequently of the highest importance.
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="dam bca'">
 gnyis pa dngos gzhi dam bca' ba ni/
@@ -17286,8 +17286,8 @@ The expression “step-by-step” in the root text is explained by the Sakyapas 
 In the Nyingma exegesis, the expression “step-by-step” is understood in light of the Subahuparipriccha-sutra, that is to say, as meaning “from time to time” or “little by little.” Since it is impossible to train in the vast, ocean-like conduct of the Bodhisattvas from the very beginning, it is clearly stated that one should train in it “step-by-step.” We find in the Shikshasamucchaya that one should train in the precepts according to one’s strength. Consequently, if one trains step-by-step and according to one’s capacity, in the precepts of the Bodhisattvas, one’s ability to observe the precepts will be gradually enhanced.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="mjug">
 gsum pa mjug rang gzhan dga' ba bsgom pa la/
@@ -17304,7 +17304,7 @@ rang dga' ba bsgom pa dang / gzhan dga' ba bsgom du gzhug pa gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="rang">
 dang po [rang dga' ba bsgom pa] ni/
@@ -17598,8 +17598,8 @@ rigs drug gi 'gro ba mtha' yas pa'i 'gron po srid pa'i lam ste mtho srid pa'i rt
 [verse 33] The numberless beings that live in the six realms are like wayfarers traveling upon the paths of existence, from the Peak of Existence down to the Hell of Unrelenting Pain. To help those who wish to enjoy the pleasure of a temporary and ultimate respite from the sorrows that they suffer, the Bodhisattvas are reborn in samsara through the power of their bodhichitta, and they remain with beings, staying close to them, in order to bring them to the undying state of supreme bliss referred to previously. They are like the people who pitch refreshment tents for the pilgrims traveling through Tsari. Bodhisattvas bring to beings whatever happiness they desire. Thus they satisfy these ceaseless wanderers who are constantly moving toward their deaths without a moment’s respite, never finding a place of permanent repose. All this is thanks to bodhichitta. With these words, Shantideva brings into focus the teaching of the previous stanzas.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="gzhan">
 gnyis pa [gzhan dga' ba bsgom du gzhug pa] ni/
@@ -17630,10 +17630,10 @@ Gods, demigods, and everyone rejoice!
 [verse 34] And so, in accordance with what has been said previously, within the sight of all the protectors, the Buddhas and Bodhisattvas whom he takes as his witnesses, Shantideva issues a summons on this very day to all beings as infinite in number as the sky is vast. He invites them to the highest bliss of ultimate buddhahood, and in the meantime—until such enlightenment is achieved—to a perfect feast of temporary happiness in the higher realms of gods and human beings. Let all the gods on the side of goodness, such as the seventy-five protectors of the Heaven of the Pure, as well as all the asuras and others rejoice! For by being thus called upon to rejoice at Shantideva’s Bodhisattva vow, they too will be happy. They will gain their share of benefit and bestow their protection as well. The reason for taking the Buddhas and Bodhisattvas as witnesses of the vow of bodhichitta is that one will have a sense of propriety with regard to them and a feeling of moral conscience with regard to oneself.
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="mtshan">
 le'u'i mtshan ni/
@@ -17650,9 +17650,9 @@ byang chub sems dpa'i spyod pa la 'jug pa las/ byang chub kyi sems gtso bor yong
 Here ends the third chapter of the Bodhicharyavatara, called “Taking Hold of Bodhichitta.”
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="skyes pa mi nyams byed">
 ! gnyis pa byang chub kyi sems rin po che skyes pa mi nyams par byed pa'i le'u gsum las/
@@ -17661,8 +17661,8 @@ Here ends the third chapter of the Bodhicharyavatara, called “Taking Hold of B
 PART TWO. How to Prevent Bodhichitta from Weakening Once It Has Been Generated
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bag yod">
 dang po [bag yod kyi le'u]/
@@ -17687,7 +17687,7 @@ gzhung dang mtshan no/ /
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gzhung">
 dang po [gzhung] la
@@ -17704,7 +17704,7 @@ mdor bstan pa dang / rgyas par bshad pa gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mdor">
 dang po [mdor bstan pa] ni/
@@ -17948,8 +17948,8 @@ Great King, your tasks are many; you have much to do. In all circumstances and i
 We are thus exhorted in this sutra to aspire to enlightenment, to rejoice in virtue, to offer it to the Buddhas and their Bodhisattva offspring, and to dedicate it to the attainment of great enlightenment. In addition, it is said in the Subahuparipriccha-sutra that when the aspiration to attain enlightenment for the sake of all beings is never forgotten, it contains within it the six immaculate paramitas of the level of buddhahood.[125] It has therefore been said that this aspiration is itself a training in the six transcendent perfections. These two quotations from the sutras demonstrate the characteristics of bodhichitta very well. They are the best of instructions and are of great benefit for the people living in this decadent age.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rgyas">
 gnyis pa [rgyas par bshad pa] la/
@@ -17966,7 +17966,7 @@ bsgrub bya bslab pa la bsam ste bag yod par bya ba/ rten dal 'byor la bsam ste b
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="bsgrub bya">
 dang po [bsgrub bya bslab pa la bsam ste bag yod par bya ba] la/
@@ -17983,7 +17983,7 @@ bsam pa sems bskyed mi nyams par bya ba sbyor ba/ brtson 'grus mi nyams par bsru
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="bsam pa">
 dang po [bsam pa sems bskyed mi nyams par bya ba] ni/
@@ -18318,8 +18318,8 @@ rgyu mtshan de ltas te de lta bas na sems bskyed pa'i dus su ji ltar khas blang 
 [verse 12] Therefore Shantideva declares that he will implement the precepts with devotion and care according to the promise he made when he conceived the attitude of bodhichitta.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="sbyor ba">
 gnyis pa [sbyor ba brtson 'grus mi nyams par bsrung ba] ni/
@@ -18392,9 +18392,9 @@ da dung ngam da rung yang sngar gyi spyod pa dman pa de bzhin du bdag gis dge ba
 [verse 14] So if, Shantideva reflects, he continues as before, acting in such an abject manner, immersed in evil and accomplishing nothing good, it will be his destiny, not just once, but time and time again, to sink lower and lower and take birth in the realms of sorrow. And even when he gains some respite in the higher states, his residual karma will cause him the suffering of many illnesses, imprisonment in chains, and the pain of being cut by swords and dismembered by axes.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="dal 'byor">
 gnyis pa rten dal 'byor la bsam ste bag yod par bya ba la
@@ -18411,7 +18411,7 @@ dal 'byor rnyed dka'i tshul la bsam ste bag yod par bya ba/ ngan song las thar d
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="rnyed dka'i tshul">
 dang po [dal 'byor rnyed dka'i tshul la bsam ste bag yod par bya ba] ni/
@@ -18561,8 +18561,8 @@ rgyu mtshan de nyid kyi phyir na bcom ldan 'das kyis yang dag par gdams pa'i mdo
 [verse 20] For this reason, the Lord Buddha gave the hypothetical example, found in a sutra setting forth perfect instruction, in which the entire earth is imagined to be covered by an immense ocean on the surface of which there floats a yoke blown here and there by the wind. Coming to the surface once in a hundred years, a blind turtle living in the ocean’s depth could in theory find its head inside the yoke, adrift as it is upon the shoreless sea. But since the ocean is vast, the yoke mindless, and the turtle blind, the odds against such a thing happening would be immense. And yet to find a human birth is far more difficult than this!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="thar dka' ba">
 gnyis pa [ngan song las thar dka' ba la bsam ste bag yod par bya ba] ni/
@@ -18662,8 +18662,8 @@ Generally speaking, manifest phenomena may be assessed by means of valid percept
 Be that as it may, if beings who are in hell (the place in which their karma has fructified) also accumulate karma while they are there—which will then be experienced in due sequence—it follows that there can be no chance of liberation from such a state. Personally, I do not see how this can be so and therefore respectfully request the learned to consider well what might be Shantideva’s intended meaning here.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="'bad dgos">
 gsum pa [dal 'byor thob dus dge ba la 'bad dgos par bstan pa] ni/
@@ -18814,9 +18814,9 @@ We’re mindless—there’s the honest truth!
 Are we truly as mindless as the verse says? Obviously, our hearts are neither iron balls nor pieces of stone, yet how is it, Shantideva asks, that we do not recognize our stupidity and confusion? Though we think that we will practice the Dharma, that we will keep the discipline, that we will study and reflect upon the teachings, the fact is that we don’t. We are helplessly out of control. What is it that is making us so stupid? For sure, there must be something that we have failed to recognize. We should ask ourselves again and again: What is it?
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="spang bya">
 gsum pa spang bya nyon mongs pa la bsam ste bag yod par bya ba la/
@@ -18833,7 +18833,7 @@ nyon mongs pa'i nyes dmigs bshad pa/ nyon mongs spang ba'i dka' spyad bzod pa/ n
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="nyes dmigs">
 dang po [nyon mongs pa'i nyes dmigs bshad pa] ni/
@@ -19035,8 +19035,8 @@ khams gsum 'khor ba'i btson ra'i nang nas thar du mi 'jug pa'i bsrung ma byed ci
 [verse 35] Our negative emotions are like jailers that imprison us in the three worlds of samsara. It is they that allow us no escape. It is they that appear to us in the form of the killers who slay us in the hell of Reviving and the other infernal states. And they lurk within our minds—in the web of our very cravings—without our even wanting to repudiate them. If we get caught in them, like birds tangled in a fowler’s net, what chance do we have of joy in this and future lives? These are the enemies that we must strive to overcome!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dka' spyad">
 gnyis pa [nyon mongs spang ba'i dka' spyad bzod pa] ni/
@@ -19202,8 +19202,8 @@ gang khas blang ba ltar sgrub dgos pa de ltas te de zhes pa nges bzung dang ltas
 [verse 42] He did not have the measure of his own capacity and to make such an ill-considered promise was, to be sure, an act of madness. For it was as if he had promised to save someone while he was himself bound and drowning in the water. But pledges are to be honored nevertheless! Therefore Shantideva tells himself that he must never draw back from his task but must apply antidotes in order to overcome his enemies, his defilements. Now that he has promised, he must strive with utmost diligence.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="spang tshul">
 gsum pa [nyon mongs ji ltar spang ba'i tshul bshad pa] ni/
@@ -19406,11 +19406,11 @@ Therefore to increase your virtue,
 With devotion always practice carefulness.
 </d>
 </f>
-</b>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="mtshan">
 le'u'i mtshan ni/
@@ -19427,9 +19427,9 @@ byang chub sems dpa'i spyod pa la 'jug pa las/ bag yod bstan pa zhes bya ba ste 
 Here ends the fourth chapter of the Bodhicharyavatara, the instruction on carefulness.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="shes bzhin">
 ! gnyis pa lus sems kyi gnas skabs la yang yang brtags pa shes bzhin gyi le'u la/
@@ -19446,7 +19446,7 @@ gzhung dang mtshan no/ /
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gzhung">
 dang po [gzhung] la
@@ -19463,7 +19463,7 @@ bslab pa bsrung ba'i ched du sems bsrung ba/ sems bsrung ba'i ched du dran shes 
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="bsrung">
 dang po [bslab pa bsrung ba'i ched du sems bsrung ba] la/
@@ -19480,7 +19480,7 @@ mdor bstan pa dang / rgyas bshad gnyis las
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mdor">
 dang po [mdor bstan pa] ni/
@@ -19539,8 +19539,8 @@ lam lhag pa'i bslab pa rin po che rnam pa gsum yang dag par bsrung bar 'dod pa y
 [verse 1] So people who wish to implement the three precious trainings of the excellent path correctly should not fall into the power of distraction but should strive one-pointedly to guard their minds from every fault, gaining mastery over them through mindfulness and vigilant introspection. Whatever we may think to the contrary, if we do not preserve our minds from defiled emotion through the practice of mindfulness and introspection, we will be unable to prevent our training from regressing. Indeed, if we neglect to keep a guard on our minds and manage for a time to control our body and speech merely out of fear of authority, the vows and precepts will become a burden and we will get nowhere. It is therefore essential to keep watch over our minds.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rgyas">
 gnyis pa [rgyas bshad] la/
@@ -19557,7 +19557,7 @@ gnod pa thams cad sems las byung tshul/ dge ba thams cad sems las byung tshul/ d
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gnod">
 dang po [gnod pa thams cad sems las byung tshul] ni/
@@ -19796,8 +19796,8 @@ de ltar 'jig rten gsum po ste 'dod khams gzugs khams gzugs med kyi khams gsum ma
 Thus, throughout the three worlds—understood either as the desire, form, and formless realms or as three dimensions above, upon, or beneath the earth—no harm or fear arises except from the mind overpowered by delusion. Therefore, if one manages to guard the mind effectively, not allowing it to stray into the power of distraction and delusion, every danger and injury in this and future lives will come to nothing.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dge">
 gnyis pa [dge ba thams cad sems las byung tshul] ni/
@@ -20020,8 +20020,8 @@ zhes sogs gsungs so/ /
 To sum up therefore in the words of the Gandavyuha: “All Bodhisattva conduct is founded on the mind.”
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dgos">
 gsum pa [des na nges par sems bsrung dgos par gdams pa] ni/
@@ -20140,9 +20140,9 @@ bdag gi rnyed pa yon 'bul ba la sogs pa dang bkur sti phyag 'tshal gdan stobs pa
 [verse 22] In conclusion, Shantideva reflects that it is fine for him to lose his property and everything that has been offered to him. It is fine for him to lose whatever esteem he may enjoy in terms of honor or respect. It is fine for him to lose even his body, the support of his life; and it is of no importance if his livelihood in terms of food and clothes just disappears. In short, even if he dies and all other merits accruing from his body and speech perish—none of this signifies. But he will never give up the practice of carefully and vigilantly guarding his mind so that he can continue to observe the precepts.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsten">
 gnyis pa/ sems bsrung ba'i ched du dran shes bsten tshul la/
@@ -20159,8 +20159,8 @@ mdor bstan rgyas bshad gnyis las/
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="mdor">
 dang po [mdor bstan ] ni/
@@ -20191,8 +20191,8 @@ gong du ji skad bshad pa'i rgyu mtshan de'i phyir na rang gi sems 'di bsrung bar
 [verse 23] Consequently, Shantideva addresses all his followers who wish to guard their minds. He begs them to preserve diligently and by every means—even at the cost of their lives—an attitude of mindfulness, never forgetting what is to be done and what is not to be done. He begs them to maintain a state of vigilant introspection and to examine their conduct in thought, word, and deed constantly. And when Shantideva speaks with his hands joined in supplication, he is not making a gesture of respect toward his hearers but indicating the extreme importance of his message.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rgyas">
 gnyis pa [rgyas bshad] la/
@@ -20209,7 +20209,7 @@ shes bzhin med pa'i nyes dmigs/ dran pa bsten thabs dngos gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="nyes dmigs">
 dang po [shes bzhin med pa'i nyes dmigs] ni/
@@ -20328,8 +20328,8 @@ chags sdang la sogs pa'i nyon mongs pa chom rkun lta bu'i tshogs 'di yis ni dper
 [verse 28] Craving and aversion and all the other defilements are like a band of thieves and brigands who first spy on people—travelers and so on—to check whether they are vulnerable or not. If they are, the thieves watch for a favorable moment to attack, whether by night or by day. Functioning in exactly the same way, the defilements of desire and hatred are always on the watch for an occation to harm us. They behave just like thieves and brigands. When they get their chance, they snatch away the wealth of virtue that we have accumulated in the past and they destroy its effects—the happy destinies—with the result that we fail to attain them.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="thabs">
 gnyis pa [dran pa bsten thabs dngos] ni/
@@ -20449,10 +20449,10 @@ dus gang tshe blang dor gyi gnas mi brjed pa'i dran pa yid kyi khang pa'i sgo kh
 [verse 33] When mindfulness (that does not forget the principle of adopting and rejecting) is placed as a sentinel upon the threshold of the mind to prevent the latter from slipping into objects of defilement, a vigilant introspection that scrutinizes all activities of thought, word, and deed will naturally arise. And even if it is sometimes forgotten or scattered, it will return.
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="sbyong">
 gsum pa dran shes dang ldan pa'i sgo nas blo sbyong gi spyod pa la bslab tshul la/
@@ -20469,7 +20469,7 @@ nyes spyod sdom pa'i tshul khrims/ dge ba chos sdud kyi tshul khrims/ sems can d
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="sdom">
 dang po [nyes spyod sdom pa'i tshul khrims] la
@@ -20486,7 +20486,7 @@ sgo gsum gyi spyod pa thams cad dag par bya ba/ bslab pa mi nyams par bsrung ba 
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="dag pa">
 dang po [sgo gsum gyi spyod pa thams cad dag par bya ba] ni/
@@ -20742,8 +20742,8 @@ de ltar rim par snga ma legs par zin nas phyi ma la zhugs par byas na nye nyon n
 [verse 44] If we act in this way, a whole succession of tasks will be brought to term. By contrast, if we fail to follow such a plan of action—if after beginning one thing, we stray to something else—neither task will be accomplished. As the proverb says, “Always leave one foot upon the ground; you’ll fall if you lift both.” If, however, we proceed in stages as described and properly complete the earlier task before launching into the next, this will prevent the fault of inattention, the lack of introspection (one of the twenty lesser defilements), from growing.[138]
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsrung">
 gnyis pa [bslab pa mi nyams par bsrung ba] ni/
@@ -21076,9 +21076,9 @@ zhes yang dang yang du bsams nas dal 'byor rnyed dka' bsgom pa la sogs pa'i sems
 [verse 58] As Shantideva observes, we have waited so long to attain a precious human existence, which is so hard to find. Now that we have obtained it, we must strive to make it meaningful. (9) By mulling over this time and time again, by thinking of the difficulty of obtaining all the freedoms and advantages of such a condition, our minds will become determined and as unshakeable as Meru, the king of mountains. It is essential to keep our minds firmly set, not allowing them to stray from the object of meditation owing to the influence of nefarious company and the like.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="sdud">
 gnyis pa dge ba chos sdud kyi tshul khrims la/
@@ -21095,7 +21095,7 @@ bslab pa la mi slob pa'i rgyu lus la chags pa spang dgos par bstan pa/ bsgrub pa
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="chags pa">
 dang po [bslab pa la mi slob pa'i rgyu lus la chags pa spang dgos par bstan pa] ni/
@@ -21378,8 +21378,8 @@ thar pa dang rnam mkhyen du 'gro ba dang 'gro ba'i don la 'ong ba'i rten tsam du
 [verse 70] Instead, let us regard this body as a simple support—a boat for making the journey to liberation and omniscience, and for coming to the rescue of beings. And just as we might look after a boat, without falling into extremes [of neglect or extravagant care], we should sustain our bodies with food and clothing, avoiding all excess. In order to accomplish well the benefit of all beings, let us, with the perfect attitude of bodhichitta, train ourselves properly in the six paramitas, making of this body a wish-fulfilling gem (the sovereign power that can bring benefit to anyone who sees, hears, remembers, or touches it). In other words, let us transform this human body into the body of a Victorious Buddha.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="thabs">
 gnyis pa [bsgrub pa'i thabs la mkhas par bya ba] ni/
@@ -21698,9 +21698,9 @@ The general and specific
 Are, in every treatise, of the highest moment.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="don byed">
 gsum pa sems can don byed kyi tshul khrims la/
@@ -21717,7 +21717,7 @@ gzhan don lhur len pa/ zang zing dang chos kyis bsdu ba pha rol gyi ma dad pa bs
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="lhur">
 dang po [gzhan don lhur len pa] ni/
@@ -21748,8 +21748,8 @@ nyes spyod sdom pa'i tshul khrims dang dge ba chos sdud kyi tshul khrims de ltar
 [verse 84] Understanding and undertaking the disciplines of avoiding negative action and of accumulating virtuous action, one should abide with constancy and diligence in the discipline of bringing benefit to others. One must strive to achieve the welfare of others in a manner that is completely free from self-interest. To great Bodhisattvas, who labor in such a way and are completely free from selfish motives, the Buddha, greatly compassionate, allowed the seven negative actions of body and speech (which are forbidden at all times to practitioners of the lower vehicle and to novice Bodhisattvas). He did this because he saw that the sacrificing of trivial and ephemeral joys, and the provoking of lesser suffering can lead to lasting happiness and to the removal of greater suffering. This may be illustrated by the story of Captain Goodheart who killed Black Spearman in order to protect him from falling into hell, or by the story of the young brahmin Tararamana who wedded a merchant’s daughter in order to protect her from the horrors of death. It is said that, by their actions, both these Bodhisattvas gained a degree of merit that otherwise would have taken many kalpas to accumulate.[142]
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="zang zing">
 gnyis pa [zang zing dang chos kyis bsdu ba pha rol gyi ma dad pa bsrung ba] ni/
@@ -21899,8 +21899,8 @@ byang chub sems dpa'i spyod pa spyad nus pa'i gang zag la phan yon can gyi mdo c
 [verse 90] People who are of the Mahayana type, who are endowed with sharp faculties and are suitable vessels for the vast and profound teachings, should not be directed toward the lesser teachings of the path of the Shravakas and Pratyekabuddhas. To do so is to commit a downfall, for it is not right that those with wisdom should be fettered and those who have faith should be confused. Aside from exceptional situations in which the profound view should be explained, it is essential to set forth the law of karma in relation to virtuous and nonvirtuous actions. In other words, the principles of moral conduct based thereon should not be neglected. One must not mislead those who are able to practice the way of the Bodhisattvas by telling them (according to a literal interpretation of the scriptures) that in order to gain liberation it is enough simply to read a few good sutras and to recite a few dharanis and mantras. One must distinguish between the teachings of ultimate meaning, the teachings of expedient meaning, and the teachings of indirect and implied meaning, and so on.[144] One must take care to teach disciples according to their capacity.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="ma dad">
 gsum pa [pha rol gyi ma dad pa bsrung ba] ni/
@@ -22053,10 +22053,10 @@ de la rang gi tshe gcig gi bya ba dang nyin gcig gi bya ba sgo bstun nas nyams s
 We should make a practice of harmonizing the periods of our life with the periods of a single day. We should consider that daybreak corresponds to our birth, midday to adulthood, and evening to old age. When we lie down, this corresponds to the afflictions of illness that lead to death, and sleep is death itself. Dreams correspond to the intermediary state or bardo, whereas waking up the next day corresponds to rebirth in the next existence. And we are advised never to forget the practices related to precious bodhichitta.
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="yan lag">
 bzhi pa bsgrub pa phun sum tshogs pa'i yan lag gzhan bstan pa la/
@@ -22073,7 +22073,7 @@ bsgrub pa phun sum tshogs pa dngos dang / le'u'i don bsdu ba gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="dngos">
 dang po [bsgrub pa phun sum tshogs pa dngos] ni/
@@ -22357,8 +22357,8 @@ de ltar rgyal ba'i bka' mdo sde rnams dang bstan bcos bslab btus dang mdo btus k
 [verse 107] All activities allowed and not forbidden in the sutras taught by the Buddha and in the two treatises Shikshasamucchaya and Sutrasamucchaya should be properly embraced and undertaken by Bodhisattvas. In short, in order to protect the minds of worldly beings from a loss of confidence in the Bodhisattvas, and in order to be a source of joy for them, one should learn the precepts of the Bodhisattvas and strive to implement them perfectly, for the sole purpose of benefiting beings.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="don bsdu">
 gnyis pa [le'u'i don bsdu ba] ni/
@@ -22411,10 +22411,10 @@ lus ngag yid kyis ji skad bshad pa'i bslab bya 'di dag dngos su nan tan du sbyan
 [verse 109] All these trainings in body, speech, and mind should be earnestly put into practice as we have explained. For what is to be gained by simply parroting the words of the text? We must strive to implement their meaning. Indeed, what invalid was ever helped merely by reading or listening to an explanation of the four medical tantras, without submitting to the remedy? Help comes only from taking the medicine and following the proper cure.
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="mtshan">
 le'u'i mtshan ni/
@@ -22431,9 +22431,9 @@ byang chub sems dpa'i spyod pa la 'jug pa las/ shes bzhin bsrung bar bya ba ste 
 Here ends the fifth chapter of the Bodhicharyavatara, the instruction on the practice of vigilant introspection.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="bzod pa">
 ! gsum pa byang chub sems kyi mi mthun phyogs khong khro spong byed bzod pa bsgom pa'i le'u la/
@@ -22450,7 +22450,7 @@ gzhung dang mtshan no/ /
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gzhung">
 dang po [gzhung] la
@@ -22467,7 +22467,7 @@ khong khro spong ba/ bzod pa bsgom pa/ sems can la gus par bya ba dang gsum las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="khro">
 dang po [khong khro spong ba] ni/
@@ -22739,8 +22739,8 @@ gnod pa byas pa de yang gal te nas sogs pho ba lta bu bcos su yod na ni rang gzh
 [verse 10] To be sure, if there is a remedy—if something can be done to change the situation when injuries are done to us—what reason is there for depression and resentment? And similarly, if there is nothing that can be done to mend the situation, the broken cup for instance, what good does it do to be unhappy about it? Indeed, not only will this be of no help, but it will aggravate the situation further on account of the suffering produced by the conflict arising in ourselves and others.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsgom">
 gnyis pa bzod pa bsgom pa la/
@@ -22757,7 +22757,7 @@ bzod yul ngos bzung ba dang / bzod pa bsgom pa gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="ngos">
 dang po [bzod yul ngos bzung ba] ni/
@@ -22807,8 +22807,8 @@ ma 'ongs pa na byed par 'gyur ba ste/ bdun cu don gnyis po ni zhe sdang skye ba'
 When considered from the point of view of past, present, and future situations, these twenty-four items constitute all together seventy-two causes of anger. It is said that we should cultivate patience in their regard; we should be able to accept what we do not want, and even consider the fact of wanting as itself a defect.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsgom">
 gnyis pa [bzod pa bsgom pa] la/
@@ -22825,7 +22825,7 @@ mi 'dod pa byas pa la bzod pa bsgom pa/ 'dod pa'i gegs byed pa la bzod pa bsgom 
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mi 'dod pa">
 dang po [mi 'dod pa byas pa la bzod pa bsgom pa] la/
@@ -22842,7 +22842,7 @@ bdag la sdug bsngal byed pa la bzod pa bsgom pa dang / bdag la brnyas sogs byed 
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="sdug bsngal byed pa">
 dang po [bdag la sdug bsngal byed pa la bzod pa bsgom pa] la/
@@ -22859,7 +22859,7 @@ sdug bsngal dang len gyi bzod pa/ chos la nges sems kyi bzod pa/ gnod byed la ji
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="dang len">
 dang po [sdug bsngal dang len gyi bzod pa/] ni/
@@ -23099,8 +23099,8 @@ de las gzhan yang sdug bsngal myong ba las byung ba'i yon tan ni sdug bsngal yod
 [verse 21] In any case, suffering has its good and useful side. For when we suffer, we will have feelings of renunciation and world-weariness, and arrogance will be driven from our minds. Thanks to our own suffering, we may experience unbounded compassion, wishing to free others who are also suffering in samsara. Similarly, we will reject and shun the negativity by which suffering is caused, and we will be enthusiastic in the pursuit of goodness, the cause of happiness, thus becoming meticulous with regard to the karmic principle of cause and effect.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="nges">
 gnyis pa [chos la nges sems kyi bzod pa] ni/
@@ -23380,8 +23380,8 @@ thams cad gzhan dbang rten 'brel tsam yin pa de bas na dgra'am mdza' bo yang run
 [verse 33] Since all things are “other-powered,” that is, dependently arising, when we come across someone, enemy or friend, doing something untoward or harmful, we should call to mind that this has arisen from conditions; it is not a freestanding, autonomously existing event. And following the explanation given above, we should remain calm and not respond with anger, as is described in the tale of the Shravaka Purna when he went begging for alms.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="gnod byed">
 gsum pa [gnod byed la ji mi snyam pa'i bzod pa] ni/
@@ -23790,9 +23790,9 @@ de la 'dir byang chub sems dpa' gang zhig rang gzhan gnyis ka bsrung nus pa dang
 [verse 51] We may well reflect that, as Bodhisattvas, we are in the wrong if we fail to protect our aggressors. But while, at the moment, we are indeed unable to provide them with adequate protection, the fact is that if we actually harm them in retaliation [for what they do to us], it is certain that we will be giving them no protection at all, for the anger and the other negativities in their minds will greatly increase. And we in turn will ruin our four virtuous disciplines (never to repay abuse with abuse, never to be angry in return for anger, never to strike back when struck, and never to expose the faults of others when they reveal our own). And thus even patience, the best of Bodhisattva austerities, is utterly destroyed. In this connection, it is said that there are four possible situations in which Bodhisattvas may find themselves. They can protect both themselves and others, they can protect themselves but not others, they can protect others but not themselves, or they can fail to protect either themselves or others.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="brnyas">
 gnyis pa bdag la brnyas sogs byed pa la bzod pa bsgom pa ni/
@@ -24076,8 +24076,8 @@ mdor na gzhan pa dag la mi dga' ba dang / rnyed pa'i bar chad byed pa dang / dng
 In short, when others dislike us, when they create obstacles to our success, when they insult us to our face or slander us behind our backs, we should take pleasure in cultivating patience.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bshes">
 gsum pa bdag gi bshes la mi 'dod pa byed pa la bzod pa bsgom pa ni/
@@ -24353,8 +24353,8 @@ sdug bsngal dang du blang zhing gnod byed la ci mi snyam pa'i bzod pa bsgom pa '
 [verse 75] The hardship implied in cultivating the patience of accepting the difficulties inflicted by aggressors and of making light of them is as nothing compared with the agonies experienced in the hells. In addition, great benefits will come from the hardships of such patience, both for ourselves and for others. The harm inflicted on beings in the lower realms is dispelled thereby; and suffering, once accepted, is like a broom that sweeps away our negativities and is a stimulus to goodness. Thus we should not shy away from it but instead should embrace it joyfully.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dgra">
 bzhi pa dgra la legs byas bzod pa ni/
@@ -24633,9 +24633,9 @@ bam po gnyis pa/ 'di la mang nyung gi tshad gcig tu ma nges shing 'dir bam po gn
 *
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="gegs">
 gnyis pa/ 'dod pa'i gegs byed la bzod pa bsgom pa la/
@@ -24652,7 +24652,7 @@ dgra bo'i mi 'dod pa'i gegs byed pa la bzod pa bsgom pa/ bdag dang bdag gi bshes
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gegs">
 dang po [dgra bo'i mi 'dod pa'i gegs byed pa la bzod pa bsgom pa] ni/
@@ -24731,8 +24731,8 @@ de yang nya bas nya rnams lcags kyus bzung nas snod du btso ba bzhin du kun slon
 [verse 89] Just as when a fish is caught on a hook by a fisherman who cooks it in his pan (the fisherman in this case being the defiled emotion who casts the hook, namely, the evil wish), we too are caught on the hook, unbearable and sharp, and flung into the burning copper cauldrons of the hells, sure to be boiled by the workmen of the Lord of Death and to suffer pain for long ages.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="gegs">
 gnyis pa [bdag dang bdag gi bshes la 'dod pa'i gegs byed pa la bzod pa bsgom pa] ni/
@@ -25237,11 +25237,11 @@ phan par brtson pa las bzod pa mi 'grub pa de bas na rab tu sdang ba'i sems dang
 [verse 111] If they were to strive to benefit us, we could not engender patience. Conversely, since it is in relation to their harm-doing motivated by intense anger that we do engender it, our enemies are indeed the cause whereby our patience is perfected. And though this is not their intention, they are nonetheless suitable objects of veneration, as much as the sacred Dharma itself. For it is they who are the causes of our doing something virtuous.
 </d>
 </f>
-</b>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="gus">
 gsum pa sems can la gus par bya ba la/
@@ -25258,7 +25258,7 @@ bsod nams kyi zhing du bsam ste sems can la gus par bya ba/ rgyal ba dgyes pa la
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="zhing">
 dang po [bsod nams kyi zhing du bsam ste sems can la gus par bya ba] ni/
@@ -25441,8 +25441,8 @@ yon tan gyi ngos nas mi mtshungs kyang sangs rgyas kyi chos mchog tu gyur pa rna
 [verse 118] Thus, although from the standpoint of their qualities, beings and Buddhas are not the same, nevertheless, a part in eliciting the supreme state of buddhahood within our minds is also possessed by beings. And on account of just this similarity, beings, as much as the Buddhas, are the proper objects for our veneration. They constitute a field that is to be respected and gratified.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dgyes">
 gnyis pa [rgyal ba dgyes pa la bsam ste sems can la gus par bya ba] ni/
@@ -25735,8 +25735,8 @@ mgu par gyur na las yang dag la zhugs par nus pas 'jig rten sems can gyi sdug bs
 [verse 127] It is said that to accomplish the happiness of beings is the best way to rejoice the hearts of the Buddhas. And it is also taught that to benefit beings is itself the highest way of accomplishing one’s own benefit and happiness. Moreover, when beings are happy, they are able to act correctly. This therefore is the supreme way of removing the sorrows of the world. Making beings happy must therefore be something that we should do diligently, all the time.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="'bras">
 gsum pa [phan gnod kyi 'bras bu la bsam ste sems can la gus par bya ba dang gsum las] ni/
@@ -25901,10 +25901,10 @@ tshe phyi mar rnam smin gyi 'bras bu sangs rgyas ma thob gyi bar du 'khyor par g
 [verse 134] Throughout his future lives, while he remains in samsara and until he achieves the fully ripened effect of enlightenment, he will, as a result of cultivating patience, enjoy a handsome and attractive body with its parts and senses all complete. And because he does no harm to others, he will not be afflicted by different illnesses. Because he pleases and benefits beings, he will have an excellent renown; his happiness will increase, and he will have a long and happy life. He will enjoy the vast and perfect contentment of a chakravartin, a universal king rich with the seven precious attributes of royalty and able to establish his subjects in the practice of the ten virtues.
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="mtshan">
 le'u'i mtshan ni/
@@ -25921,9 +25921,9 @@ byang chub sems dpa'i spyod pa la 'jug pa las/ yul 'jig rten chos brgyad la brte
 Here ends the sixth chapter of the Bodhicharyavatara, on patience. This is to be cultivated when the venom of anger appears, the result of feelings of dissatisfaction arising through the subtle experience of attachment and aversion, which, hard to recognize, derive from the eight worldly concerns.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="mi nyams par gong du spel ba">
 ! gsum pa byang chub kyi sems rin po che mi nyams par gong du spel ba'i le'u gsum las/
@@ -25932,8 +25932,8 @@ Here ends the sixth chapter of the Bodhicharyavatara, on patience. This is to be
 PART THREE. How Bodhichitta Is to Be Developed and Intensified
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="brtson 'grus">
 dang po grogs brtson 'grus kyi le'u la/
@@ -25950,7 +25950,7 @@ gzhung dang mtshan no/ /
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gzhung">
 dang po [gzhung] la
@@ -25966,7 +25966,7 @@ brtson 'grus rtsom dgos pa'i rgyu mtshan mdor bstan pa/ ji ltar brtson tshul rgy
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mdor">
 dang po [brtson 'grus rtsom dgos pa'i rgyu mtshan mdor bstan pa] ni/
@@ -25998,8 +25998,8 @@ de'i dgos pa ci zhe na 'di ltar brtson 'grus dang ldan pa la 'bras bu byang chub
 [verse 1] As it has been said, “The paramita that follows depends on the one preceding it.” Accordingly, the six paramitas are arranged in such a way that each paramita stands in a relation of cause and effect with the one following it. When people are generous, they are not attached to possessions, and this makes possible the practice of discipline. When discipline is acquired, so too is the ability to cultivate patience; and once patience has been achieved with regard to the great and difficult practices, it is possible to apply [enthusiastic] diligence. Why is this last paramita so necessary? Because it is through such diligence that one obtains the fruit of great enlightenment—as if it lay within one’s fingers’ reach. When there is no wind, nothing either inside or outside the body can move.[163] In the same way, without diligence, nothing positive relating to the two accumulations can occur. But, where diligence is present, great enlightenment is swiftly obtained through the wholesome power of the two accumulations.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rgyas">
 gnyis pa [ji ltar brtson tshul rgyas par bshad pa] la/
@@ -26016,7 +26016,7 @@ brtson 'grus kyi ngo bo ngos bzung ba dang / mi mthun pa'i phyogs spong ba dang 
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="ngos">
 dang po [brtson 'grus kyi ngo bo ngos bzung ba] ni/
@@ -26043,8 +26043,8 @@ de ltar na lus ngag gi dge ba'i las brtson 'grus su grags pa'ang rgyu'i ming gis
 [verse 2] Diligence is defined as a state of mind that takes joy in virtue. Here, the mention of virtue indicates that diligence implicitly excludes all states of nonvirtue and indifference, whereas the mention of joy excludes the virtues of body and speech, and indicates the nature of diligence [as a mental disposition]. For although positive physical and verbal actions are regarded as diligence, this is only because they are referred to with the name of what causes them.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="mi mthun">
 gnyis pa [mi mthun pa'i phyogs spong ba] la/
@@ -26061,7 +26061,7 @@ le lo rgyu 'bras dang bcas pa ngos bzung ba dang / de ji ltar spong thabs kyi gn
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="le lo">
 dang po [le lo rgyu 'bras dang bcas pa ngos bzung ba] ni/
@@ -26114,8 +26114,8 @@ don du rnam g.yeng sogs la bde bar zhen pa dang / gnyid kyis rnam rtog rags pa '
 [verse 3] In itself, laziness, whereby the mind takes no joy in virtue, is caused by three things. These are first, the failure to strive in goodness, accompanied by an interest in idle entertainment; second, an indulgence in sleepiness and an increasing desire to lie in bed upon one’s pillow; and third, the failure to be saddened by the sufferings of samsara. As we find in the detailed commentary, “Because they have no sorrow at the sufferings of samsara, people indulge in indolent pleasures and yearn for sleep.” But although we enjoy the pleasures of distraction, and so on, and take delight in sleep, when all grosser cogitation is suspended, all such bliss transforms at length into suffering. So it is that, hankering after such sensations and feeling no sorrow at the ills of samsara, we engage in the activities of this life, getting the better of adversaries and protecting friends. However much we work at such activities, there is no end to them—and yet we do not grow weary of them but boast of all we do!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="thabs">
 gnyis pa [de ji ltar spong thabs kyi gnyen po bshad pa] la/
@@ -26132,7 +26132,7 @@ snyom las 'dzin pa'i le lo'i gnyen po bsgom tshul/ bya ba ngan zhen gyi le lo'i 
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gnyen po">
 dang po [snyom las 'dzin pa'i le lo'i gnyen po bsgom tshul] ni/
@@ -26396,8 +26396,8 @@ shin tu rnyed par dka' ba'i dal 'byor gyi mi yi lus rten gru bzang po dang 'dra 
 [verse 14] Now that we are in possession of this physical support, this human body endowed with freedoms and advantages, which is so difficult to find and is like an excellent ship, we must strive in virtue, thereby freeing ourselves from the great river of suffering in the three worlds of samsara. If we do not persevere in diligence now, it will be incredibly difficult to find such an excellent vessel again. What a fool he is, Shantideva tells himself. He is all confused about what should be done and what should not be done. The time at hand is not for sleep; it is for diligently cultivating positive action and avoiding negativities!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="ngan zhen">
 gnyis pa [bya ba ngan zhen gyi le lo'i gnyen po bsgom tshul] ni/
@@ -26451,8 +26451,8 @@ And exchanging yourself for others.
 [verse 16] But what is it that we should take pleasure in? As will be explained, with regard to virtuous conduct, we should not allow ourselves to fall into a defeatist attitude. Instead, we should don the armor of diligence, and we should summon all our strength, namely, the four counteractive forces. With mindfulness and vigilant introspection, we should earnestly adopt positive, and reject negative, behavior. And by implementing the antidotes, we should bring our body, speech, and mind under control. (These are two strengths that relate to each other like king and minister respectively.) And we should strive with joy and diligence in the trainings of bodhichitta. To begin with, we should meditate on the equality of self and other and then progress to the exchange of self and other.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="brnyas">
 gsum pa [sgyid lugs bdag nyid brnyas pa'i le lo'i gnyen po bsgom tshul] ni/
@@ -26814,10 +26814,10 @@ de lta na'ang sems can gyi don bsgrub mi nus so snyam na/ dper na 'khor los bsgy
 [verse 31] Even so, we may still consider ourselves unequal to the task of accomplishing the welfare of all beings. But, for example, just as the son of a chakravartin, who turns the wheel of power, is able to establish others in virtue by relying on his four armies, in the same way, the Buddha, who turns the wheel of Dharma, has given to his Bodhisattva children four forces also, so that they too can accomplish the welfare of beings. These four forces are aspiration, steadfastness, joyfulness, and relinquishment (the ability to let go or desist). The latter three derive from the first, namely, aspiration, which is their root. Aspiration is based on fear of suffering (the result of negative action), and it is to be cultivated through reflecting on the benefits of liberation and the advantages of aspiring to this.
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="mthun phyogs">
 gsum pa mthun phyogs sgrub pa la/
@@ -26834,7 +26834,7 @@ mdor bstan rgyas bshad gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mdor">
 dang po [mdor bstan] ni/
@@ -26865,8 +26865,8 @@ gong du bstan pa de ltar mi mthun pa'i phyogs le lo gsum spangs bar byas te/ dam
 [verse 32] As we have just said, it is through the four forces of aspiration (a keen interest in the Dharma), self-confidence or steadfastness (whereby one does not go back on what one has begun), joyfulness (whereby one takes pleasure in what one is doing), and relinquishment (when this is called for), that we will be able to discard the three kinds of laziness and enhance our diligence. These four forces must in turn be supplemented by two kinds of strength: first, the earnest implementation of the principle of adopting and rejecting and, second, the control of one’s body and mind.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rgyas">
 gnyis pa [rgyas bshad] la/
@@ -26883,7 +26883,7 @@ dpung bzhi bsags pa/ stobs gnyis bskyed tshul dang gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="dpung">
 dang po [dpung bzhi bsags pa] la/
@@ -26900,7 +26900,7 @@ mos pa'i dpung / brtan pa'i dpung / dga' ba'i dpung / dor ba'i dpung dang bzhi l
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mos">
 dang po [mos pa'i dpung] ni/
@@ -27267,8 +27267,8 @@ gong du ji skad bshad pa de bas na rgyu 'bras la yid ches pas mi dge ba spangs n
 [verse 46] Therefore it is through having confidence in the principle of karmic cause and effect that we will abandon negative actions and aspire and tend exclusively to virtue by means of keen and focused interest. We must steep ourselves in this understanding of the principle of adopting and rejecting.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="brtan">
 gnyis pa brtan pa'i dpung la
@@ -27285,7 +27285,7 @@ spyir bstan pa dang / bye brag tu bshad pa gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="spyir">
 dang po [spyir bstan pa] ni/
@@ -27383,8 +27383,8 @@ de yang thog mar sbyor ba'i dus su ni ma yin gyi dngos su zhugs nas sems zhum pa
 [verse 49] Therefore we must apply or cultivate a sense of courageous self-confidence[167] with respect to three things: the action, the affliction, and our ability. First, we must decide that we ourselves will accomplish the task. Second, we must tell ourselves that we will not succumb to defiled emotion. Third, we must assure ourselves that we are able to do it, reflecting that we are indeed able to discard all faults and accomplish every excellent quality. However, this sense of courageous self-worth is not to be cultivated in the preparatory stages. It is for the time when we are already engaged in the task and have started to flag and become weary of it.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bye brag">
 gnyis pa [bye brag tu bshad pa] la/
@@ -27401,7 +27401,7 @@ las kyi nga rgyal bsgom tshul/ nus pa'i nga rgyal bsgom tshul/ nyon mongs pa'i n
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="las">
 dang po [las kyi nga rgyal bsgom tshul] ni/
@@ -27480,8 +27480,8 @@ Alternatively, Shantideva’s words could be interpreted as meaning that, when o
 But whichever interpretation we follow, we should not have the pride of thinking that our actions make us superior to others. To rid ourselves of such ordinary conceit is the best of Bodhisattva practices.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="nus">
 gnyis pa [nus pa'i nga rgyal bsgom tshul] ni/
@@ -27673,8 +27673,8 @@ gang zag gang zhig nga'o snyam pa'i nga rgyal gyi dgra bo khams gsum dbang du bs
 [verse 59] The offspring of the Conqueror, who maintain a stable self-confidence (the antidote that overturns the enemy of afflictive pride) are the ones who are truly proud [in the positive sense] and worthy of praise. For they are heroes who have vanquished their foe, the pride that is a defilement. Those who have true self-confidence in their ability overwhelm completely the mighty force that holds the three worlds in its power—the thought of “I.” And thus, according to their wish, they are able to offer to beings the perfect fruit of buddhahood. It is in this way that Shantideva praises the qualities of a healthy sense of self-worth that is the antidote [to pride].
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="nyon mongs">
 gsum pa [nyon mongs pa'i nga rgyal bsgom tshul] ni/
@@ -27768,10 +27768,10 @@ de bzhin du dus dang gnas skabs thams cad du rigs shing 'thad pa yi las 'di ni m
 In every circumstance of time and place, we shall only act properly, and never in a manner that is inappropriate.
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="dga' ba">
 gsum pa dga' ba'i dpung ni/
@@ -27869,8 +27869,8 @@ de ltas te de lta bas na byang chub sems dpa'i spyod pa'i las gang brtsam pa de 
 [verse 66] Therefore, with a view to completing whatever aspect of the Bodhisattva’s activities we have undertaken, we ought to be like elephants in the noontime sun in summer, when they are tormented by heat and thirst and catch sight of a cool lake. They throw themselves into the water with the greatest pleasure and without a moment’s hesitation. In just the same way, for the sake of ourselves and others, we should give ourselves joyfully to the practice of generosity and other virtues.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dor">
 bzhi pa dor ba'i dpung ni/
@@ -27901,9 +27901,9 @@ rang na ba dang ngal dub ches pa la sogs pa'i rkyen gyis stobs nyams pa dang rje
 [verse 67] If our strength is impaired by weakness or fatigue (due to exhaustion or illness) and we are unable to accomplish some activity, we should resolve to lay it aside for the time being, the better to resume it at some later stage. And when the task we intended and have begun is brought to completion, we should not rest on our laurels, thinking that we have done enough. Instead we should relinquish all tasks that have been accomplished and look forward eagerly to doing even greater things.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="stobs">
 gnyis pa stobs gnyis skyed tshul la/
@@ -27920,7 +27920,7 @@ lhur len pa'i stobs dang / dbang bsgyur ba'i stobs gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="lhur">
 dang po [lhur len pa'i stobs] ni/
@@ -28087,8 +28087,8 @@ ji ltar gnas 'di dang lo zla la sogs pa dus skabs 'di dag la bdag gis rgyud la d
 [verse 74] At all times, over the months and years, and in any situation, we should ask ourselves how we can acquire the habitual attitude of mindfulness, whereby we never forget to focus on virtue within our minds. Thinking only of the causes or methods of cultivating it, we should long for, and strive in, appropriate actions—all the ways that help us nourish and increase mindfulness and introspection within ourselves: meeting with spiritual masters, doing retreat, going on pilgrimages, and all such conducive practices. According to Sherab Jungne,[168] the strength of earnest practice [as discussed above] means the sincere implementation of the instructions received from the teacher.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dbang">
 gnyis pa [dbang bsgyur ba'i stobs] ni/
@@ -28141,13 +28141,13 @@ de'i dgos pa ni/ ji ltar rlung ni phar 'gro ba dang tshur 'ong bas shing bal la 
 [verse 76] This is necessary because, just as flax wafts readily back and forth, moved by the power of the wind, likewise our body, speech, and mind are inevitably influenced when we take pleasure in virtue. It is thus that every good action, undertaken with enthusiasm, will be perfectly achieved.
 </d>
 </f>
-</b>
-</b>
-</b>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="mtshan">
 le'u'i mtshan ni/
@@ -28164,9 +28164,9 @@ byang chub sems dpa'i spyod pa la 'jug pa las/ brtson 'grus bstan pa zhes bya ba
 Here ends the seventh chapter from the Bodhicharyavatara, on diligence.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsam gtan">
 ! gnyis pa kun rdzob byang chub kyi sems rin po che gong nas gong du spel bar byed pa bsam gtan gyi le'u la/
@@ -28183,7 +28183,7 @@ gzhung dang mtshan no/ /
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gzhung">
 dang po [gzhung] la/
@@ -28200,7 +28200,7 @@ mtshams sbyar ba'i sgo nas mdor bstan pa/ bsam gtan 'grub pa'i rgyu tshogs bshad
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mdor">
 dang po [mtshams sbyar ba'i sgo nas mdor bstan pa] ni/
@@ -28254,8 +28254,8 @@ gong du bstan pa de ltar brtson 'grus bskyed de lto tshad la phab/ gnyid sang la
 What happens if we fail to concentrate? A person whose mind is slack and left to drift to the objects of the six consciousnesses is like a scrap of food caught between the fangs of demons, namely, the defilements of attachment and hatred. It is certain that people who leave their minds to their own devices will lose whatever spiritual qualities they may have. The essence of liberation will be destroyed, and suffering will be the only outcome.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rgyu">
 gnyis pa [bsam gtan 'grub pa'i rgyu tshogs bshad pa] la/
@@ -28272,7 +28272,7 @@ mdor bstan pa dang / rgyas pa bshad pa gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mdor">
 dang po [mdor bstan pa] ni/
@@ -28305,8 +28305,8 @@ nyon mongs spang pa la rnam g.yengs spang dgos shing de la'ang bsring ba gnyis l
 If we want to give up the afflictions, we must give up distractions, and in order to do this, we must have recourse to solitude, which means to distance ourselves from two kinds of object. On the physical level, we must relinquish all attachment to the affairs and meaningless doings of the world. On the mental level, we must completely put a stop to the mind’s wandering toward the objects of the senses, and we should train ourselves in concentration. And for this, it is necessary to be alone. For the company of even one person will result in obstacles to concentration. If we really want to train in concentration, we must stay in solitude, alone, and without our friends.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rgyas">
 gnyis pa [rgyas pa bshad pa] la/
@@ -28323,7 +28323,7 @@ gnyis pa [rgyas pa bshad pa] la/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="spang ba">
 dang po ['jig rten spang ba] la
@@ -28340,7 +28340,7 @@ dang po ['jig rten spang ba] la
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="rgyu mtshan">
 dang po ['jig rten spang dgos pa'i rgyu mtshan bshad pa] ni/
@@ -28428,8 +28428,8 @@ Once rid of them, remain in perfect solitude
 And meditate on emptiness.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="nang">
 gnyis pa [nang sems can gyi 'jig rten la sred pa spong bar bya ba] ni/
@@ -28765,8 +28765,8 @@ No attachment, no resentment: That’s the counsel of my heart.
 That is surely a piece of advice we should follow. But what usually happens nowadays is that lamas act as though their benefactors were their private property. And benefactors do the same with regard to the lamas whom they sponsor. How can they possibly be of benefit to beings and the Doctrine? What we need to do is to give up the eight worldly concerns and actions motivated by attachment and anger. For these will destroy us in this and future lives. We need to establish ourselves firmly in solitude, alone and without company! It has been said that Shantideva’s words “Take only what will serve the practice of the Dharma” can also be interpreted as referring to the essence of the teachings received from one’s teacher.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="phyi">
 gsum pa [phyi rnyed sogs kyi 'jig rten la sred pa spong bar bya ba] ni/
@@ -28989,8 +28989,8 @@ The wise and prudent shun their company.
 There are many other quotations to the same effect.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dben">
 bzhi pa [spangs nas dben pa'i yon tan brten tshul] ni/
@@ -29321,9 +29321,9 @@ gnas par byas nas kyang dgra 'dul gnyen skyong dkor sdud rnyed tshol sogs tshe '
 [verse 38] Abandoning all other aspirations and wishes and all unvirtuous and even neutral states of mind that focus on this present life and are concerned with self-enrichment, the gaining of religious offerings, the overcoming of enemies, or the protecting of friends, Shantideva resolves to watch his mind and bring it under control. This will be his only concern. He will strive in the profound meditation of the union of shamatha and vipashyana: the former to still his mind in the even state of calm abiding, the latter to subdue it with penetrative insight.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="rnam rtog">
 gnyis pa rnam rtog dor ba la/
@@ -29340,7 +29340,7 @@ mdor bstan pa dang rgyas par bshad pa gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mdor">
 dang po [mdor bstan pa] ni/
@@ -29381,8 +29381,8 @@ zhes pa ltar tshe phyi ma pha rol tu ni dmyal ba dang yi dwags dud 'gro la sogs 
 [verse 39] In this and any other world (in other words, in this and future lives), desire for lovers, for possessions, and so on, is the fertile parent of all suffering. On account of a woman or material gain, a man may be killed by others, imprisoned and bound with iron chains, his limbs wounded and cut with swords. As the saying goes, “Joyful though the act may be, the price is paid in tears”—paid, in other words, in the next life, in the experience of the boundless pains of the hell realms and the states of pretas and animals.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rgyas">
 gnyis pa [rgyas par bshad pa] la/
@@ -29399,7 +29399,7 @@ nang bud med la sred pa spong bar bya ba/ phyi rnyed sogs la sred pa spong bar b
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="nang">
 dang po [nang bud med la sred pa spong bar bya ba] la/
@@ -29416,7 +29416,7 @@ rgyu bsgrub dka' ba/ ngo bo mi gtsang ba yin par bsam pa/ 'bras bu gnod pa mang 
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="rgyu">
 dang po [rgyu bsgrub dka' ba] ni/
@@ -29495,8 +29495,8 @@ Alternatively these words may be interpreted as meaning that “since the body o
 For it is as though one is faced with a choice. If one wishes for the state beyond suffering, one has to give up desire for a lover, for without this, obstacles are created to the three trainings of the path, and nirvana cannot be achieved. It is through the perfect observance of discipline, the basis of all excellent qualities, that outer and inner cravings must be abandoned. Otherwise, concentration, namely, the calm abiding of shamatha will not arise, and without this, the penetrative insight of vipashyana will not occur. If, moreover, one does not posses the union of shamatha and vipashyana, it will be impossible to discard completely the afflictions present even in the Peak of Existence, and one will be unable to pass beyond suffering.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="ngo bo">
 gnyis pa [ngo bo mi gtsang ba yin par bsam pa] ni/
@@ -30127,8 +30127,8 @@ shi bas ro rnam par 'thor ba'i rus pa'i gong bu 'ba' zhig mthong bar gyur nas ni
 [verse 70] We are reluctant to visit and look at the charnel grounds where there is nothing but human corpses and skeletons. We feel fear and revulsion. Why then do we take so much pleasure in the cities of the living dead, inhabited by skeletons that live and move, moved and animated by the mind and breath?
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="'bras bu">
 gsum pa ['bras bu gnod pa mang bar bsam pa] ni/
@@ -30315,9 +30315,9 @@ And some are even burnt alive.
 Because its visual consciousness is attached to a certain form, a butterfly is burnt in a flame; because its ears are drawn to sound, a deer is killed by a poisonous arrow;[172] because its nose loves the scent, a bee is trapped inside a flower; because its tongue is attached to taste, a fish is caught on a hook; and because its sense of touch is attached to certain sensations, an elephant gets trapped in mud. We ought to reflect on the drawbacks of the objects of desire and rid ourselves of attachment to them.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="phyi">
 gnyis pa phyi rnyed sogs la sred pa spong bar bya ba ni/
@@ -30485,8 +30485,8 @@ That can compare to the desires.
 [verse 84] If we consult our own advantage, we might well reflect upon the horrors of the states of sorrow (the realms of hell and the condition of pretas and of beasts), all of which are the end result of craving for objects of desire. None of our present adversities (such as being struck by weapons, killed with poison, burned in fire, falling into ravines, or being beaten by enemies) is to be compared with such attachment. For such adversities can only result in our death; they do not in themselves project us into the lower realms.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dben">
 gsum pa dben pa'i yon tan dran pa ni/
@@ -30600,12 +30600,12 @@ You may have nothing but are rich indeed!
 In this section, which deals with the gathering of the conditions conducive to meditative concentration, the excellence of solitude is alluded to on two [separate] occasions. There is no mistake in this. The first mention is made to inspire us with a delight in solitude and to make us want to go and stay there. Later, however, when, after taking up residence, we feel unable or unwilling to stay—owing to insufficient provisions or because of a longing for companionship—it might be helpful to remind ourselves of the qualities of solitude, so much praised by the Buddhas and Bodhisattvas. The repetition is to encourage us to remain firmly and joyfully in such a place.
 </d>
 </f>
-</b>
-</b>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="dngos">
 gsum pa bsam gtan bsgom pa dngos la/
@@ -30622,7 +30622,7 @@ mtshams sbyar te mdor bstan pa/ bsam gtan bsgom tshul rgyas par bshad pa/ ting n
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mdor">
 dang po [mtshams sbyar te mdor bstan pa] ni/
@@ -30656,8 +30656,8 @@ Broadly speaking, by training ourselves in the preparatory stage (characterized 
 It should not be thought that samadhi (or meditative stability or concentration) is a state of “unknowing” or mental blankness. Samadhi or shamatha (calm abiding) means to possess full control over one’s mind, regardless of whether it is allowed to move or made to remain still. When it is allowed to move, it will engage in every kind of virtuous object of focus. When it is made to rest, it will remain as immovable as Mount Meru.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rgyas">
 gnyis pa [bsam gtan bsgom tshul rgyas par bshad pa] la/
@@ -30674,7 +30674,7 @@ bdag gzhan mnyam pa bsgom tshul dang / brje ba bsgom tshul gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mnyam">
 dang po [bdag gzhan mnyam pa bsgom tshul] la
@@ -30691,7 +30691,7 @@ mdor bstan/ rgyas bshad/ don bsdu ba dang gsum las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mdor">
 dang po [mdor bstan] ni/
@@ -30728,8 +30728,8 @@ Although they have no ultimate grounds for doing so, all beings think in terms o
 Thus, for the realization of the equality of “I” and “other,” it is essential to grasp that “I” and “other” are merely labels without any basis in reality. This vital point of egolessness is difficult to understand, difficult even for a person of high intelligence. Thus, as the teachings say, it is of great importance that egolessness be clearly demonstrated and assimilated.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rgyas">
 gnyis pa [rgyas bshad] la/
@@ -30746,7 +30746,7 @@ mnyam pa ji ltar bsgom tshul/ de la rtsod pa spang ba/ de ltar goms pa'i phan yo
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="tshul">
 dang po [mnyam pa ji ltar bsgom tshul] ni/
@@ -31115,8 +31115,8 @@ sdug bsngal myong ba po'i bdag po'am myong mkhan gyi bdag ci yang med na sdug bs
 One cannot argue like this. On the ultimate level this is the case. But on the relative level, we do feel suffering as something to be got rid of, and it follows that the suffering of others is to be removed also. Conversely, if the suffering of others is something that is not to be removed, it follows in similar measure that our own suffering should not be removed either. To remove it would be logically inconsistent.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rtsod">
 gnyis pa [de la rtsod pa spang ba] ni
@@ -31191,8 +31191,8 @@ snying rje'i sdug bsngal bskyed bya yin pa des na byang chub sems dpa' me tog zl
 [verse 106] The sorrow of compassion is therefore something to be cultivated. It was thus that the Bodhisattva Supushpachandra, clairvoyantly aware that the king would kill him, did not turn away. In order to remove the suffering of many other beings, he himself did not shy away from pain. On the contrary, he earnestly embraced it. The story is recounted in the Samadhiraja-sutra. At a time when the Doctrine of an earlier Buddha, Ratnapadmachandra, was in decline, the monk Supushpachandra lived together with a host of seven thousand Bodhisattvas in the forest called Samantabhadra. He was gifted with second sight, and he knew that if he were to go and teach in the jeweled palace of the king Viradatta, many millions of beings would gain high rebirth or liberation in the state of a nonreturner. None of this would happen if he failed to go. On the other hand, he knew that if he went, the king would kill him. And so he went to the palace and fasted for seven days. At night, he circumambulated a stupa that contained relics consisting of the fingernails of one of the Buddhas, and during the day, he taught the Dharma in all the villages around. He placed an inconceivable number of beings in the higher realms and in the level of nonreturners. After he died, killed on the orders of the king by Udayana the executioner, the king himself repented, built a stupa for Supushpachandra’s bones, and made offerings before it.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="yon">
 gsum pa [de ltar goms pa'i phan yon] ni/
@@ -31268,9 +31268,9 @@ de ltas te de lta bas na rang 'dod yid byed med par gzhan sems can gyi don kho n
 [verse 109] On the other hand, the task of bringing benefit to other beings in a manner that is free of all self-centeredness should not be a cause of pride and self-congratulation. Such altruistic labors are themselves their own reward, says Shantideva. He has no expectation of being rewarded in a future life.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsdu">
 gsum pa don bsdu ba ni/
@@ -31301,9 +31301,9 @@ bdag gzhan mnyam pa'am khyad par med pa de bas na ji ltar chung ngu'am tha na cu
 [verse 110] Shantideva sums up by saying that since he and others are equal without any difference between them, it follows that, just as he defends himself against even the slightest criticism and false accusation, in the same way, he will now cultivate and habituate himself to compassion and an attitude of benevolence: wishing to protect others and to care for them.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="brje">
 gnyis pa brje ba la/
@@ -31320,7 +31320,7 @@ rgyu mtshan brjod pas mdor bstan pa/ de bsgom tshul rgyas par bshad pa gnyis las
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mdor">
 dang po [rgyu mtshan brjod pas mdor bstan pa] ni/
@@ -31397,8 +31397,8 @@ des na rang don yid byed kyis bdag nyid dam rang gces par bzung bas 'di phyir sd
 The exchange of self and other as explained in the texts is not like the one practiced by yogis. Thus though there are four ways of effecting the exchange of self and other (the exchange of the self-cherishing itself, the exchange of the body as the ground of imputation of the self, the exchange of happiness and suffering, and the exchange of negative and positive actions), in Shantideva’s text only the first three topics are mentioned.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rgyas">
 gnyis pa [de bsgom tshul rgyas par bshad pa] la/
@@ -31415,7 +31415,7 @@ brje tshul spyir bstan pa dang / gnyen po'i khyad par bye brag tu bsgoms pa dang
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="tshul">
 dang po [brje tshul spyir bstan pa] la/
@@ -31432,7 +31432,7 @@ gzhan dang du blang ba/ bdag gces 'dzin dor ba/ bdag gzhan gtso bor byas pa'i sk
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="dang du blang">
 dang po [gzhan dang du blang ba] ni/
@@ -31595,8 +31595,8 @@ des na gang zag gang zhig bdag dang gzhan sems can rnams ni sdug bsngal thams ca
 [verse 120] Therefore, those who wish quickly to become a refuge from suffering both for themselves and for others should practice and embrace the sacred mystery: the exchange of self and other. It is a secret because it lies beyond the possibilities of the Shravakas and others.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dor">
 gnyis pa [bdag gces 'dzin dor ba] ni/
@@ -31693,8 +31693,8 @@ bdag legs su 'dod pa'i mkhas pa su zhig 'di phyi'i sdug bsngal gyi 'byung gnas l
 [verse 124] What prudent people are there then, who, wishing to be happy, take delight in their bodies, lavishing all their care, food, clothes, and resources on them—loving and protecting the very thing that is the source of present and future suffering? Such behavior is completely wrongheaded. Shantideva says this precisely to dissuade us from identifying and cherishing our bodies as ourselves.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="skyon yon">
 gsum pa [bdag gzhan gtso bor byas pa'i skyon yon] ni/
@@ -31904,8 +31904,8 @@ mthong ba tshe 'di dang ma mthong ba skye ba phyi ma la bde ba thams cad 'grub p
 [verse 133] By failing to discriminate correctly between the causes of happiness and misery, we cast away so much of the former. For we forsake the practice of exchange, the cause of every joy both “seen and unseen” (that is, in this and future existences), and we inflict pain and sorrow on others. It is thus that, in our confusion, we bring upon ourselves unbearable suffering both now and in our future lives.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dngos">
 bzhi pa [des na nges par brje dgos par gdams pa brje ba dngos] ni/
@@ -32058,9 +32058,9 @@ rgyu mtshan des na gzhan sems can rnams gtsor bya ste gtso bor byas te bdag gi l
 [verse 139] It is thus that living beings must be our chief concern. Everything beneficial we find that our body possesses (food, clothing, and other commodities) will be seized and handed over to those who do not have them, exclusively for their use and service. As it is said, if we dread giving away even a little quantity of something, we must develop the confident courage to surrender an entire load of it. We should take the food from our very mouths and give it to others. This is how we should crush down our craving and attachment with regard to such material goods. It is said that we should give them all away.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="khyad par">
 gnyis pa gnyen po'i khyad par bye brag tu bsgom pa la/
@@ -32077,7 +32077,7 @@ mdor bstan pa dang / rgyas par bshad pa gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mdor">
 dang po [mdor bstan pa] ni/
@@ -32108,8 +32108,8 @@ gzhan sems can rang las dman pa dang sogs sgras mnyam pa dang mtho ba gsum bdag 
 [verse 140] When you perform the meditation of exchange, take other beings, whether inferiors, superiors, or equals and consider them as yourself, putting yourself in their position. When you have changed places, meditate without allowing any other thought to come in the way. Put yourself in the position of someone worse off than you and allow yourself to feel envy. Then put yourself in the position of someone on the same level and soak yourself in a sense of competitiveness and rivalry. Finally, taking the place of someone better-off, allow yourself to feel pride and condescension.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rgyas">
 gnyis pa [rgyas par bshad pa] la
@@ -32126,7 +32126,7 @@ dman pa la brjes nas phrag dog bsgom pa/ mnyam pa la brjes nas 'gran sems bsgom 
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="dman">
 dang po [dman pa la brjes nas phrag dog bsgom pa] ni/
@@ -32289,8 +32289,8 @@ gzhung 'dir bstan phal cher lag len du sbyor bar gsungs pa yin no/ /
 This is how to meditate on envy and resentment as the chief antidote to pride. By appreciating the suffering involved in being a poor and insignificant person, without talents or honor, you come to realize how wrong it is to be arrogant and scornful. It dawns on you how unpleasant it is for people in a humble position when you are proud and supercilious toward them. You should stop behaving like this and begin to treat people with respect, providing them with sustenance and clothing, and working to help them in practical ways.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="mnyam">
 gnyis pa [mnyam pa la brjes nas 'gran sems bsgom tshul] ni/
@@ -32397,8 +32397,8 @@ de ltar 'gran sems kyi gnyen por 'gran sems bsgom pas rang gis sngar gzhan la 'g
 By using a spirit of rivalry in this way as an antidote to jealousy, you will come to recognize your own faults in being competitive with others. Then you will stop behaving like this and instead do whatever you can to help your rivals with presents and honors.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="lhag">
 gsum pa [lhag pa la brjes nas nga rgyal bsgom tshul] ni/
@@ -32529,10 +32529,10 @@ sems kyi bsgom byar 'di legs la lag len la sbyor bya gong bshad ltar legs/ gang 
 It is excellent to meditate in this way. It is also excellent to put such a meditation into practice as described above. When we experience pride, rivalry, or envy, we should recall the appropriate meditation as an antidote and use it as a means to rid ourselves of our defilements. Moreover, it has been said that it is permissible to meditate using whatever method seems easiest.
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsgrub">
 gsum pa brjes nas ji ltar bsgrub pa la/
@@ -32549,7 +32549,7 @@ gsum pa brjes nas ji ltar bsgrub pa la/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="'jam">
 dang po ['jam po'i sgo nas gdams pa] ni/
@@ -32847,8 +32847,8 @@ dge ba chos sdud kyi tshul khrims de la 'bad par bya ba dang / de ltar sems can 
 [verse 167] In other words, we must strive in the discipline of accumulating virtuous qualities, remain in the discipline of bringing benefit to others, and observe perfectly the discipline of avoiding any kind of negativity. And when we fail, we must use our minds to bring our bodies to heel. The mind too must be curbed with antidotes. It is as when the master of discipline exhorts the monastic community to strict observance, saying, “You must do this; you must do that. If you disobey, you will be punished!” In the same way, if, because of bad physical and mental habits, our minds transgress the rules of proper conduct, they must be subdued with antidotes. For example, if we find that we cannot give up a single evening meal, we must discipline ourselves by not eating for a whole week!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rtsub">
 gnyis pa [rtsub mo'i sgo nas tshar bcad pa] la/
@@ -32865,7 +32865,7 @@ yid tshar bcad pa dang / lus tshar bcad pa gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="yid">
 dang po [yid tshar bcad pa] ni/
@@ -33006,8 +33006,8 @@ de ste des na zhes don da phyin chad bdag ni gtan du dga' zhing bde bar 'dod na 
 [verse 173] For so it is, he reflects. If he desires permanent contentment and happiness, he must never strive to please himself or work for egotistical goals. Instead, he must work joyfully for the good of others. Likewise if he would like to be protected from suffering, he must strive always to be the guardian of others, never of himself.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="lus">
 gnyis pa [lus tshar bcad pa] ni/
@@ -33298,13 +33298,13 @@ This body is the slave of evil or of good.
 Although this body is possessed of many defects, it is also the indispensable tool for virtue. Therefore let us employ the body for its proper purpose.
 </d>
 </f>
-</b>
-</b>
-</b>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="gdams">
 gsum pa ting nge 'dzin sgrub pa'i thabs la gdams pa ni/
@@ -33379,10 +33379,10 @@ thar pa thob pa'i don du 'bad dgos pa de bas na sgrib gnyis bag chags dang bcas 
 [verse 187] The gaining of liberation is something for which we must strive. Therefore Shantideva says that, in order to remove the two obscuring veils, together with the habitual tendencies associated with them, he will turn himself from the mistaken path (of holding apparent phenomena as truly real). He will continuously rest his mind in a state of meditative equipoise, in perfect concentration (the fusion of mental stillness and penetrative insight) upon the dharmadhatu, the authentic and ultimate object of meditation.
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="mtshan">
 le'u'i mtshan ni/
@@ -33399,9 +33399,9 @@ byang chub sems dpa'i spyod pa la 'jug pa las bsam gtan bstan pa zhes bya ba ste
 Here ends the eighth chapter of the Bodhicharyavatara, on meditative concentration.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="shes rab">
 ! gsum pa don dam byang chub kyi sems rin po che gong du spel bar byed pa shes rab kyi le'u la
@@ -33418,7 +33418,7 @@ gzhung dang / mtshan no/ /
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gzhung">
 dang po [gzhung]
@@ -33435,7 +33435,7 @@ shes rab bskyed pa mdor bstan pa/ de rgyas par bshad pa gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="mdor">
 dang po [shes rab bskyed pa mdor bstan pa] ni/
@@ -33537,8 +33537,8 @@ Toward the benefit of others.
 This same text also speaks of “emptiness with the essence of compassion,” referring to the fact that, as the Buddhas and Bodhisattvas have proclaimed, the realization of emptiness occurs simultaneously with the birth of compassion. And out of compassion, emptiness is taught to others, so that all the sufferings of oneself and others may be brought to nothing.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rgyas">
 gnyis pa [de rgyas par bshad pa] la/
@@ -33555,7 +33555,7 @@ lta bas gtan la phab pa dang / bsgom pas nyams su blang ba/ gtan tshigs kyis sgr
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="lta ba">
 dang po [lta bas gtan la phab pa] la yang /
@@ -33572,7 +33572,7 @@ bden gnyis rnam par bzhag pa/ de la rtsod pa spong ba/ theg chen mchog tu bsgrub
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="bden gnyis">
 dang po [bden gnyis rnam par bzhag pa] la/
@@ -33589,7 +33589,7 @@ bden gnyis kyi dbye ba/ bden gnyis kyi mtshan nyid/ bden gnyis gtan la 'beb pa'i
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="dbye">
 dang po [bden gnyis kyi dbye ba] ni/
@@ -33617,8 +33617,8 @@ Are stated to be the two truths.
 These two aspects are, on their respective levels, incontrovertible, and this is why they are regarded as two truths. It is incorrect to say that the two truths are distinct on the ultimate level or that they are one and the same on the relative level. Both these claims are invalidated by four unwanted consequences.[188] In fact, as it is said in the Sandhinirmochana-sutra, the two truths should be understood as being neither identical nor distinct.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="mtshan nyid">
 gnyis pa [bden gnyis kyi mtshan nyid] ni/
@@ -33707,8 +33707,8 @@ yang bden gnyis kyi dbye gzhi shes bya yin pas don dam shes byar khas blang ba d
 Again, given that the basis for the division into two truths consists of phenomena as objects of knowledge, the ultimate truth in this context is referred to as an object of knowledge; this assertion is made from the standpoint of exclusion. This does not conflict with the earlier contention that the ultimate truth is not an object of knowledge—an assertion made from the standpoint of detection.[190] For one should have recourse to the intended meaning of the teachings.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="gang zag">
 gsum pa [bden gnyis gtan la 'beb pa'i gang zag] ni/
@@ -33862,9 +33862,9 @@ de bzhin du sa bcu dang lam lnga yang gong ma gong ma'i rtogs pa dang yon tan th
 [verse 4] So it is that, through varying degrees of insight into the status of phenomena, there are, even within the ranks of Buddhist practitioners, those who are refuted and overmastered by others of successively elevated view. For in proportion as their insight into the nature of things becomes more acute, those equipped with valid cognition are able to refute inferior theories and not otherwise. In just the same way, as realization increases on the five paths and ten grounds, and their qualities are acquired, lower realizations and qualities are superseded.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="rtsod">
 gnyis pa de la rtsod pa spong ba la/
@@ -33881,7 +33881,7 @@ gzhi bden gnyis la rtsod pa spong ba dang / lam stong nyid la rtsod pa spong ba/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gzhi">
 dang po [gzhi bden gnyis la rtsod pa spong ba] la/
@@ -33898,7 +33898,7 @@ dang po [gzhi bden gnyis la rtsod pa spong ba] la/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="phal">
 dang po ['jig rten phal pa'i rtsod spong nyan thos kyi rtsod spong] ni/
@@ -33957,8 +33957,8 @@ dngos po mthong ba na 'jig rten pa yis gzugs la sogs pa'i dngos po gang mthong z
 [verse 5] The point at issue is that, when ordinary people perceive objects, they believe that they exist in just the way that they appear: perfectly real and absolutely existent. They do not have the insight of Buddhist yogis, who understand that though objects appear, they are like mirages and do not exist truly. This is the point on which they disagree.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="nyan thos">
 gnyis pa [nyan thos kyi rtsod spong] ni/
@@ -34229,8 +34229,8 @@ sangs rgyas 'jig rten du bltams pa sogs ni 'khor bas bsdus pa ma yin te/ smon la
 [verse 15] If the stream of causes that result in different phenomena is not severed, there will be no cessation either of samsara or of magical appearances. But if the continuum of causes is interrupted, their effects will not manifest even on the relative level. And if they do not manifest on the relative level, there is no need to talk about [their manifesting on] the ultimate level. Therefore, for those who, through the wisdom of realizing the absence of self, uproot ignorance together with its seeds, there is no returning to samsara, for there is no further cause for it. The Buddha’s birth in this world was not a samsaric event. It was through the strength of primordial wisdom and the cooperating conditions of his aspirations and concentrations that the Buddha displayed deeds that were like a magical illusion, while never once stirring from the dharmadhatu.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="sems tsam">
 gsum pa [sems tsam pa rnams kyi rtsod spong] ni/
@@ -34602,9 +34602,9 @@ de lta bu yin na yang chos thams cad sems tsam mo zhes rnam rig tsam du brtags s
 [verse 29] But if the mind is without a perceived object, it is empty also of a perceiving subject. Now according to the Chittamatrins, when the “emptiness of subject and object” is actualized, ultimate reality manifests. So [according to their argument] this must mean that all beings are Buddhas from the very beginning, without needing to endeavor on the path. In which case, what is the point of elaborating a philosophical system saying that everything is mind? By affirming that all is mind, the Chittamatrins say that objects do not exist separate from the mind, and they claim to establish that ultimate reality is voidness of the subject-object dichotomy. Even so, what is the use of such a system, given that both these assertions (that of refuting dualistic appearance and that of establishing nonduality) have become superfluous? If therefore one asserts that mental aspects do not exist, it follows that the appearances of samsara are groundless, with the result that all experience becomes impossible.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="lam">
 gnyis pa lam stong nyid la rtsod pa spong ba ni/
@@ -34801,8 +34801,8 @@ Those who “have a view” of voidness,
 Are barred, they say, from its accomplishment.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="'bras">
 gsum pa 'bras bu gzhan don la rtsod pa spong ba ni/
@@ -34944,9 +34944,9 @@ de'i phyir bdag cag sangs rgyas dang mchod pa'i bsod nams gnyis po kun rdzob sgy
 [verse 39] Therefore, regardless of whether one considers (as Madhyamikas do) that the Buddhas themselves and the merit gained from making offerings to them are just illusions on the level of relative truth, or whether one believes (as do those who raised this objection) that both exist truly in an ultimate sense, the merit gained from making such offerings is extremely great. There is scriptural authority for this assertion. To repeat, just as the making of offerings to a truly existent Buddha is productive of merit, in the same way, illusion-like merits arise from making offerings to a Buddha devoid of true existence. Both positions, in fact, have the support of scripture.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsgrub">
 gsum pa theg chen mchog tu bsgrub pa la/
@@ -34963,7 +34963,7 @@ lung theg chen bkar bsgrub pa dang / lam stong nyid gnyen por sgrub pa gnyis las
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="lung">
 dang po [lung theg chen bkar bsgrub pa] ni/
@@ -35385,8 +35385,8 @@ yang na 'od srung sogs kyis rtogs sam ma rtogs khyod kyis ma rtogs pas zhes kyan
 It should be noted that some authorities have questioned the authorship of verses 49 to 51.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="gnyen po">
 gnyis pa [lam stong nyid gnyen por sgrub pa] ni/
@@ -35516,10 +35516,10 @@ des na stong nyid la zhum pa spangs te myur du bsgom par gyis shig ces so/ /
 [verse 56] If there existed a self, susceptible to fear, then of course anything frightening could alarm it. But since there is no self, who is there to be afraid? No one at all. Fear is inappropriate. Faintheartedness therefore should be cast aside. Let us be quick to meditate on emptiness!
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsgom">
 gnyis pa lam bsgom pas nyams su blang ba la/
@@ -35536,7 +35536,7 @@ gang zag gi bdag med bsgom tshul dang / chos kyi bdag med bsgom tshul gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gang zag gi">
 dang po [gang zag gi bdag med bsgom tshul] la
@@ -35553,7 +35553,7 @@ lhan skyes kyi bdag stong par bsgom tshul/ kun brtags kyi bdag stong par bsgom t
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="lhan skyes">
 dang po [lhan skyes kyi bdag stong par bsgom tshul] ni/
@@ -35666,8 +35666,8 @@ The situation is comparable to what might happen in the gathering twilight when 
 To this end, we have been told to examine where this sense of “I” arises, where it abides, and where it subsides. In accordance with this instruction, we should make a thorough investigation and should then simply rest in the state of finding nothing. When we are unable to continue with this, we should proceed with the analytical meditation described earlier. These two kinds of meditation should be practiced alternately. The first counteracts excited mental activity, while the second is an antidote for dullness and torpor.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="kun brtags">
 gnyis pa [kun brtags kyi bdag stong par bsgom tshul] la/
@@ -35684,7 +35684,7 @@ bdag shes par 'dod pa dgag pa/ bdag bem por 'dod pa dgag pa/ bdag med pa'i don l
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="shes">
 dang po [bdag shes par 'dod pa dgag pa] ni/
@@ -35916,8 +35916,8 @@ gang tshe shes pa'i bye brag gzugs 'dzin sgra 'dzin la sogs pa tha dad pa dag mi
 Finally, the Samkhyas say that various and specific types of consciousness, the hearing of sounds, the seeing of objects, and so forth, are untrue and deceptive and therefore have no true existence as separate things. But once one has totally discounted all specificity (of experience), what remains of this mere consciousness, which is supposedly real, single, universal, and, as it were, the general foundation? There is nothing left of it.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bem">
 gnyis pa [bdag bem por 'dod pa dgag pa] ni/
@@ -35982,8 +35982,8 @@ kye ma rig pa can gyi blo gros la ltos zhes so/ /
 [verse 69] In any case, if it is claimed that the self is immutable and permanent, what object-cognizing effect could the consciousness produce in it? Obviously none. Consciousness cannot cause an immutable self to pass from one state to another, any more than one can make the sky blue by using paint! Their statement that the unconscious and inanimate thing, which, like space, is free from all activity, is the self is no more than a dogmatic claim. Alas, so much for the intelligence of the Naiyayikas!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rtsod">
 gsum pa bdag med pa'i don la rtsod pa spong ba la/
@@ -36000,7 +36000,7 @@ bdag med na las 'bras mi 'thad pa'i rtsod spong / bdag med na snying rje mi 'tha
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="las">
 dang po [bdag med na las 'bras mi 'thad pa'i rtsod spong] ni/
@@ -36141,8 +36141,8 @@ dper na chu shing sdong po rlon pa sra ba'i cha med pa khong stong gsob can de d
 [verse 74] It is just as when one cuts open a banana tree, which is full of sap but is hollow and without any firmness or body to it. Gradually cutting through the fibers, one finds nothing substantial, and eventually the tree disintegrates. So too, if one searches analytically, one will find that the self has no reality, no ultimate existence.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="snying rje">
 gnyis pa [bdag med na snying rje mi 'thad pa'i rtsod spong] ni/
@@ -36178,8 +36178,8 @@ And yet these beings, whose burden we assume, have no existence in an ultimate s
 Likewise, the Bodhisattvas have no regard for their own welfare. They see that others suffer meaninglessly, and the attitude of cherishing them more than themselves naturally arises in their minds. They perceive that the suffering of beings is like a deep sleep and that they are able to wake them from it.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="btags">
 gsum pa [btags pa'i bdag mi 'gogs par bstan pa] ni/
@@ -36269,11 +36269,11 @@ Once again, these two cases are not the same.[218] The sense of self that is jus
 To sum up therefore, belief in selfhood is the root of samsaric existence. As long as this is not eliminated, no matter what practices one undertakes, whether austerities or meditation, one cannot get beyond samsara. Consequently, it has been said that those graced with good fortune who wish for liberation should constantly make their practice a remedy to self-clinging.
 </d>
 </f>
-</b>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="chos">
 gnyis pa chos kyi bdag med bsgom tshul la/
@@ -36290,7 +36290,7 @@ lus dran pa nyer bzhag bsgom tshul/ tshor ba dran pa nyer bzhag bsgom tshul/ sem
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="lus">
 dang po [lus dran pa nyer bzhag bsgom tshul] la/
@@ -36307,7 +36307,7 @@ lus spyir brtags pa/ yan lag bye brag tu brtags pa/ des na lus la chags pa spong
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="spyir">
 dang po [lus spyir brtags pa] ni/
@@ -36479,8 +36479,8 @@ de bzhin du ji srid lag sogs yan lag la lus su gdags pa'i rkyen phan tshun 'brel
 [verse 84] As long as the conditions are fulfilled with regard to a specific shape, the body will continue to appear as a man or a woman. But when these conditions are not complete, it will not do so, as when a change of sex occurs or during the development of an unborn child or when the body is cremated and only ashes are left. In just the same way, as long as the circumstances for the imputation of the body are found (that is, the interconnected physical parts), a body will appear. But in themselves these parts are not the body; they are just pieces of flesh and bone.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bye brag">
 gnyis pa [yan lag bye brag tu brtags pa] ni/
@@ -36542,8 +36542,8 @@ des na lag pa la sogs pa'i yan lag dang gzugs snang thams cad rags pa phra ba da
 [verse 86] Again, these parts may be progressively subdivided, from the comparatively gross down to the most subtle particles, and even the tiniest particle may be split sixfold—above, below, and in the four directions. Ultimately, not one truly existent fragment can be found in any of these directional segments; even the fragments themselves disappear. Thus, if all apparent forms, for example the hand, are assessed by dissecting them in this way, going from comparatively gross to more subtle fragments, down to the directional segments of the infinitesimal particle, they are seen to be empty, like space; they have no existence as physical forms. Even the infinitesimal particle does not exist.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dgos">
 gsum pa [des na lus la chags pa spong dgos par bstan pa] ni/
@@ -36584,9 +36584,9 @@ de ltar shes nas phan tshun chags zhen la sogs pa'i mtshan 'dzin spangs nas rjes
 Just as one analyzes one’s own body, so too should one analyze the bodies of other living beings, as well as other phenomena in the outer universe, such as mountains and continents, arriving at the firm conviction that they are like space, without inherent existence. Once this has been understood, and when all dualistic clinging to one’s body and the bodies of others has been rejected, all that manifests in the postmeditative state should be regarded as illusory—appearing but without inherent existence. And when meditating, one should rest in the natural state, spacious and free from conceptual activity. As it is said in the sutras, “Whoever, O Manjushri, sees that his body is like space is applying to his body the close mindfulness of the body.”
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="tshor">
 gnyis pa tshor ba dran pa nyer bzhag bsgom tshul la/
@@ -36603,7 +36603,7 @@ tshor ba'i ngo bo la brtags pa/ tshor ba'i rgyu la brtags pa/ tshor ba'i 'bras b
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="ngo bo">
 dang po [tshor ba'i ngo bo la brtags pa] ni/
@@ -36731,8 +36731,8 @@ tshor ba ni sred pa'i rtsa ba rtsod pa'i gzhir gyur pa'i gtso bo yin pa'i phyir 
 Since feelings are the root of craving and constitute the main grounds for all disagreements and quarrels, it has been said that it is of vital importance to come to a clear-cut conviction that they are without any inherent existence, and to become accustomed to this. Whether one performs analytical or resting meditation as described above, the most important thing in the beginning is to acquire wisdom through listening to the teachings. It has been said that among the disciples of Buddha Shakyamuni, those who realized the truth were the ones who had imbibed the teachings of the preceding Buddha Kashyapa. In the future, therefore, when the Buddha Maitreya appears, those who listen to the teachings now will be born as the first of his followers and will see the truth.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rgyu">
 gnyis pa [tshor ba'i rgyu la brtags pa] ni/
@@ -36865,8 +36865,8 @@ de ltar rgyu reg pa yod pa min na/ 'bras bu tshor ba gang las 'byung bar 'gyur t
 [verse 97] Therefore, if there is no contact acting as cause, from where do feelings result? Feelings themselves have no existence on the ultimate level, and if that is so, what sense is there in exhausting ourselves in demanding pleasure and turning away from pain? The pleasures that people desire and work for are nonexistent. It is the same with suffering. Therefore, what suffering is tormenting whom? It is just the delusion of the mind, and the mind is itself illusory.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="'bras">
 gsum pa [tshor ba'i 'bras bu la brtags pa] ni/
@@ -36905,8 +36905,8 @@ de yang gang gi tshe tshor ba po bdag dang shes pa rang bzhin gyis grub pa 'ga' 
 [verse 98] That which feels, namely, the mind and the self, and that which it experiences, namely, the feeling, have no inherent existence at all. When it is realized that that which feels and that which is felt are both without true existence, how could the result of feeling, namely, craving, not be averted, since its cause is removed?
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="tshor ba po">
 bzhi pa [tshor ba po la brtag pa] ni/
@@ -36999,9 +36999,9 @@ de ltar myong ba po'i bdag med par phung po'i tshogs pa rmi lam sgyu ma lta bu '
 [verse 101] On the other hand, as we have just explained, the consciousness that is distinct from the feelings cannot experience them either. That which experiences the feelings, the agent of sensation, has no true existence. Thus, such feelings are devoid of intrinsic reality. How then can this agent of experience, self-less and like a mirage or dream-vision, composed of a collection of aggregates, be affected by a feeling designated as “suffering” but which has no inherent existence? In truth, such an agent can neither be helped nor harmed.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="sems">
 gsum pa sems dran pa nyer bzhag bsgom tshul la/
@@ -37018,7 +37018,7 @@ sems rang bzhin med par bstan pa dang / sems skye ba med par bstan pa gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="rang bzhin med">
 dang po [sems rang bzhin med par bstan pa] ni/
@@ -37074,8 +37074,8 @@ zhes pa la sogs pa bzhin no/ /
 [verse 103] Whatever is body is not mind. But while the mind is not to be found separate from a body, as it were in exterior objects, neither does it mingle and merge with the body. But since it can have no independent existence, not even slightly, apart from the body, the root verse says, “Beings by their nature are beyond the reach of suffering.” As it is said in the Ratnakuta, “The mind is not within; the mind is not without; neither is it both. You cannot point to it.” And later, “The mind, O Kashyapa—even all the Buddhas have never seen it! They do not see it and they never shall!” And as the Prajnaparamita-sutra in eight thousand verses says, “The mind indeed is not a ‘mind’; the nature of the mind is lucent clarity.”
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="skye ba med">
 gnyis pa [sems skye ba med par bstan pa] ni/
@@ -37129,9 +37129,9 @@ yod na 'gags pa min te dus mnyam du 'gyur la/ med kyang skye na sa bon tshig pas
 [verse 105] If, however, consciousness arises subsequent to its object, again, from what does it arise, since the object of its perception has ceased to be? Does the object that has ceased continue to exist or not? If it still exists, it has not yet ceased and thus becomes simultaneous with the perceiving consciousness. If, on the contrary, something derives from it even though it does not exist, then we would have to say that a plant can arise from a burnt seed or that even a rabbit’s horns can give rise to a visual consciousness!
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="chos dran">
 bzhi pa chos dran pa nyer bzhag bsgom tshul la/
@@ -37148,7 +37148,7 @@ dngos dang de la rtsod pa spong ba gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="dngos">
 dang po [dngos] ni/
@@ -37188,8 +37188,8 @@ They do not come; they do not go.
 They are not different; they are not the same.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rtsod">
 gnyis pa [de la rtsod pa spong ba] la/
@@ -37206,7 +37206,7 @@ bden gnyis mi 'thad pa'i rtsod spong / gtan tshigs med pa'i rtsod spong / rnam d
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="bden gnyis">
 dang po [bden gnyis mi 'thad pa'i rtsod spong] ni/
@@ -37339,8 +37339,8 @@ Just as when the firewood is all consumed and the fire goes out, every idea of o
 For it should be understood that when the activity of the mind and its mental factors come to rest without any further movement, ultimate primordial wisdom manifests. When self-arisen wisdom appears, the [ordinary] mind ceases. If, bemused by ordinary opinions, we were to think that the discursive mind cannot come to a halt, or that if it could, then (as with an extinguished fire) no wisdom would ensue, this would be a great disparagement of the Buddha. This fault is to be avoided through the cultivation of certainty concerning the profound meaning.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="gtan tshigs">
 gnyis pa [gtan tshigs med pa'i rtsod spong] ni/
@@ -37371,8 +37371,8 @@ khyed ltar na shes bya shes byed rang bzhin med pas na rnam par dpyod pa'ang mi 
 [verse 108] It could be objected that if knower and known are both by nature empty, it does not make sense to analyze them. The answer is that, although the subject (the mind) and the object to be analyzed are empty by their nature, they are said to be mutually dependent. And since all analysis is conducted on the basis of the conventionalities of the common consensus in which things seem real as long as they are not subjected to close investigation, the analysis of them is quite tenable.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="thug med">
 gsum pa [rnam dpyod thug med du 'gyur ba'i rtsod spong] ni/
@@ -37425,12 +37425,12 @@ dpyad bya chos thams cad bden med du rnam par dpyad par byas nas skye ba dang sk
 [verse 110] In reply to this, Shantideva says that when phenomena are investigated and are found to be without true existence, and when it is ascertained with certainty that they cannot be characterized as produced or unproduced, analysis itself ceases to have an identifiable object or basis. When there is no longer any object or basis to act as a target, no analyzing subject will arise to focus on it. All concepts are stilled, and the analysis itself subsides like ripples on the water. This is called the “natural nirvana in the state of dharmata.”
 </d>
 </f>
-</b>
-</b>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="sgro 'dogs">
 gsum pa gtan tshigs kyis sgro 'dogs gcod pa la/
@@ -37447,7 +37447,7 @@ dngos por smra ba'i sgrub byed dgag pa/ stong par smra ba'i sgrub byed dgod pa d
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="dngos smra">
 dang po [dngos por smra ba'i sgrub byed dgag pa] ni/
@@ -37574,8 +37574,8 @@ des na dngos po khas len pa'i phyogs la tha snyad 'thad dka' zhing btags par kha
 It may be seen from this that it is extremely difficult to render conventional reality tenable from the point of view of those who hold to real existence. On the other hand, this is highly acceptable for those who say that [true existence] is just an imputation.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="stong smra">
 gnyis pa [stong par smra ba'i sgrub byed dgod pa] la/
@@ -37592,7 +37592,7 @@ rgyu la dpyod pa rdo rje'i zegs ma'i gtan tshigs/ ngo bo la dpyod pa rten 'brel 
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="rgyu">
 dang po [rgyu la dpyod pa rdo rje'i zegs ma'i gtan tshigs] la
@@ -37609,7 +37609,7 @@ rgyu med las skye bar 'dod pa dgag pa/ gzhan las skye bar 'dod pa dgag pa/ bdag 
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="rgyu med">
 dang po [rgyu med las skye bar 'dod pa dgag pa] ni/
@@ -37679,8 +37679,8 @@ des na rgyu med par gyur na rtag tu yod pa'am med par thal bar 'gyur na'ang / dn
 An alternative reading would be to ask why different causes can produce different effects. The answer is that they manifest owing to their respective earlier causes; and this, once again, is simply the nature of things. It follows, therefore, that what arises without a cause must either be eternal or else nonexistent; whereas phenomena are established as being caused, since they are observed sporadically in one situation or another.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="gzhan">
 gnyis pa [gzhan las skye bar 'dod pa dgag pa] la/
@@ -37697,7 +37697,7 @@ gzhan mi rtag pa las skye bar 'dod pa dgag pa dang / rtag pa las skye bar 'dod p
 Extraneous production may be discussed according to whether the supposed cause is impermanent or eternal. The first of these alternatives has already been dealt with; we will therefore consider the second.
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="rtag pa">
 gnyis pa [rtag pa las skye bar 'dod pa dgag pa] ni/
@@ -37920,9 +37920,9 @@ mu stegs dpyod pa ba sogs gang dag rdul phran te phra rab rtag pa 'jig rten gyi 
 [verse 126] Finally, the Mimamsaka theory, that the [material] cause of the universe is the infinitesimal and permanent particle, was disposed of above with the argument that particles may be directionally divided. There is no need to discuss it separately here.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="bdag skye">
 gsum pa bdag skye dgag pa la/
@@ -37939,7 +37939,7 @@ gtso bo dgag pa dang / bdag skye dgag pa dngos gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="gtso">
 dang po [gtso bo dgag pa] ni/
@@ -38165,8 +38165,8 @@ rags pa de nyid bde ba las gzhan min par gcig tu 'dod na bde ba gsal bar te nges
 [verse 134] If, on the other hand, it is said that this gross aspect is not different from the pleasure but is actually the same thing, the impermanence of pleasure is clearly and certainly established.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="dngos">
 gnyis pa [bdag skye dgag pa dngos] ni/
@@ -38365,9 +38365,9 @@ And thus the wise and learned do not rest
 In either “This thing is” or “It is not.”
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsdu">
 bzhi pa don bsdu ba ni/
@@ -38420,9 +38420,9 @@ zhes so/ /
 In this context, the expression “causes taken one by one” refers to the refutation of origination from self and from other. The expression “in the aggregate” indicates the refutation of origination from both [and neither]. This is also explained as the refutation of the four theories of production.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="ngo bo">
 gnyis pa ngo bo la dpyod pa rten 'brel chen mo'i gtan tshigs ni/
@@ -38510,8 +38510,8 @@ There are no phenomena, therefore,
 That are not empty.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="'bras bu">
 gsum pa 'bras bu la dpyod pa yod med skye 'gog ni/
@@ -38678,10 +38678,10 @@ Not the subtlest, distinction.
 Although there are different ways of classifying the Madhyamaka arguments, in the present text, they establish that all phenomena, which appear to exist in the manner of cause, result, and nature, are the three doors of liberation. The examination of causes shows that they are (1) devoid of all conceptual characteristics; [in other words, there are no causes]. As regards the nature of phenomena, analysis shows that this is (2) emptiness. And as for the results, analysis reveals that they are (3) beyond expectancy.
 </d>
 </f>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="byed las">
 bzhi pa stong nyid rtogs pa'i byed las la
@@ -38698,7 +38698,7 @@ gnyis te/ rang don du chos brgyad mgo snyoms pa dang / gzhan don du brtse ba'i s
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="rang don">
 dang po [rang don du chos brgyad mgo snyoms pa] ni/
@@ -38808,8 +38808,8 @@ chos thams cad yod med la sogs pa'i spros pa dang bral ba nam mkha' dang 'dra ba
 [verse 154] Let those who, like the wise master Shantideva, investigate the nature of things fully understand that all phenomena are like space and elude the conceptual categories of “is” and “is not.” Let them regard as equal the eight mundane concerns.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="gzhan don">
 gnyis pa [gzhan don du brtse ba'i snying rje chen po rtsol med du 'byung ba] ni/
@@ -39205,11 +39205,11 @@ But the veils, emotional and cognitive, are both removed by wisdom.
 Therefore wisdom is supreme. Its cause is study of this teaching.
 </d>
 </f>
-</b>
-</b>
-</b>
-</b>
-<b>
+</c>
+</c>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="mtshan">
 le'u'i mtshan ni/
@@ -39227,9 +39227,9 @@ shes rab kyi pha rol tu phyin pa'i le'u ste dgu pa'o// ! //
 Here ends the ninth chapter of the Bodhicharyavatara, on wisdom.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsngo ba">
 [bsngo ba]
@@ -39238,8 +39238,8 @@ Here ends the ninth chapter of the Bodhicharyavatara, on wisdom.
 PART FOUR. Dedication of the Resulting Merit for the Benefit of Others
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="bsngo">
 ! bzhi pa de ltar spel ba'i 'bras bu gzhan don du bsngo ba'i le'u la/
@@ -39256,7 +39256,7 @@ bsngo ba bsdus te bstan pa dang / rgyas par bshad pa gnyis las/
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="bsdus">
 dang po [bsngo ba bsdus te bstan pa] ni/
@@ -39451,8 +39451,8 @@ Through meditation on compassion, the authentic, profound view will manifest in 
 If one meditates alternately on loving-kindness and compassion, they mutually remove the obstacles peculiar to each. For by meditating on love, the mind can become excessively exhilarated, whereas by meditating on compassion it is possible for the mind to become downcast and despairing. It is said that the meditation on loving-kindness and compassion can, in the best case, preserve all the world’s inhabitants from harm. Then to a less exalted degree, one can, with such meditation, protect the people of one’s homeland. Finally, at the very least, one is able to protect oneself from harm and aggression.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="rgyas">
 gnyis pa [rgyas par bshad pa] la
@@ -39469,7 +39469,7 @@ gzhan don phan pa dang bde ba'i rgyur bsngo ba/ rang don byang chub spyod pa'i r
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="rgyu">
 dang po [gzhan don phan pa dang bde ba'i rgyur bsngo ba] la
@@ -39486,7 +39486,7 @@ dman pa sdug bsngal dang bral bar bsngo ba/ mchog gi dgongs pa rdzogs par bsngo 
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="dman">
 dang po [dman pa sdug bsngal dang bral bar bsngo ba] la/
@@ -39503,7 +39503,7 @@ khams gsum spyi la khyab pa'i sdug bsngal dang bral bar bsngo ba/ ngan song gsum
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="spyi">
 dang po [khams gsum spyi la khyab pa'i sdug bsngal dang bral bar bsngo ba] ni/
@@ -39560,8 +39560,8 @@ As for all-pervading suffering in the making, this will be with us for as long a
 By reflecting that all suffering arises from its proper cause, namely, negative action, we will acquire confident faith in the karmic principle of cause and effect. Understanding that wherever we are born in samsara, high or low, there is nowhere beyond the reach of sorrow, we will feel revulsion for samsaric existence and will be determined to free ourselves from it. And when we consider that of all those who are tormented by suffering, there is not one who has not been our father or our mother, a keen willingness to help others will arise in us. And so it is that the paths of beings of the three scopes are all contained in this practice.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="so so">
 gnyis pa ngan song gsum sogs 'gro ba so so'i sdug bsngal bye brag dang bral bar bsngo ba las/
@@ -40992,9 +40992,9 @@ tshul khrims 'chal ba rnams sam sems can gang su yang rung ste phyi ma la ngan s
 [verse 47] May those who have poor discipline, and indeed anyone else, never have to suffer the three lower realms in their lives to come. And without great toil and difficulty, may they attain a human existence endowed with freedoms and advantages (which, from the point of view of liberation, is far better than a divine existence) and quickly attain perfect buddhahood.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="mchog">
 gnyis pa mchog gi dgongs pa rdzogs par bsngo ba ni/
@@ -41066,9 +41066,9 @@ de bzhin du rten 'brel zab mo rtogs pa'i rang byung gi ye shes kyis byang chub b
 [verse 50] Pratyekabuddhas gain their enlightenment through their own self-arisen wisdom, whereby they understand the profound truth of dependent arising. Shravakas receive teachings from their holy teachers and then expound them to others. May all be endowed with the happiness that occurs when suffering comes to an end; and may they attain the great bliss of ultimate and perfect buddhahood.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="rang don">
 gnyis pa rang don byang chub spyod pa'i rgyur bsngo ba ni/
@@ -41241,8 +41241,8 @@ dmyal ba la sogs pa'i 'gro ba'i sdug bsngal gang ci'ang rung ba yod pa de dag ma
 [verse 56] He prays that all the pains and sorrows of wandering beings should ripen wholly on himself and thus be purified. And thanks to the power of bodhichitta, the twofold accumulation, and the prayers of aspiration of the company of Bodhisattvas, he prays that the infinite multitude of beings might enjoy the perfection of happiness both in the immediate and the ultimate term.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="gnyis don">
 gsum pa gnyis don bstan pa dar rgyas su bsngo ba ni/
@@ -41563,9 +41563,9 @@ But you will never say an untrue word.
 In accordance with such teachings, by being convinced that the karmic law is inescapable, we should strive to make meaningful our existence and our meeting with the supreme Teacher and his teachings.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="mjug">
 gsum pa mjug yongs su rdzogs pa'i bya ba la/ /
@@ -41582,7 +41582,7 @@ bka' drin dran pa'i phyag /le'u'i mtshan/ gang gis brtsam pa'i mdzad byang / mju
 *
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="phyag">
 dang po [bka' drin dran pa'i phyag] ni/
@@ -41615,8 +41615,8 @@ de bzhin du skyes bu dam pa gang dag gi bka' drin gyis bdag khyim nas khyim med 
 In the same way, we too should consider as our teachers all those through whose kindness our minds have absorbed some of the qualities of the Dharma of transmission and realization. And remembering their kindness, we too should respectfully reverence them in thought, word, and deed.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="mtshan">
 gnyis pa [le'u'i mtshan] ni/
@@ -41634,8 +41634,8 @@ bsngo ba zhes bya ba'i le'u ste bcu pa'i 'grel pa'o// //
 Here ends the tenth chapter of the Bodhicharyavatara, on the dedication of merit,
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="mdzad byang">
 gsum pa [gang gis brtsam pa'i mdzad byang] ni/
@@ -41652,8 +41652,8 @@ byang chub sems dpa'i spyod pa la 'jug pa slob dpon chen po shAn+tA de bas te zh
 which brings to an end the Bodhicharyavatara composed by the great master Shantideva.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="'gyur byang">
 bzhi pa [mjug lo tsa bas 'gyur byang bshad pa] ni/
@@ -41701,8 +41701,8 @@ yang dus phyis rgya gar gyi mkhan po su ma ti kIt+ti ste mkhas pa legs pa'i blo 
 Later, the Indian scholar Dharmashribhadra and the Tibetan monks, translators, and editors Rinchen Zangpo and Shakya Lodrö revised and finalized the text according to a manuscript and commentary brought from the central region of India (Magadha). At a still later date, the Indian scholar Sumatikirti and Loden Sherab, the monk and translator from Ngok, revised the text and finalized it in its [present] state of perfection. In his great commentary, Sazang[240] says that the text was corrected, edited, and finalized by the Nepali scholar Sumatikirti and three later translators. And he adds that by comparing the translation with the Sanskrit, he had himself corrected the slight imperfections that had crept into the text during the intervening period.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="smras pa">
 'dir smras pa/
@@ -41817,8 +41817,8 @@ Therefore, in response to this wealth of excellent and favorable circumstances, 
 MANGALAM!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="par byang">
 [par byang]
@@ -41868,7 +41868,7 @@ dge'o//
 *
 </d>
 </f>
-</b>
-</b>
-</b>
+</c>
+</c>
+</c>
 </book>

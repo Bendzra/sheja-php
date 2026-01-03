@@ -5,7 +5,7 @@
 <edition id="2" lang="en" title="The Kagyu Monlam Prayers (2012-2014)" author="Buddha et al." translator="Helene Li Choi"/>
 <edition id="3" lang="ru" title="Собрание текстов великого молитвенного собрания (Монлама) Кагью" author="Будда и др." translator="Карма Дорджи"/>
 </editions>
-<b>
+<c>
 <f>
 <d e="1" crumb="">
 @#//bka' brgyud smon lam chen mo'i zhal 'don phyogs bsgrigs tshogs gnyis 'jug sgo zhes bya ba bzhugs so//
@@ -14,11 +14,11 @@
 The Kagyu Monlam Prayers
 </d>
 <d e="3" crumb="">
-Собрание текстов великого молитвенного собрания (Монлама) Кагью: «Врата, ведущие к совершенствованию двух накоплений» 
+Собрание текстов великого молитвенного собрания (Монлама) <i>Кагью</i>: «<em>Врата, ведущие к совершенствованию двух накоплений</em>» 
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="thog mar">
 [thog mar]
@@ -52,8 +52,8 @@ Om.Pi Sha Tsi.Par Na.Sha Wa Ri.Sa Wa Zo Ra.Tra Sha Ma Ni.So Ha.
 ОМ ПИШАЧИ ПАРНА ШАВАРИ САРВА ДЖВАРА ПРАШАМАНИ СВАХА
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="1. rdo rje rnam 'joms">
 !_rdo rje rnam 'joms/
@@ -614,8 +614,8 @@ Bikshu Choekyong Zangpo, based upon phonetics and verified with Sanskrit and Tib
 монахом Чокён Занпо; он тщательно сверил его с терминами новой системы перевода и санскритской версии.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="2. rnam rgyal ma">
 !_rnam rgyal ma ni/
@@ -821,8 +821,8 @@ And may the various obstacles arising from mara and sickness, Be completely elim
 Прошу также благословения на обретение благостной безмятежности силой отсечения болезнетворных духов и препятствий!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="3. dkon mchog gsum rjes su dran pa'i mdo">
 !_nges 'byung gis rgyud brlan zhing mchog gsum la dang 'dod yid ches mos gus byang sems rtse gcig pas dkon mchog gsum rjes su dran pa'i mdo 'don pa ni/
@@ -1025,8 +1025,8 @@ Recite this stanza slowly and meditate
 Читайте медленно, сосредотачиваясь на смысле слов и пребывая в медитативном равновесии.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="4. skyabs su 'gro ba">
 !_thog mar skyabs su 'gro ba ni/
@@ -1205,8 +1205,8 @@ Recite three times.
 Повторите три раза.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="5. sa gzhi byin rlabs">
 !_de nas tshogs rten sprul zhing tshogs bsag pa'i bskor rje bdun pas smon lam gyi cho ga yan lag nyi shu par bka' stsal pa ltar las cung zad bsdus te/ deng sang phyag bzhes su mdzad pa ni thog mar/
@@ -1220,7 +1220,7 @@ The Branch of Blessing the Earth
 Благословение места:
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="1. gnas pa gsal gdab pa">
 gnas pa gsal gdab pa ni/
@@ -1268,8 +1268,8 @@ Recite three times.
 (Повторите три раза.)
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="2. gzhal med khang...gsal gdab">
 !_gzhal med khang pa gdan dang bcas pa gsal gdab pa ni/
@@ -1425,8 +1425,8 @@ On top of them various pure, resplendent lotus seats have been placed.
 Поверх располагаются ясно различимые разнообразные безупречно чистые лотосовые сидения.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="3. mchod pa gsal gdab pa">
 !_de nas mchod pa gsal gdab pa ni/
@@ -1485,8 +1485,8 @@ They completely fill the very limits of infinite space.
 невообразимых и бесконечных, как пространство,беспредельно и всеохватно заполняет все вокруг.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="4. spyan 'dren pa">
 !_de nas spyan 'dren pa ni/
@@ -1704,8 +1704,8 @@ In order to accept our offerings, We pray that you will remain here.
 чтобы ты принял наши подношения – пожалуйста, оставайся здесь!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="5. khrus gsol ba">
 !_khrus ni/
@@ -1896,9 +1896,9 @@ Om.Bed Jar.We Tra.Ye.So Ha.
 ОМ ВАДЖРА ВАСТРА Е СВАХА
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="6. yan lag bdun pa">
 !_de nas tshogs bsag pa'i dngos gzhi la yan lag bdun yod pa las
@@ -1910,7 +1910,7 @@ The Main Section of the Seven Branch Prayer –
 Далее в главном разделе сборника следует [молитва] семи ветвей,
 </d>
 </f>
-<b>
+<c>
 <f>
 <d e="1" crumb="1. phyag 'tshal ba">
 phyag 'tshal ba ni/
@@ -2518,8 +2518,8 @@ With a multitude of manifestations and praises, I prostrate to the ultimate fait
 атомов во вселенной, склоняюсь и с величайшей преданностью простираюсь!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="2. mchod pa 'bul ba'i yan lag">
 !_mchod pa 'bul ba'i yan lag ni/
@@ -3120,8 +3120,8 @@ May all sentient beings who fill the boundless space be liberated.
 пусть все существа, бесконечные как пространство, освободятся.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="3. bshags pa'i yan lag">
 !_sdig pa bshags pa'i yan lag
@@ -3994,8 +3994,8 @@ I take refuge in you, the exalted one, May these fears of mine be removed swiftl
 принимаю в вас Прибежище, чтобы эти страхи быстро рассеялись.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="4. rjes su yi rang ba'i yan lag">
 !_rjes su yi rang ba'i yan lag
@@ -4104,8 +4104,8 @@ The Pratyekabuddhas, those training on the path, Those beyond training, and all 
 возвращающихся и не возвращающихся Архатов, а также всех обычных существ.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="5. chos 'khor bskor bar skul ba'i yan lag">
 !_chos 'khor bskor bar skul ba'i yan lag
@@ -4167,8 +4167,8 @@ Achieved Buddhahood, the ultimate enlightenment, Protectors, I request you to tu
 я призываю всех защитников поворачивать непревзойденное Колесо Дхармы.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="6. mya ngan las mi 'da' bar gsol ba gdab pa'i yan lag">
 !_mya ngan las mi 'da' bar gsol ba gdab pa'i yan lag
@@ -4230,8 +4230,8 @@ For as many kalpas as there are atoms in the universe, Please remain for the wel
 ради пользы и счастья всех существ оставались с нами в течение стольких кальп, сколько атомов во вселенной.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="7. dge rtsa byang chen du bsngo ba'i yan lag">
 !_dge rtsa byang chen du bsngo ba'i yan lag
@@ -4528,9 +4528,9 @@ Rejoicing, requesting and turning the Wheel of Dharma, I dedicate it to all sent
 просьбы и призывания я посвящаю тому, чтобы все достигли Просветления.
 </d>
 </f>
-</b>
-</b>
-<b>
+</c>
+</c>
+<c>
 <f>
 <d e="1" crumb="7. sdom pa gzung ba'i yan lag">
 !_sdom pa gzung ba'i yan lag la/
@@ -4696,8 +4696,8 @@ May the abode of all Bodhisattvas, Be completely fulfilled just as their aspirat
 Пусть пожелания и устремления всех тех Бодхисаттв, Которые находятся на уровнях [просветления], исполняются!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="8. bde gshegs spyi bstod/">
 !_rang gzhan gyi don rlabs po che bsgrub pa'i slad du sangs rgyas byang sems dang bla ma brgyud pa rnams la bstod cing gsol ba gdab pa'i yan lag la thog mar de bzhin gshegs pa spyi la bstod cing phyag 'tshal ba mdo sde rgyan las 'byung ba ni/
@@ -4947,8 +4947,8 @@ Immovable; free from all inaccurate knowledge, I prostrate to the pure and immac
 [Пребываешь] незыблемо, не строишь концепций относительно каких бы то ни было явлений. Тебе[, обладающему совершенными качествами шести парамит,] я кланяюсь.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="9. sangs rgyas kyi skye rabs brgya rtsa'i sdom gyi tshigs bcad">
 !_rje rang byung rdo rjes mdzad pa'i sangs rgyas kyi skyes rabs brgya rtsa'i sdom gyi tshigs bcad ni/
@@ -5164,8 +5164,8 @@ And attain the same virtuous qualities as yours.
 Довершу качества [этих] деяний!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="10. mdzad pa bcu gnyis kyi bstod pa">
 !_dpa' bo gtsug lag phreng bas gsung thub bstod ni/
@@ -5359,8 +5359,8 @@ May we accomplish all the virtuous activities, And benefit sentient beings to ac
 Дела Будд-Победителей и сыновей Победителей, и таким образом Приведу всех скитающихся существ на твой уровень просветления.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="11.'jams dbyangs bstod pa gang blo ma">
 !_'phags pa 'jam dpal la bstod pa ni/
@@ -5479,8 +5479,8 @@ This Homage Prayer is titled as : “The wisdom and merits of nobles and accompl
 На этом, восхваление, называемое "Благие качества могущественного изначального осознавания", написанное наставником Дордже Цёнча, завершается. Перевел [на тибетский язык] Нок Лоцава.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="11b.'jam dpal la gdung shugs kyis gsol ba">
 !_slar 'phags pa 'jam dpal la gdung shugs kyis gsol ba 'debs pa ni/
@@ -5755,8 +5755,8 @@ With deep understanding of the profound meaning of the Sutras May the powers of 
 И даруй, пожалуйста, вдохновенную мудрость, Постигающую Слова и Комментарии всей традиции писаний!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="12.spyan ras gzigs kyi bstod pa kyai lags ma">
 !_spyan ras gzigs la smre sngags kyis bstod pa rgyal dbang mi bskyod zhabs kyis mdzad pa/
@@ -5958,8 +5958,8 @@ May I clearly perceive in my mind all the disciples who have been taught as such
 Которая ясно возникает в [моём уме –] уме твоего ученика, Происходит созревание и освобождение, высочайший вкус которых[, позволь, я] вкушу!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="13.sgrol ma'i bstod pa tshigs bcad brgyad ma">
 !_sangs rgyas bcom ldan 'das kyis sgrol ma la bstod pa tshigs bcad brgyad pa/
@@ -6083,8 +6083,8 @@ May I swiftly attain the auspicious and flawless accomplishments of Tara, I pros
 Мать-Спасительница, ты делаешь так, чтобы безошибочные результаты достигались быстро, Просветленная победительница, Бхагавати Тара, тебе, Спасительница, я кланяюсь!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="14.gnas brtan bcu drug gi bstod pa">
 !_thub dbang gnas brtan 'khor bcas la gsol ba gdab pa'i tshul ni/
@@ -6628,8 +6628,8 @@ Composed by Mahapandita Shakyashri May there be the auspiciousness of the great 
 [Сочинил] махапандита Шакьяшри. Великие старейшины, да пребудет ваше благословение!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="15.'phags yul rgyan drug mchog gnyis kyi bstod pa">
 !_'phags yul gyi rgyan drug mchog gnyis dang gangs can bstan pa'i rgyan bzhi la bstod pa ni/
@@ -6891,8 +6891,8 @@ Flourishing in all the realms continuously, without any interruptions, May such 
 Пусть оно распространяется повсюду, до самого края. Распространяясь, не прерывается. И постоянно возрастает. И распространившегося да пребудет благословение!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="16.kar rabs bcu drug gi bstod pa">
 !_rgyal ba'i dbang po rim par byon pa la bsdus pa'i tshul gyis gsol ba 'debs pa ni/
@@ -7167,8 +7167,8 @@ May the accomplishments along the path of practice be progressively fulfilled An
 Полностью довершу все качества уровней и путей, и Быстро достигну состояния Ваджрадхары!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="17.'jam dpal mtshan brjod">
 !_'jam dpal mtshan brjod bzhugs so//
@@ -9765,8 +9765,8 @@ This was transmitted by Guru Rinpoche to Shelza Drolma Extracted from the Terma 
 Так от Гуру Ринпоче было оно было передано Щелза Дролме, и открыто тертёном Бенсар Чогме.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="18.shes rab snying po">
 !_rgyal po mdo lnga las shes rab snying po lta ba'i mdo ni/
@@ -10081,8 +10081,8 @@ And applauded the Buddha Bhagavan’s speech and doctrine.
 и живо восхвалили речь Бхагавана.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="19.'da' ka ye shes">
 !_rgyal po mdo lnga las 'da' ka ye shes bsgom pa'i mdo ni/
@@ -10243,8 +10243,8 @@ Thus completes the “Noble Sutra of the Mahayana Wisdom at the Moment of Death�
 Благородная сутра Махаяны «Мудрость порога смерти» завершена.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="20.bzang spyod smon lam">
 !_rgyal po mdo lnga las/ mdo sde phal po che las byung ba'i bzang po spyod pa smon lam gyi rgyal po'i mdo ni/
@@ -11186,8 +11186,8 @@ Translated from Sanskrit, edited and finalized by the Indian scholars Dzina Mitr
 Перевели [на тибетский] индийские пандиты Джинамитра и Сурендрабодхи, редактор проектов (Жучен) почтенный Лоцава Еше Де и другие, и эта версия утверждена как правильная. С тибетского на русский язык перевел Борис Ерохин
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="21.byams pa'i smon lam">
 !_dkon brtsegs le'u zhe gcig pa byams pas zhus pa las byung ba'i byams pa'i smon lam ni/
@@ -11599,8 +11599,8 @@ May I shoulder the burden of all the suffering of sentient beings And completely
 и, неся ответственность за страдания всех существ, буду осуществлять активность, связанную учением Майтреи.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="22.spyod 'jug smon lam">
 !_spyod 'jug las byung ba'i byang chub spyod pa'i smon lam ni/
@@ -12586,8 +12586,8 @@ And to my virtuous friends I also bow, Whose inspiration gave me the strengths t
 Я прославляю своего духовного друга, ибо по его милости я совершенствуюсь.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="23.bde smon shes bya ma">
 !_bde ba can du bgrod pa'i smon lam ni/
@@ -13085,8 +13085,8 @@ This praise of Amitabha with Seven Branch Prayer and Aspiration Prayer was compo
 Эту похвалу Будде Амитабхе, семичастную молитву и молитву-пожелание сложил Кармапа Дешин Шегпа в восточном Тибете, на берегу Желтой реки.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="24.The 3rd Karmapa’s Aspiration Prayer of Mahamudra">
 !_rje rang byung zhabs kyis mdzad pa'i nges don phyag rgya chen po'i smon lam ni/
@@ -13523,8 +13523,8 @@ Be fulfilled spontaneously, just as they are intended.
 Исполнятся точно!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="25.mi 'khrugs pa'i smon lam">
 !_bcom ldan 'das mi 'khrugs pa'i zhing bkod don bsdus kyi smon lam rin po che'i phreng ba bzhugs so//
@@ -13785,8 +13785,8 @@ This aspiration prayer is from “Vajra Buddha Akshobhya’s Mandala Practice”
 Из «Мандалы Садханы Дордже Митругпы», Написанной Чёки Ванчугом.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="26.rje dkon mchog yan lag gi gsung bar do'i smon lam">
 !_bar do'i smon lam ni/
@@ -14665,8 +14665,8 @@ Composed by Shakya Bikshu Könchok Bang (The Fifth Shamarpa)
 Сложил буддийский монах Кёнчхог Банг.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="27.chags med bde smon">
 !_mkhas grub rA ga a s+yas mdzad pa'i rnam dag bde chen zhing gi smon lam rgyas bsdus bzhugs so//
@@ -16347,8 +16347,8 @@ The above prayer is from the Terma of Tulku Migyur Dorje
 Это посвящение заслуги из термы Мингюра Дордже.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="28.'dod gsol smon lam dkon mchog sangs rgyas ma">
 !_'dod gsol smon lam ni/
@@ -16693,8 +16693,8 @@ While praying with great devotion, we also offered and scatter a shower of flowe
 Во время произнесения этих молитв в стихотворной форме необходимо, зародив интенсивное устремление, разбрасывать цветы. Эту молитву сложил Катхог Ригдзин Цеван Норбу. Она содержится в ритуале, известном как «Четвертая мандала» и подобном древу исполнения всех желаний.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="29.smon lam phyogs bcu dus bzhi ma">
 !_phyogs bcu dus bzhi ma/
@@ -16889,8 +16889,8 @@ While all beings are settled in the ultimate and supreme path, May they attain t
 Пусть существа, войдя во врата непревзойденной колесницы, окажутся в великом царстве Самантабхадры.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="30.rje mi bskyod pa'i gsung smon lam bsdus pa">
 !_smon lam bsdus pa ni/
@@ -17011,8 +17011,8 @@ Composed by the Eight Karmapa, Bikshu Mikyö Dorje
 Сложил монах Микё.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="31.smon lam 'grub pa'i gzungs">
 !_smon lam thams cad 'grub pa'i gzungs ni/
@@ -17094,8 +17094,8 @@ Ted Ya Tha.Nak Cha Tra. Sa Wa Ti Tha Na. Shak Tri Na. Me Sa Me Ta Dha Ni.Ba Wen 
 ТАДЪЯТА НАКЩАТРА САРВА ТИТАНА ЩАТРИНА МЕСА МЕТА ДХАНИ БХАВАНТУ СВАХА
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="32.gsang sngags nang gtor dang gtor bsngos bsdus pa">
 !_de nas phyi dro'i dus su bya ba'i gtor ma'i rim pa la gsang sngags nang gtor ni/
@@ -18538,8 +18538,8 @@ Attain Buddhahood, the ultimate enlightenment. As such I dedicate all merits.
 которые когда-либо были моими матерями, достигли уровня совершенного Будды!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="33.bzod gsol">
 !_de nas bzod par gsol ba'i yan lag ni/
@@ -18624,8 +18624,8 @@ Recite three times
 Повторяем три раза.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="34.brtan pa bzhugs gsol">
 !_gshegs su gsol ba'i yan lag ni/
@@ -18671,8 +18671,8 @@ Until our ultimate liberation.
 Спасите и помогите передохнуть [от страданий]!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="35.bkra shis">
 !_bkra shis kyi yan lag ni/ sangs rgyas kyi zhal gsung ni/
@@ -19010,8 +19010,8 @@ May disciples who uphold these teachings increase, May such auspiciousness preva
 Ученики, сохраняющие Учение, распространялись, И учение существовало долго!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="36.sangs rgyas zhal gsung bstan rgyas smon lam">
 !_sangs rgyas kyi gsung bstan rgyas smon lam ni/
@@ -19343,8 +19343,8 @@ And may the world be forever in peaceful bliss.
 Да пребудет счастье в мире навсегда!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="37.sku gsung thugs kyi brtan bzhugs">
 !_brtan bzhugs ni/
@@ -19856,8 +19856,8 @@ May the guardian of all beings enjoy longevity.
 Великий предводитель существ, мы просим тебя, живи долго!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="38.rgyal dbang bcu bdun pa'i zhabs brtan">
 !_dpal rgyal dbang karma pa phrin las mtha' yas rdo rje'i mchog gi zhabs brtan ni/
@@ -20031,8 +20031,8 @@ For the auspiciousness of His Holiness Karmapa Trinley Thaye Dorje and the devel
 Эту молитву обнародовал, ради успешного прохождения учебы и последующего осуществления Будда-действий достославным Гялва Кармапой Тхринле Тхайе Дордже, в великом святом месте Бодхгайя 24 декабря 1996 года тот, кого называют Шамарпа Мипхам ЧёКИ Лодрё.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="39.kun gzigs zhwa dmar pa'i zhabs brtan">
 !_myur byon gsol 'debs drang srong bden pa'i smon tshig ces bya ba bzhugs so//
@@ -20144,8 +20144,8 @@ This is the prayer for the swift rebirth of the reincarnation of the late Kunzig
 Главный секретарь, Джигме Цеван Ринпоче, община Румтека – Щедруб Чёкор Линга, а также монастыря в Ладакхе по названию Карма Друбгью Чёлинг, поднося хадаки – церемониальные шелковые шарфы, говорили о том, что для скорейшего перерождения погрузившегося в покой КУНзиг Шамара Мипам ЧёКИ Лодрё необходимо сразу же написать молитву о его скорейшем возвращении, чтобы можно было с помощью этой молитвы призывать Ламу Шамарпу, и в ответ на их просьбу я, Тринле Тхайе Дордже, которого коснулись частички славы имени ГЯлва Кармапы, семнадцатый монах в линии его перерождений, написал это в Международном Буддийском Институте Кармапы в 15-й день 4-го месяца тибетского календаря, или 13 июня 2014 года по западному стилю, при таком положении звезд и планет, которое способствует распространению добродетели.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="skyabs gnas bslu med...">
 !_skyabs gnas bslu med...
@@ -20254,8 +20254,8 @@ And may they swiftly attain Buddhahood, the state of ultimate enlightenment.
 *
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="40.rje btsun mi la ras pa'i bla ma'i rnal 'byor dang tshogs mchod bzhugs">
 @#/ /rje btsun ras pa chen po la brten pa'i bla ma'i rnal 'byor tshogs mchod dang bcas pa ye shes dpal 'bar zhes bya ba bzhugs so// //
@@ -22312,8 +22312,8 @@ May all beings who come across this, Follow and emulate the example of Jetzun Mi
 Пусть все, кто соприкоснутся с этим текстом, пойдут по стопам великого Джецюна Миларепы.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="41.smon lam chen mo">
 !_smon lam chen mo ni/
@@ -23869,8 +23869,8 @@ This aspiration prayer was composed by the Seventh Karmapa, and revised slightly
 Это великое благопожелание составил Седьмой Кармапа (Чёдраг Гяцо) и слегка исправил Восьмой Кармапой (Микьё Дордже), снабдив исправления пояснениями. Нет никаких сомнений в его подлинности и достоверности.
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="42.bkra shis bdag gi ma">
 !_bkra shis bdag gi ma/
@@ -24339,8 +24339,8 @@ And may the world forever enjoy peaceful bliss.
 Да пребудет оно вечным счастьем Джамбудвипы!
 </d>
 </f>
-</b>
-<b>
+</c>
+<c>
 <f>
 <d e="1" crumb="43.'phags pa bkra shis brgyad pa">
 !_'phags pa bkra shis brgyad pa/
@@ -24460,5 +24460,5 @@ May aspirations be fulfilled just as intended, And may auspiciousness enhance an
 И желаемые цели увеличивались и осуществлялись именно так, как мы желаем. Да пребудет ваше благословение!
 </d>
 </f>
-</b>
+</c>
 </book>

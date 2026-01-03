@@ -17,6 +17,7 @@ class MatchesParserHandler extends DefaultHandler
     private $dropID;      // <d>...</d>
     private $currentTag;  // : String
     private $drop;        // : Drop
+    private $dropFlag;    // : boolean
     private $fuse;        // : Fuse
     private $found;       // : boolean
     private $results;     // : Found
@@ -35,6 +36,7 @@ class MatchesParserHandler extends DefaultHandler
         $this->dropID      = 0;
         $this->currentTag  = null;
         $this->drop        = null;
+        $this->dropFlag    = false;
         $this->fuse        = null;
         $this->found       = false;
         $this->results     = new Found();
@@ -46,7 +48,7 @@ class MatchesParserHandler extends DefaultHandler
         if($this->stop) return;
 
         $this->currentTag = $tag;
-        if ($tag === "edition")
+        if ($tag === $this->editionTag)
         {
             $edition = EditionsParserHandler::newEdition($attr);
             $this->editions[] = $edition;
@@ -54,7 +56,7 @@ class MatchesParserHandler extends DefaultHandler
             $editionCrumbs->setEdition($edition);
             $this->spreadsheet[] = $editionCrumbs;
         }
-        else if ($tag === "b")
+        else if ($tag === $this->branchTag)
         {
             $this->branchID++;
             $this->stepsAway++;
@@ -63,15 +65,16 @@ class MatchesParserHandler extends DefaultHandler
                 $crumbsKeeper->add(new Pair(-1, "_placeholder_"));
             }
         }
-        else if ($tag === "f")
+        else if ($tag === $this->fuseTag)
         {
             $this->fuse = new Fuse();
             $this->fuse->setId(++$this->fuseID);
             $this->found = false;
         }
-        else if ($tag === "d")
+        else if ($tag === $this->dropTag)
         {
             $this->drop = new Drop();
+            $this->dropFlag = true;
             $this->drop->setId(++$this->dropID);
             $this->drop->setFuseId($this->fuseID);
 
@@ -118,7 +121,7 @@ class MatchesParserHandler extends DefaultHandler
     {
         if($this->stop) return;
 
-        if (!is_null($this->currentTag) && $this->currentTag === "d")
+        if ( $this->dropFlag  )
         {
             $this->drop->appendText( $data );
         }
@@ -128,7 +131,7 @@ class MatchesParserHandler extends DefaultHandler
     {
         if($this->stop) return;
 
-        if ($tag === "d")
+        if ($tag === $this->dropTag)
         {
             $integers = $this->drop->findIndexes();
             $t = count($integers);
@@ -137,8 +140,10 @@ class MatchesParserHandler extends DefaultHandler
             {
                 $this->found = true;
             }
+
+            $this->dropFlag = false;
         }
-        else if ($tag === "f")
+        else if ($tag === $this->fuseTag)
         {
             if ($this->found)
             {
@@ -159,7 +164,7 @@ class MatchesParserHandler extends DefaultHandler
                 }
             }
         }
-        else if ($tag === "b")
+        else if ($tag === $this->branchTag)
         {
             $this->stepsAway--;
             foreach($this->spreadsheet as &$crumbsKeeper)

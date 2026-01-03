@@ -9,13 +9,15 @@ include_once dirname(__DIR__) . "/parser/DefaultHandler.php";
 class TestParserHandler extends DefaultHandler
 {
     private $currentTag;
+    private $dropFlag;
     private $drop;
-    public $found;
+    public  $found;
 
     public function __construct()
     {
         parent::__construct();
         $this->currentTag = null;
+        $this->dropFlag = false;
         $this->drop = new Drop();
         $this->found = false;
     }
@@ -25,8 +27,9 @@ class TestParserHandler extends DefaultHandler
         if($this->stop) return;
 
         $this->currentTag = $tag;
-        if ($tag === "d")
+        if ($tag === $this->dropTag)
         {
+            $this->dropFlag = true;
             $this->drop->setText("");
         }
     }
@@ -35,13 +38,15 @@ class TestParserHandler extends DefaultHandler
     {
         if($this->stop) return;
 
-        if ($tag === "d")
+        if ($tag === $this->dropTag)
         {
             if ( count($this->drop->findIndexes()) > 0 )
             {
                 $this->found = true;
                 $this->stop = true;
             }
+
+            $this->dropFlag = false;
         }
     }
 
@@ -49,7 +54,7 @@ class TestParserHandler extends DefaultHandler
     {
         if($this->stop) return;
 
-        if (!is_null($this->currentTag) && $this->currentTag === "d")
+        if ($this->dropFlag)
         {
             $this->drop->appendText( $data );
         }

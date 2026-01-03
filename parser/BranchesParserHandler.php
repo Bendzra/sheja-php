@@ -50,7 +50,8 @@ class BranchesParserHandler extends DefaultHandler
         if($this->stop) return;
 
         $this->currentTag = $tag;
-        if ($tag === "b")
+
+        if ($tag === $this->branchTag)
         {
             $this->branch_count++;
             if ($this->branch_count === $this->branch_id)
@@ -63,7 +64,7 @@ class BranchesParserHandler extends DefaultHandler
                 $this->branch_stack_size++;
             }
         }
-        else if ($tag === "d")
+        else if ($tag === $this->dropTag)
         {
             $this->drop_count++;
             if ($this->branch_stack_size > 0)
@@ -100,13 +101,17 @@ class BranchesParserHandler extends DefaultHandler
                 }
             }
         }
+        else if ($this->branch_stack_size > 0 && $this->dropFlag)
+        {
+            $this->drop->appendText( "<" . $tag . ">" );
+        }
     }
 
     function endElement($sax, $tag)
     {
         if($this->stop) return;
 
-        if ($tag === "b")
+        if ($tag === $this->branchTag)
         {
             if ($this->branch_stack_size > 0) // pop
             {
@@ -118,7 +123,7 @@ class BranchesParserHandler extends DefaultHandler
                 $this->stop = true;
             }
         }
-        else if ($tag === "d")
+        else if ($tag === $this->dropTag)
         {
             if ($this->crambFlag)
             {
@@ -141,13 +146,17 @@ class BranchesParserHandler extends DefaultHandler
 			$this->rootFlag = false;
             $this->dropFlag = false;
         }
+        else if ($this->branch_stack_size > 0 && $this->dropFlag)
+        {
+            $this->drop->appendText( "</" . $tag . ">" );
+        }
     }
 
     function characters($sax, $data)
     {
         if($this->stop) return;
 
-        if (!is_null($this->currentTag) && $this->currentTag === "d" && $this->branch_stack_size > 0 && $this->dropFlag)
+        if ($this->branch_stack_size > 0 && $this->dropFlag)
         {
             for ($i = 0; $i < strlen($data); $i++)
             {

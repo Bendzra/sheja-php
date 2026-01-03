@@ -12,15 +12,23 @@
       </xs:simpleContent>
     </xs:complexType>
   </xs:element>
+  <!-- <xs:element name="i" type="xs:string"/> -->
+  <!-- <xs:element name="b" type="xs:string"/> -->
+  <!-- <xs:element name="em" type="xs:string"/> -->
+  <!-- <xs:element name="sup" type="xs:string"/> -->
+  <!-- <xs:element name="blockquote" type="xs:string"/> -->
   <xs:element name="d">
-    <xs:complexType>
-      <xs:simpleContent>
-        <xs:extension base="xs:string">
-          <xs:attribute type="xs:byte" name="e" use="required"/>
-          <xs:attribute type="xs:string" name="crumb" use="optional"/>
-          <xs:attribute type="xs:byte" name="root" use="optional"/>
-        </xs:extension>
-      </xs:simpleContent>
+    <xs:complexType mixed="true">
+      <!-- <xs:sequence> -->
+        <!-- <xs:element ref="i" minOccurs="0"/> -->
+        <!-- <xs:element ref="b" minOccurs="0"/> -->
+        <!-- <xs:element ref="em" minOccurs="0"/> -->
+        <!-- <xs:element ref="sup" minOccurs="0"/> -->
+        <!-- <xs:element ref="blockquote" minOccurs="0"/> -->
+      <!-- </xs:sequence> -->
+	  <xs:attribute type="xs:byte" name="e" use="required"/>
+	  <xs:attribute type="xs:string" name="crumb" use="optional"/>
+	  <xs:attribute type="xs:byte" name="root" use="optional"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="f">
@@ -30,11 +38,11 @@
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="b">
+  <xs:element name="c">
     <xs:complexType>
       <xs:choice maxOccurs="unbounded" minOccurs="1">
         <xs:element ref="f" maxOccurs="unbounded" minOccurs="1"/>
-        <xs:element ref="b" maxOccurs="unbounded" minOccurs="0"/>
+        <xs:element ref="c" maxOccurs="unbounded" minOccurs="0"/>
       </xs:choice>
     </xs:complexType>
   </xs:element>
@@ -51,7 +59,7 @@
     <xs:complexType>
       <xs:sequence>
         <xs:element ref="editions" maxOccurs="1" minOccurs="1"/>
-        <xs:element ref="b" maxOccurs="unbounded" minOccurs="1"/>
+        <xs:element ref="c" maxOccurs="unbounded" minOccurs="1"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>

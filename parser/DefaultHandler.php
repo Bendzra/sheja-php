@@ -5,6 +5,14 @@ abstract class DefaultHandler
     protected $sax = null;
     protected $stop = false;
 
+    // Названия тегов должны соответствовать xml-схеме
+    protected $dropTag      = "d";
+    protected $fuseTag      = "f";
+    protected $branchTag    = "c";
+    protected $editionTag   = "edition";
+    protected $editionsTag  = "editions";
+    protected $bookTag      = "book";
+
     function __construct()
     {
         $this->sax = null;
@@ -43,7 +51,7 @@ abstract class DefaultHandler
             {
                 if(!$is_final)
                 {
-                    echo (sprintf("XML Error: %s at line %d", xml_error_string(xml_get_error_code($this->sax)), xml_get_current_line_number($this->sax))) . "<br>";
+                    echo (sprintf("XML Error: %s at line %d", xml_error_string(xml_get_error_code($this->sax)), xml_get_current_line_number($this->sax))) . "<br />";
                 }
                 break;
             }

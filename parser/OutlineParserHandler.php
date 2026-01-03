@@ -45,7 +45,7 @@ class OutlineParserHandler extends DefaultHandler
         if($this->stop) return;
 
         $this->currentTag = $tag;
-        if ($tag === "d")
+        if ($tag === $this->dropTag)
         {
             $this->drop_count++;
 
@@ -74,13 +74,17 @@ class OutlineParserHandler extends DefaultHandler
                 }
             }
         }
+        if ($this->dropFlag && $this->crambFlag)
+        {
+            $this->drop->appendText( "<" . $tag . ">" );
+        }
     }
 
     function endElement($sax, $tag)
     {
         if($this->stop) return;
 
-        if ($tag === "d")
+        if ($tag === $this->dropTag)
         {
             if ($this->dropFlag && $this->crambFlag)
             {
@@ -90,9 +94,13 @@ class OutlineParserHandler extends DefaultHandler
             $this->dropFlag = false;
             $this->crambFlag = false;
         }
-        else if ($tag === "b")
+        else if ($tag === $this->branchTag)
         {
             $this->drops[count($this->drops) - 1]->appendText(PHP_EOL . "</ul>");
+        }
+        if ($this->dropFlag && $this->crambFlag)
+        {
+            $this->drop->appendText( "</" . $tag . ">" );
         }
     }
 
@@ -100,7 +108,7 @@ class OutlineParserHandler extends DefaultHandler
     {
         if($this->stop) return;
 
-        if (!is_null($this->currentTag) && $this->currentTag === "d" && $this->dropFlag && $this->crambFlag)
+        if ($this->dropFlag && $this->crambFlag)
         {
             $this->drop->appendText($data);
         }

@@ -23,12 +23,12 @@ class EditionsParserHandler extends DefaultHandler
     {
         if($this->stop) return;
 
-        if ($tag === "editions")
+        if ($tag === $this->editionsTag)
         {
             $this->checked = ("true" === strtolower($attr["checked"]));
             $this->ul = $attr["ul"];
         }
-        else if ($tag === "edition")
+        else if ($tag === $this->editionTag)
         {
             $edition = self::newEdition($attr);
             $this->editions[] = $edition;
@@ -39,7 +39,7 @@ class EditionsParserHandler extends DefaultHandler
     {
         if($this->stop) return;
 
-        if ($tag === "editions")
+        if ($tag === $this->editionsTag)
         {
             $this->stop = true;
         }
