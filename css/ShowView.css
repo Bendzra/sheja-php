@@ -1,0 +1,39 @@
+.drop {
+	padding-top: 0.75em;
+}
+
+sup {
+	color: var(--danger);
+	font-weight: normal;
+}
+
+.drop p {
+	padding: 0;
+	margin: 0;
+}
+
+.vewable > div {
+	color: var(--primary);
+}
+
+.root {
+	font-weight: bold;
+}
+
+.quote {
+	color: darkgoldenrod;
+	padding: 0.75em 10% 0.75em 10%;
+	font-weight: bolder;
+}
+
+.verse {
+	margin-left:10%;
+	text-indent:-10%;
+	color: darkgoldenrod;
+	padding: 0.75em 10% 0.75em 10%;
+	font-weight: bolder;
+}
+.note {
+	color: var(--gray);
+}
+

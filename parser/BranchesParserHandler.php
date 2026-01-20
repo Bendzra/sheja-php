@@ -80,30 +80,40 @@ class BranchesParserHandler extends DefaultHandler
 
                 if ($this->dropFlag)
                 {
+                    $div_drop_class = "<div class='drop";
+
                     if($this->drop_count === $this->drop_id)
                     {
-                        $this->drop->appendText("<div class='text-primary vewable'>");
+                        $div_drop_class .= " vewable";
                     }
-
 
                     if (isset($attr["crumb"]))
                     {
 						$hn = min($this->branch_stack_size, 6);
-                        $this->drop->appendText("<h" . $hn . ">");
+                        $div_drop_class .= " crumb h$hn";
                         $this->crambFlag = true;
                     }
                     else if (isset($attr["root"]))
                     {
-                        $this->drop->appendText("<strong>");
+                        $div_drop_class .= " root";
                         $this->rootFlag = true;
                     }
 
+                    $this->drop->appendText("$div_drop_class'><p>");
                 }
             }
         }
         else if ($this->branch_stack_size > 0 && $this->dropFlag)
         {
-            $this->drop->appendText( "<" . $tag . ">" );
+            $s = "<$tag";
+            if (count($attr) > 0)
+            {
+                foreach ($attr as $attr_name => $attr_value)
+                {
+                    $s .= " $attr_name=\"$attr_value\"";
+                }
+            }
+            $this->drop->appendText( "$s>" );
         }
     }
 
@@ -125,22 +135,13 @@ class BranchesParserHandler extends DefaultHandler
         }
         else if ($tag === $this->dropTag)
         {
-            if ($this->crambFlag)
+            if ($this->dropFlag)
             {
-				$hn = min($this->branch_stack_size, 6);
-                $this->drop->appendText("</h" . $hn . ">");
-            }
-			if ($this->rootFlag)
-            {
-                $this->drop->appendText("</strong>");
-            }
-            if ($this->dropFlag && $this->drop_count === $this->drop_id)
-            {
-                $this->drop->appendText("</div>");
-            }
-            if ($this->branch_stack_size > 0 && $this->dropFlag)
-            {
-                $this->drops[] = $this->drop;
+                $this->drop->appendText("</p></div>");
+                if ($this->branch_stack_size > 0)
+                {
+                    $this->drops[] = $this->drop;
+                }
             }
             $this->crambFlag = false;
 			$this->rootFlag = false;
@@ -166,7 +167,7 @@ class BranchesParserHandler extends DefaultHandler
 				}
                 else if ($data[$i] === "\n")
                 {
-                    $this->drop->appendText("<br />" . PHP_EOL);
+                    $this->drop->appendText("</p>" . PHP_EOL . "<p>");
                 }
                 else
                 {

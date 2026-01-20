@@ -16903,10 +16903,10 @@ ii. The Title [of the Chapter]
 </d>
 </f>
 <f>
-<d e="1">
-{root} zab mo nang gi don rnam par bshad pa las/ snod la sbyar ba bstan pa ste bdun pa'o/ / {/root}
+<d e="1" root="1">
+zab mo nang gi don rnam par bshad pa las/ snod la sbyar ba bstan pa ste bdun pa'o/ /
 </d>
-<d e="2">
+<d e="2" root="1">
 Within the explication of The Profound Inner Principles, this concludes chapter 7: “The Presentation of the Correspondences with the Environment.”
 </d>
 </f>

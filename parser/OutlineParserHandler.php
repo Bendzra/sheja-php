@@ -76,7 +76,15 @@ class OutlineParserHandler extends DefaultHandler
         }
         if ($this->dropFlag && $this->crambFlag)
         {
-            $this->drop->appendText( "<" . $tag . ">" );
+            $s = "<$tag";
+            if (count($attr) > 0)
+            {
+                foreach ($attr as $attr_name => $attr_value)
+                {
+                    $s .= " $attr_name=\"$attr_value\"";
+                }
+            }
+            $this->drop->appendText( "$s>" );
         }
     }
 

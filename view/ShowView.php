@@ -11,6 +11,7 @@ ShowController::doGet();
 <head>
 <?php
 include_once dirname(__DIR__) . "/includes/common.head.php";
+include_once dirname(__DIR__) . "/includes/ShowView.head.php";
 ?>
     <title>Show</title>
 </head>
