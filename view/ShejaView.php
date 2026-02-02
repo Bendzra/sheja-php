@@ -56,7 +56,7 @@
 
 <div class="container">
 
-    <form action="" method="GET" target="_blank">
+    <form id="shejaForm" action="" method="GET" target="_blank">
         <?php
             $ul = null;
             echo "<div class='book-list'>" . PHP_EOL;
@@ -189,7 +189,77 @@
 <?php
 include_once dirname(__DIR__) . "/includes/common.shoes.php";
 ?>
-<script src="js/shejaView.js"></script>
+<script type="text/javascript" src="js/shejaView.js"></script>
+<script type="text/javascript" src="js/u2W.js"></script>
+<script type="text/javascript">
+
+    const shejaForm = document.getElementById('shejaForm');
+    const qInput = shejaForm.querySelector('input[name="q"]');
+    const rInput = shejaForm.querySelector('input[name="regex"]');
+
+    function escapeRegStr(s)
+    {
+        const escChars = "[]{}()^$.*+?|\\/-=:";
+
+        if (rInput.checked) {
+            s = s.split('').map( (char) => ( escChars.indexOf(char) > -1 ) ? `\\${char}` : char ).join('');
+        }
+        return s;
+    }
+
+    function processForm(e)
+    {
+        if (e.preventDefault) e.preventDefault();
+
+        // console.log(qInput.value);
+
+        const text = qInput.value;
+
+        // processing Tibetan segments:
+        // Tibetan unicode: \u0F00-\u0FFF = 3840-4095
+
+        let uniStr = "", str = "";
+        let uniFlag = true;
+
+        for (let i = 0; i < text.length; i++)
+        {
+            const ch = text.charAt(i);
+            const code = ch.charCodeAt(0);
+
+            if ( 3839 < code && code < 4096 ) {
+                if (uniFlag) {
+                    uniStr += ch;
+                } else {
+                    uniStr = ch;
+                    uniFlag = true;
+                }
+            } else {
+                if (uniFlag) {
+                    str += escapeRegStr(to_ewts(uniStr)) + ch;
+                    uniFlag = false;
+                } else {
+                    str += ch;
+                }
+            }
+        }
+
+        if (uniFlag) {
+            str += escapeRegStr(to_ewts(uniStr));
+            uniFlag = false
+        }
+
+        qInput.value = str;
+
+        // console.log(qInput.value);
+
+        shejaForm.submit();
+        return false;
+    }
+
+    if (shejaForm.attachEvent) { shejaForm.attachEvent("submit", processForm); }
+    else { shejaForm.addEventListener("submit", processForm); }
+
+</script>
 
 </body>
 </html>

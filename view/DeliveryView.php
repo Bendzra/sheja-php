@@ -8,6 +8,7 @@
     include_once dirname(__DIR__) . "/model/Book.php";
     include_once dirname(__DIR__) . "/model/Found.php";
     include_once dirname(__DIR__) . "/model/BookShelf.php";
+    include_once dirname(__DIR__) . "/model/SearchOptions.php";
 
     include_once dirname(__DIR__) . "/controller/DeliveryController.php";
     DeliveryController::boltVolumes();
@@ -34,8 +35,15 @@
     {
        $msg = include dirname(__DIR__) . '/includes/on.error.page.php';
        echo str_replace (
-            ['{{param.info}}',                                                    '{{param.error}}',  '{{param.proposal}}'],
-            ["the <span class='text-danger'>search results</span> delivery page", "No entries found", "Start over from the main search page!"],
+            [
+                '{{param.info}}',
+                '{{param.error}}',
+                '{{param.proposal}}'],
+            [
+                "the <span class='text-danger'>search results</span> delivery page",
+                "<span class='text-warning'>" . SearchOptions::$searchString . "</span><br/>No entries found",
+                "Start over from the main search page!"
+            ],
             $msg
         );
 }
