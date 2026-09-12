@@ -44,6 +44,11 @@ class SearchOptions
             );
 
             $searchString = str_replace($rx, $rt, $searchString);
+			
+			// меняем апострофы и диакритические знаки
+			$ax = "/['‘’‛]/u";
+			$at = "['‘’‛]";
+			$searchString = preg_replace($ax, $at, $searchString);
         }
 
         if (self::$fMatchWord)
