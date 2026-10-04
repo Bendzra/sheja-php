@@ -22,8 +22,9 @@ sup {
 }
 
 .root {
-	font-weight: bold;
-	padding: 0.75em 10% 0.75em 10%;
+	color: black !important;
+	font-weight: black !important;
+	padding: 0.75em 10% 0.75em 10% !important;
 }
 
 .quote {
@@ -33,8 +34,13 @@ sup {
 }
 
 .verse {
-	margin-left:10%;
+	color: #887334;
+	padding-top:0.75em;
+	padding-bottom:0.75em;
+
+	margin-left:calc(20% - 0.75em);
 	text-indent:-10%;
+	font-weight: 500;
 }
 
 .note {
@@ -49,3 +55,78 @@ sup {
 .note:last-child {
 	padding-bottom: 0.5em;
 }
+
+/* // --- // */
+
+.root > .quote:first-child {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.root > .quote:last-child {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.root > .verse:first-child {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.root > .verse:last-child {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+/* // --- // */
+
+.quote > .quote:first-child {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.quote > .quote:last-child {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.quote > .verse:first-child {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.quote > .verse:last-child {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.root.verse {
+	margin-top: 0;
+	padding-top: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	margin-left: calc(10% - 1.5em);
+}
+
+/* // --- // */
+
+.note > .quote:first-child {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.note > .quote:last-child {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.note > .verse:first-child {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.note > .verse:last-child {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
