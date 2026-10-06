@@ -8,7 +8,7 @@ sup {
 }
 
 .note sup {
-	color: var(--gray-dark);
+	color: var(--teal);
 	font-weight: 500;
 }
 
@@ -23,7 +23,7 @@ sup {
 
 .root {
 	color: black !important;
-	font-weight: black !important;
+	font-weight: bold !important;
 	padding: 0.75em 10% 0.75em 10% !important;
 }
 
@@ -45,6 +45,7 @@ sup {
 
 .note {
 	color: var(--gray);
+	font-size: small;
 	/* padding: 0.5em 0em 0.5em 0em; */
 }
 
